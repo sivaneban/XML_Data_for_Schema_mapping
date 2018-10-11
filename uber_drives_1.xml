@@ -1,0 +1,4954 @@
+<Drives>
+	<Drive>
+		<START_TIME>1/1/2016 21:11</START_TIME>
+		<END_TIME>1/1/2016 21:17</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Fort Pierce</START_PLACE>
+		<STOP_PLACE>Fort Pierce</STOP_PLACE>
+		<Distace>5.1</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/2/2016 20:25</START_TIME>
+		<END_TIME>1/2/2016 20:38</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Fort Pierce</START_PLACE>
+		<STOP_PLACE>Fort Pierce</STOP_PLACE>
+		<Distace>4.8</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/6/2016 14:42</START_TIME>
+		<END_TIME>1/6/2016 15:49</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Fort Pierce</START_PLACE>
+		<STOP_PLACE>West Palm Beach</STOP_PLACE>
+		<Distace>63.7</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/6/2016 17:30</START_TIME>
+		<END_TIME>1/6/2016 17:35</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>West Palm Beach</START_PLACE>
+		<STOP_PLACE>Palm Beach</STOP_PLACE>
+		<Distace>7.1</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/10/2016 8:05</START_TIME>
+		<END_TIME>1/10/2016 8:25</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>8.3</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/10/2016 15:08</START_TIME>
+		<END_TIME>1/10/2016 15:51</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>New York</START_PLACE>
+		<STOP_PLACE>Queens</STOP_PLACE>
+		<Distace>10.8</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/10/2016 19:12</START_TIME>
+		<END_TIME>1/10/2016 19:32</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Midtown</START_PLACE>
+		<STOP_PLACE>East Harlem</STOP_PLACE>
+		<Distace>6.2</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/11/2016 11:56</START_TIME>
+		<END_TIME>1/11/2016 12:03</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Flatiron District</START_PLACE>
+		<STOP_PLACE>Midtown</STOP_PLACE>
+		<Distace>1.6</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/11/2016 14:30</START_TIME>
+		<END_TIME>1/11/2016 14:43</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Midtown East</START_PLACE>
+		<STOP_PLACE>Midtown</STOP_PLACE>
+		<Distace>1.9</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/12/2016 12:53</START_TIME>
+		<END_TIME>1/12/2016 13:09</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Hudson Square</START_PLACE>
+		<STOP_PLACE>Lower Manhattan</STOP_PLACE>
+		<Distace>4.0</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/12/2016 15:13</START_TIME>
+		<END_TIME>1/12/2016 15:28</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Hudson Square</START_PLACE>
+		<STOP_PLACE>Hell's Kitchen</STOP_PLACE>
+		<Distace>2.4</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/12/2016 16:02</START_TIME>
+		<END_TIME>1/12/2016 17:00</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>New York</START_PLACE>
+		<STOP_PLACE>Queens County</STOP_PLACE>
+		<Distace>15.1</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/13/2016 15:00</START_TIME>
+		<END_TIME>1/13/2016 15:28</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Gulfton</START_PLACE>
+		<STOP_PLACE>Downtown</STOP_PLACE>
+		<Distace>11.8</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/14/2016 21:39</START_TIME>
+		<END_TIME>1/14/2016 21:45</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Eagan Park</START_PLACE>
+		<STOP_PLACE>Jamestown Court</STOP_PLACE>
+		<Distace>3.9</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/15/2016 11:43</START_TIME>
+		<END_TIME>1/15/2016 12:03</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Durham</STOP_PLACE>
+		<Distace>10.4</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/18/2016 14:55</START_TIME>
+		<END_TIME>1/18/2016 15:06</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>4.8</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/19/2016 9:09</START_TIME>
+		<END_TIME>1/19/2016 9:23</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Lake Wellingborough</STOP_PLACE>
+		<Distace>7.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>1/20/2016 10:36</START_TIME>
+		<END_TIME>1/20/2016 11:11</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Raleigh</STOP_PLACE>
+		<Distace>17.1</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/20/2016 13:25</START_TIME>
+		<END_TIME>1/20/2016 14:19</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Raleigh</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>40.2</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/21/2016 14:43</START_TIME>
+		<END_TIME>1/21/2016 14:51</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>2.4</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/26/2016 10:41</START_TIME>
+		<END_TIME>1/26/2016 10:50</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Hazelwood</STOP_PLACE>
+		<Distace>2.0</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/26/2016 16:24</START_TIME>
+		<END_TIME>1/26/2016 16:32</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Westpark Place</STOP_PLACE>
+		<Distace>1.9</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/26/2016 17:27</START_TIME>
+		<END_TIME>1/26/2016 17:29</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>0.5</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/27/2016 10:19</START_TIME>
+		<END_TIME>1/27/2016 10:48</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Raleigh</STOP_PLACE>
+		<Distace>18.7</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/27/2016 14:05</START_TIME>
+		<END_TIME>1/27/2016 14:13</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Raleigh</START_PLACE>
+		<STOP_PLACE>Raleigh</STOP_PLACE>
+		<Distace>2.7</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/28/2016 12:28</START_TIME>
+		<END_TIME>1/28/2016 13:00</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Raleigh</STOP_PLACE>
+		<Distace>19.0</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/28/2016 16:21</START_TIME>
+		<END_TIME>1/28/2016 16:51</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Raleigh</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>15.7</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/29/2016 10:56</START_TIME>
+		<END_TIME>1/29/2016 11:07</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>5.2</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/29/2016 13:24</START_TIME>
+		<END_TIME>1/29/2016 13:47</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>10.1</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/29/2016 21:21</START_TIME>
+		<END_TIME>1/29/2016 21:40</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Apex</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>5.5</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>1/30/2016 18:09</START_TIME>
+		<END_TIME>1/30/2016 18:24</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Apex</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>5.7</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/1/2016 12:10</START_TIME>
+		<END_TIME>2/1/2016 12:43</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Chapel Hill</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>23.3</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/2/2016 13:04</START_TIME>
+		<END_TIME>2/2/2016 13:23</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Williamsburg Manor</STOP_PLACE>
+		<Distace>8.3</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/2/2016 14:38</START_TIME>
+		<END_TIME>2/2/2016 14:42</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>1.6</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/4/2016 9:37</START_TIME>
+		<END_TIME>2/4/2016 10:09</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>9.7</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/4/2016 15:59</START_TIME>
+		<END_TIME>2/4/2016 16:03</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>1.1</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/4/2016 18:04</START_TIME>
+		<END_TIME>2/4/2016 18:31</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Macgregor Downs</STOP_PLACE>
+		<Distace>9.0</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/5/2016 11:47</START_TIME>
+		<END_TIME>2/5/2016 12:07</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Durham</STOP_PLACE>
+		<Distace>10.4</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/6/2016 16:20</START_TIME>
+		<END_TIME>2/6/2016 16:53</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Raleigh</STOP_PLACE>
+		<Distace>11.4</Distace>
+		<PURPOSE>Between Offices</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/6/2016 19:28</START_TIME>
+		<END_TIME>2/6/2016 19:37</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Edgehill Farms</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>3.2</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/7/2016 18:03</START_TIME>
+		<END_TIME>2/7/2016 18:17</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Apex</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>5.7</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/7/2016 20:22</START_TIME>
+		<END_TIME>2/7/2016 20:40</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>6.1</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/8/2016 14:00</START_TIME>
+		<END_TIME>2/8/2016 14:10</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Edgehill Farms</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>2.7</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/9/2016 11:43</START_TIME>
+		<END_TIME>2/9/2016 11:50</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Northwoods</START_PLACE>
+		<STOP_PLACE>Tanglewood</STOP_PLACE>
+		<Distace>3.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>2/9/2016 13:58</START_TIME>
+		<END_TIME>2/9/2016 14:02</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Preston</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>1.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>2/9/2016 20:24</START_TIME>
+		<END_TIME>2/9/2016 20:40</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>6.1</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/11/2016 17:49</START_TIME>
+		<END_TIME>2/11/2016 18:10</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Eastgate</START_PLACE>
+		<STOP_PLACE>Walnut Terrace</STOP_PLACE>
+		<Distace>5.7</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/11/2016 20:36</START_TIME>
+		<END_TIME>2/11/2016 20:51</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>6.1</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/12/2016 10:45</START_TIME>
+		<END_TIME>2/12/2016 10:52</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>2.6</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/12/2016 13:02</START_TIME>
+		<END_TIME>2/12/2016 13:36</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Raleigh</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>18.0</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/12/2016 15:33</START_TIME>
+		<END_TIME>2/12/2016 16:06</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>11.5</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/13/2016 23:45</START_TIME>
+		<END_TIME>2/14/2016 0:01</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>East Elmhurst</START_PLACE>
+		<STOP_PLACE>Jackson Heights</STOP_PLACE>
+		<Distace>2.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>2/14/2016 14:07</START_TIME>
+		<END_TIME>2/14/2016 14:40</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>East Elmhurst</START_PLACE>
+		<STOP_PLACE>New York</STOP_PLACE>
+		<Distace>8.1</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/14/2016 16:35</START_TIME>
+		<END_TIME>2/14/2016 17:02</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>New York</START_PLACE>
+		<STOP_PLACE>Long Island City</STOP_PLACE>
+		<Distace>13.0</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/16/2016 3:21</START_TIME>
+		<END_TIME>2/16/2016 4:13</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Katunayaka</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>43.7</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/16/2016 10:31</START_TIME>
+		<END_TIME>2/16/2016 10:41</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Colombo</START_PLACE>
+		<STOP_PLACE>Colombo</STOP_PLACE>
+		<Distace>2.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>2/16/2016 12:39</START_TIME>
+		<END_TIME>2/16/2016 12:42</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Colombo</START_PLACE>
+		<STOP_PLACE>Colombo</STOP_PLACE>
+		<Distace>1.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>2/16/2016 16:34</START_TIME>
+		<END_TIME>2/16/2016 17:10</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Colombo</START_PLACE>
+		<STOP_PLACE>Colombo</STOP_PLACE>
+		<Distace>6.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>2/16/2016 17:40</START_TIME>
+		<END_TIME>2/16/2016 17:44</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Nugegoda</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>3.6</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/17/2016 15:17</START_TIME>
+		<END_TIME>2/17/2016 15:22</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Colombo</START_PLACE>
+		<STOP_PLACE>Colombo</STOP_PLACE>
+		<Distace>1.7</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/17/2016 16:38</START_TIME>
+		<END_TIME>2/17/2016 16:43</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Katunayaka</START_PLACE>
+		<STOP_PLACE>Katunayaka</STOP_PLACE>
+		<Distace>0.5</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/18/2016 14:03</START_TIME>
+		<END_TIME>2/18/2016 14:45</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>12.7</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/18/2016 18:44</START_TIME>
+		<END_TIME>2/18/2016 18:58</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>5.2</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/19/2016 9:02</START_TIME>
+		<END_TIME>2/19/2016 9:14</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>18.3</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/19/2016 10:21</START_TIME>
+		<END_TIME>2/19/2016 10:48</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>7.6</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/19/2016 11:45</START_TIME>
+		<END_TIME>2/19/2016 11:50</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>1.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>2/19/2016 16:26</START_TIME>
+		<END_TIME>2/19/2016 16:45</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>3.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>2/19/2016 20:08</START_TIME>
+		<END_TIME>2/19/2016 20:30</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>13.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>2/20/2016 7:59</START_TIME>
+		<END_TIME>2/20/2016 8:32</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>14.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>2/20/2016 11:45</START_TIME>
+		<END_TIME>2/20/2016 11:53</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>1.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>2/20/2016 14:50</START_TIME>
+		<END_TIME>2/20/2016 15:54</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>R?walpindi</START_PLACE>
+		<STOP_PLACE>R?walpindi</STOP_PLACE>
+		<Distace>23.1</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/20/2016 18:00</START_TIME>
+		<END_TIME>2/20/2016 18:03</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>3.2</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/21/2016 9:07</START_TIME>
+		<END_TIME>2/21/2016 9:46</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>14.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>2/21/2016 11:47</START_TIME>
+		<END_TIME>2/21/2016 12:01</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>4.6</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/21/2016 12:51</START_TIME>
+		<END_TIME>2/21/2016 13:12</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>8.3</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/21/2016 14:36</START_TIME>
+		<END_TIME>2/21/2016 15:03</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>13.0</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/21/2016 15:36</START_TIME>
+		<END_TIME>2/21/2016 15:41</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Noorpur Shahan</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>2.2</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/21/2016 23:15</START_TIME>
+		<END_TIME>2/21/2016 23:52</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>R?walpindi</STOP_PLACE>
+		<Distace>20.0</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/24/2016 14:30</START_TIME>
+		<END_TIME>2/24/2016 14:35</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Preston</STOP_PLACE>
+		<Distace>1.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>2/25/2016 16:27</START_TIME>
+		<END_TIME>2/25/2016 16:35</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Heritage Pines</STOP_PLACE>
+		<Distace>3.1</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/25/2016 17:16</START_TIME>
+		<END_TIME>2/25/2016 17:36</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Tanglewood</STOP_PLACE>
+		<Distace>6.0</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/26/2016 9:06</START_TIME>
+		<END_TIME>2/26/2016 9:29</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Westpark Place</STOP_PLACE>
+		<Distace>6.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>2/26/2016 11:35</START_TIME>
+		<END_TIME>2/26/2016 11:59</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Durham</STOP_PLACE>
+		<Distace>10.6</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/26/2016 14:38</START_TIME>
+		<END_TIME>2/26/2016 14:46</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Westpark Place</STOP_PLACE>
+		<Distace>1.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>2/26/2016 17:01</START_TIME>
+		<END_TIME>2/26/2016 17:12</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Hazelwood</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>2.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>2/28/2016 9:26</START_TIME>
+		<END_TIME>2/28/2016 9:42</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Waverly Place</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>6.8</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/29/2016 11:30</START_TIME>
+		<END_TIME>2/29/2016 11:40</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Apex</STOP_PLACE>
+		<Distace>3.8</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>2/29/2016 14:55</START_TIME>
+		<END_TIME>2/29/2016 15:03</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Hazelwood</STOP_PLACE>
+		<Distace>2.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>3/1/2016 18:47</START_TIME>
+		<END_TIME>3/1/2016 19:10</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Wayne Ridge</STOP_PLACE>
+		<Distace>8.0</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/3/2016 9:45</START_TIME>
+		<END_TIME>3/3/2016 9:52</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Westpark Place</STOP_PLACE>
+		<Distace>2.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>3/3/2016 14:44</START_TIME>
+		<END_TIME>3/3/2016 14:58</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Northwoods</STOP_PLACE>
+		<Distace>5.2</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/3/2016 16:02</START_TIME>
+		<END_TIME>3/3/2016 16:42</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Raleigh</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>17.3</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/4/2016 9:46</START_TIME>
+		<END_TIME>3/4/2016 10:03</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>9.9</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/4/2016 13:03</START_TIME>
+		<END_TIME>3/4/2016 13:25</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>10.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/4/2016 15:56</START_TIME>
+		<END_TIME>3/4/2016 16:08</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Raleigh</START_PLACE>
+		<STOP_PLACE>Raleigh</STOP_PLACE>
+		<Distace>4.9</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/4/2016 16:43</START_TIME>
+		<END_TIME>3/4/2016 17:12</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Raleigh</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>13.5</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/4/2016 19:16</START_TIME>
+		<END_TIME>3/4/2016 19:25</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>2.0</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/5/2016 12:57</START_TIME>
+		<END_TIME>3/5/2016 13:12</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Weston</START_PLACE>
+		<STOP_PLACE>Weston</STOP_PLACE>
+		<Distace>4.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>3/5/2016 14:39</START_TIME>
+		<END_TIME>3/5/2016 15:01</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Wayne Ridge</STOP_PLACE>
+		<Distace>7.8</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/5/2016 17:23</START_TIME>
+		<END_TIME>3/5/2016 17:34</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>3.9</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/7/2016 9:23</START_TIME>
+		<END_TIME>3/7/2016 9:47</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Raleigh</STOP_PLACE>
+		<Distace>12.4</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/7/2016 13:57</START_TIME>
+		<END_TIME>3/7/2016 14:18</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Meredith Townes</START_PLACE>
+		<STOP_PLACE>Leesville Hollow</STOP_PLACE>
+		<Distace>9.4</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/8/2016 14:38</START_TIME>
+		<END_TIME>3/8/2016 14:55</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Waverly Place</STOP_PLACE>
+		<Distace>7.2</Distace>
+		<PURPOSE>Between Offices</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/8/2016 16:13</START_TIME>
+		<END_TIME>3/8/2016 16:25</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>1.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>3/10/2016 10:08</START_TIME>
+		<END_TIME>3/10/2016 10:37</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>East Austin</START_PLACE>
+		<STOP_PLACE>West University</STOP_PLACE>
+		<Distace>12.8</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/10/2016 16:18</START_TIME>
+		<END_TIME>3/10/2016 16:28</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>South Congress</START_PLACE>
+		<STOP_PLACE>Arts District</STOP_PLACE>
+		<Distace>1.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>3/11/2016 10:29</START_TIME>
+		<END_TIME>3/11/2016 10:36</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Congress Ave District</START_PLACE>
+		<STOP_PLACE>Downtown</STOP_PLACE>
+		<Distace>0.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>3/11/2016 13:43</START_TIME>
+		<END_TIME>3/11/2016 13:51</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Red River District</START_PLACE>
+		<STOP_PLACE>Downtown</STOP_PLACE>
+		<Distace>1.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>3/12/2016 9:13</START_TIME>
+		<END_TIME>3/12/2016 9:22</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>The Drag</START_PLACE>
+		<STOP_PLACE>South Congress</STOP_PLACE>
+		<Distace>2.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>3/13/2016 9:07</START_TIME>
+		<END_TIME>3/13/2016 9:37</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>The Drag</START_PLACE>
+		<STOP_PLACE>Convention Center District</STOP_PLACE>
+		<Distace>5.7</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/13/2016 20:07</START_TIME>
+		<END_TIME>3/13/2016 20:28</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Georgian Acres</START_PLACE>
+		<STOP_PLACE>The Drag</STOP_PLACE>
+		<Distace>6.2</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/13/2016 21:11</START_TIME>
+		<END_TIME>3/13/2016 21:23</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>North Austin</START_PLACE>
+		<STOP_PLACE>Coxville</STOP_PLACE>
+		<Distace>7.2</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/14/2016 8:34</START_TIME>
+		<END_TIME>3/14/2016 8:49</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>The Drag</START_PLACE>
+		<STOP_PLACE>South Congress</STOP_PLACE>
+		<Distace>2.0</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/15/2016 8:45</START_TIME>
+		<END_TIME>3/15/2016 8:57</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>The Drag</START_PLACE>
+		<STOP_PLACE>Convention Center District</STOP_PLACE>
+		<Distace>2.0</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/16/2016 11:34</START_TIME>
+		<END_TIME>3/16/2016 11:45</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>The Drag</START_PLACE>
+		<STOP_PLACE>Congress Ave District</STOP_PLACE>
+		<Distace>1.7</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/16/2016 18:43</START_TIME>
+		<END_TIME>3/16/2016 18:56</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>West University</START_PLACE>
+		<STOP_PLACE>Congress Ave District</STOP_PLACE>
+		<Distace>2.1</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/17/2016 12:52</START_TIME>
+		<END_TIME>3/17/2016 15:11</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Austin</START_PLACE>
+		<STOP_PLACE>Katy</STOP_PLACE>
+		<Distace>136.0</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/17/2016 17:20</START_TIME>
+		<END_TIME>3/17/2016 18:02</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Midtown</START_PLACE>
+		<STOP_PLACE>Alief</STOP_PLACE>
+		<Distace>15.5</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/17/2016 20:57</START_TIME>
+		<END_TIME>3/17/2016 21:28</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Houston</START_PLACE>
+		<STOP_PLACE>Houston</STOP_PLACE>
+		<Distace>12.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>3/18/2016 7:15</START_TIME>
+		<END_TIME>3/18/2016 7:21</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Midtown</START_PLACE>
+		<STOP_PLACE>Midtown</STOP_PLACE>
+		<Distace>1.1</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/18/2016 18:24</START_TIME>
+		<END_TIME>3/18/2016 19:08</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Midtown</START_PLACE>
+		<STOP_PLACE>Sharpstown</STOP_PLACE>
+		<Distace>13.2</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/18/2016 21:01</START_TIME>
+		<END_TIME>3/18/2016 21:15</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Sharpstown</START_PLACE>
+		<STOP_PLACE>Midtown</STOP_PLACE>
+		<Distace>9.2</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/19/2016 12:50</START_TIME>
+		<END_TIME>3/19/2016 13:13</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Houston</START_PLACE>
+		<STOP_PLACE>Sugar Land</STOP_PLACE>
+		<Distace>12.0</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/19/2016 15:34</START_TIME>
+		<END_TIME>3/19/2016 16:38</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Houston</START_PLACE>
+		<STOP_PLACE>Galveston</STOP_PLACE>
+		<Distace>36.5</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/19/2016 17:37</START_TIME>
+		<END_TIME>3/19/2016 17:47</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Port Bolivar</START_PLACE>
+		<STOP_PLACE>Port Bolivar</STOP_PLACE>
+		<Distace>2.1</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/19/2016 18:53</START_TIME>
+		<END_TIME>3/19/2016 19:29</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Port Bolivar</START_PLACE>
+		<STOP_PLACE>Galveston</STOP_PLACE>
+		<Distace>7.5</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/20/2016 7:37</START_TIME>
+		<END_TIME>3/20/2016 7:48</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Midtown</START_PLACE>
+		<STOP_PLACE>Washington Avenue</STOP_PLACE>
+		<Distace>5.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/20/2016 17:08</START_TIME>
+		<END_TIME>3/20/2016 17:34</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Midtown</START_PLACE>
+		<STOP_PLACE>Sharpstown</STOP_PLACE>
+		<Distace>10.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>3/20/2016 18:45</START_TIME>
+		<END_TIME>3/20/2016 19:06</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Briar Meadow</START_PLACE>
+		<STOP_PLACE>Midtown</STOP_PLACE>
+		<Distace>9.6</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/21/2016 16:05</START_TIME>
+		<END_TIME>3/21/2016 16:13</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Downtown</START_PLACE>
+		<STOP_PLACE>Midtown</STOP_PLACE>
+		<Distace>0.9</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/21/2016 20:18</START_TIME>
+		<END_TIME>3/21/2016 20:55</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Sharpstown</START_PLACE>
+		<STOP_PLACE>Midtown</STOP_PLACE>
+		<Distace>25.6</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/22/2016 12:06</START_TIME>
+		<END_TIME>3/22/2016 12:24</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>8.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>3/23/2016 14:37</START_TIME>
+		<END_TIME>3/23/2016 14:42</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Preston</STOP_PLACE>
+		<Distace>1.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>3/24/2016 19:47</START_TIME>
+		<END_TIME>3/24/2016 19:54</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Westpark Place</STOP_PLACE>
+		<Distace>2.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>3/25/2016 13:24</START_TIME>
+		<END_TIME>3/25/2016 16:22</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Latta</STOP_PLACE>
+		<Distace>144.0</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/25/2016 22:54</START_TIME>
+		<END_TIME>3/26/2016 1:39</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Jacksonville</START_PLACE>
+		<STOP_PLACE>Kissimmee</STOP_PLACE>
+		<Distace>201.0</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/26/2016 15:19</START_TIME>
+		<END_TIME>3/26/2016 15:49</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Kissimmee</START_PLACE>
+		<STOP_PLACE>Orlando</STOP_PLACE>
+		<Distace>8.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>3/27/2016 0:31</START_TIME>
+		<END_TIME>3/27/2016 0:40</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lake Reams</START_PLACE>
+		<STOP_PLACE>Lake Reams</STOP_PLACE>
+		<Distace>2.1</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/27/2016 15:31</START_TIME>
+		<END_TIME>3/27/2016 15:56</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kissimmee</START_PLACE>
+		<STOP_PLACE>Orlando</STOP_PLACE>
+		<Distace>6.1</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/27/2016 23:04</START_TIME>
+		<END_TIME>3/27/2016 23:18</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Orlando</START_PLACE>
+		<STOP_PLACE>Kissimmee</STOP_PLACE>
+		<Distace>7.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>3/28/2016 19:30</START_TIME>
+		<END_TIME>3/28/2016 20:23</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Couples Glen</START_PLACE>
+		<STOP_PLACE>Vista East</STOP_PLACE>
+		<Distace>27.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>3/29/2016 15:27</START_TIME>
+		<END_TIME>3/29/2016 16:11</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Kissimmee</START_PLACE>
+		<STOP_PLACE>Orlando</STOP_PLACE>
+		<Distace>13.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>3/29/2016 20:29</START_TIME>
+		<END_TIME>3/29/2016 20:44</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Sky Lake</START_PLACE>
+		<STOP_PLACE>Sand Lake Commons</STOP_PLACE>
+		<Distace>6.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>3/30/2016 22:05</START_TIME>
+		<END_TIME>3/30/2016 22:55</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Orlando</START_PLACE>
+		<STOP_PLACE>Kissimmee</STOP_PLACE>
+		<Distace>28.8</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>3/31/2016 14:37</START_TIME>
+		<END_TIME>3/31/2016 15:09</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Orlando</START_PLACE>
+		<STOP_PLACE>Kissimmee</STOP_PLACE>
+		<Distace>16.4</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/1/2016 14:36</START_TIME>
+		<END_TIME>4/1/2016 15:24</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kissimmee</START_PLACE>
+		<STOP_PLACE>Orlando</STOP_PLACE>
+		<Distace>15.5</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/1/2016 16:52</START_TIME>
+		<END_TIME>4/1/2016 16:57</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Kissimmee</START_PLACE>
+		<STOP_PLACE>Kissimmee</STOP_PLACE>
+		<Distace>0.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>4/2/2016 11:01</START_TIME>
+		<END_TIME>4/2/2016 11:16</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Kissimmee</START_PLACE>
+		<STOP_PLACE>Kissimmee</STOP_PLACE>
+		<Distace>5.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>4/2/2016 16:57</START_TIME>
+		<END_TIME>4/2/2016 18:09</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Daytona Beach</START_PLACE>
+		<STOP_PLACE>Jacksonville</STOP_PLACE>
+		<Distace>80.5</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/2/2016 23:11</START_TIME>
+		<END_TIME>4/3/2016 1:34</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Ridgeland</START_PLACE>
+		<STOP_PLACE>Florence</STOP_PLACE>
+		<Distace>144.0</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/5/2016 21:39</START_TIME>
+		<END_TIME>4/5/2016 21:55</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Wayne Ridge</STOP_PLACE>
+		<Distace>7.9</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/7/2016 18:20</START_TIME>
+		<END_TIME>4/7/2016 18:39</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>6.1</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/8/2016 12:30</START_TIME>
+		<END_TIME>4/8/2016 12:48</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Durham</STOP_PLACE>
+		<Distace>10.5</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/8/2016 13:55</START_TIME>
+		<END_TIME>4/8/2016 14:03</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Westpark Place</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>1.8</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/8/2016 16:05</START_TIME>
+		<END_TIME>4/8/2016 16:47</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Raleigh</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>18.6</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/12/2016 9:34</START_TIME>
+		<END_TIME>4/12/2016 9:53</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Raleigh</STOP_PLACE>
+		<Distace>8.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/12/2016 12:22</START_TIME>
+		<END_TIME>4/12/2016 12:44</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Raleigh</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>15.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/14/2016 7:29</START_TIME>
+		<END_TIME>4/14/2016 8:09</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Holly Springs</STOP_PLACE>
+		<Distace>15.3</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/15/2016 11:36</START_TIME>
+		<END_TIME>4/15/2016 12:07</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Raleigh</STOP_PLACE>
+		<Distace>11.9</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/15/2016 14:31</START_TIME>
+		<END_TIME>4/15/2016 15:01</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Raleigh</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>15.2</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/16/2016 15:10</START_TIME>
+		<END_TIME>4/16/2016 15:26</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>6.1</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/19/2016 19:57</START_TIME>
+		<END_TIME>4/19/2016 20:19</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Wayne Ridge</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>8.0</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/22/2016 10:10</START_TIME>
+		<END_TIME>4/22/2016 10:40</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Raleigh</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>22.5</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/22/2016 13:02</START_TIME>
+		<END_TIME>4/22/2016 13:26</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>10.0</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/23/2016 18:49</START_TIME>
+		<END_TIME>4/23/2016 19:05</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Tanglewood</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>6.5</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/24/2016 19:46</START_TIME>
+		<END_TIME>4/24/2016 19:52</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Chessington</START_PLACE>
+		<STOP_PLACE>Chessington</STOP_PLACE>
+		<Distace>1.9</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/27/2016 13:30</START_TIME>
+		<END_TIME>4/27/2016 13:40</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Burtrose</STOP_PLACE>
+		<Distace>4.9</Distace>
+		<PURPOSE>Between Offices</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/28/2016 12:09</START_TIME>
+		<END_TIME>4/28/2016 12:34</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Raleigh</STOP_PLACE>
+		<Distace>12.4</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/28/2016 22:10</START_TIME>
+		<END_TIME>4/28/2016 22:28</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>5.5</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/29/2016 13:13</START_TIME>
+		<END_TIME>4/29/2016 13:34</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>10.0</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/29/2016 22:44</START_TIME>
+		<END_TIME>4/29/2016 23:19</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>18.2</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>4/30/2016 22:16</START_TIME>
+		<END_TIME>4/30/2016 22:34</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Waverly Place</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>6.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>5/1/2016 14:26</START_TIME>
+		<END_TIME>5/1/2016 14:31</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Westpark Place</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>2.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>5/1/2016 17:54</START_TIME>
+		<END_TIME>5/1/2016 18:10</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Tanglewood</START_PLACE>
+		<STOP_PLACE>Parkway</STOP_PLACE>
+		<Distace>7.5</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/2/2016 14:14</START_TIME>
+		<END_TIME>5/2/2016 14:21</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Westpark Place</STOP_PLACE>
+		<Distace>2.2</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/3/2016 22:20</START_TIME>
+		<END_TIME>5/3/2016 22:28</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>2.5</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/4/2016 20:55</START_TIME>
+		<END_TIME>5/4/2016 21:14</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Mcvan</START_PLACE>
+		<STOP_PLACE>Capitol One</STOP_PLACE>
+		<Distace>14.5</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/4/2016 22:19</START_TIME>
+		<END_TIME>5/4/2016 22:27</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>University District</START_PLACE>
+		<STOP_PLACE>Capitol One</STOP_PLACE>
+		<Distace>5.0</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/5/2016 22:34</START_TIME>
+		<END_TIME>5/5/2016 22:40</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Redmond</START_PLACE>
+		<STOP_PLACE>Bellevue</STOP_PLACE>
+		<Distace>2.9</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/6/2016 5:47</START_TIME>
+		<END_TIME>5/6/2016 6:02</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Capitol One</START_PLACE>
+		<STOP_PLACE>Mcvan</STOP_PLACE>
+		<Distace>14.4</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/6/2016 17:18</START_TIME>
+		<END_TIME>5/6/2016 17:44</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>7.9</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/9/2016 14:39</START_TIME>
+		<END_TIME>5/9/2016 15:06</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>San Francisco</START_PLACE>
+		<STOP_PLACE>Palo Alto</STOP_PLACE>
+		<Distace>20.5</Distace>
+		<PURPOSE>Between Offices</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/9/2016 19:35</START_TIME>
+		<END_TIME>5/9/2016 19:59</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Sunnyvale</START_PLACE>
+		<STOP_PLACE>Newark</STOP_PLACE>
+		<Distace>17.6</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/10/2016 17:19</START_TIME>
+		<END_TIME>5/10/2016 17:31</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Menlo Park</START_PLACE>
+		<STOP_PLACE>Newark</STOP_PLACE>
+		<Distace>7.9</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/11/2016 21:47</START_TIME>
+		<END_TIME>5/11/2016 22:04</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>8.1</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/14/2016 23:01</START_TIME>
+		<END_TIME>5/14/2016 23:05</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>3.1</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/17/2016 13:56</START_TIME>
+		<END_TIME>5/17/2016 14:08</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Preston</START_PLACE>
+		<STOP_PLACE>Westpark Place</STOP_PLACE>
+		<Distace>2.7</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/18/2016 9:11</START_TIME>
+		<END_TIME>5/18/2016 9:41</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>8.4</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/19/2016 14:37</START_TIME>
+		<END_TIME>5/19/2016 15:01</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Old City</START_PLACE>
+		<STOP_PLACE>Parkway Museums</STOP_PLACE>
+		<Distace>2.9</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/20/2016 15:43</START_TIME>
+		<END_TIME>5/20/2016 16:12</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>8.2</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/22/2016 18:46</START_TIME>
+		<END_TIME>5/22/2016 18:53</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>2.5</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/23/2016 21:09</START_TIME>
+		<END_TIME>5/23/2016 21:21</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Savon Height</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>3.6</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/27/2016 20:47</START_TIME>
+		<END_TIME>5/27/2016 20:53</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Savon Height</START_PLACE>
+		<STOP_PLACE>Kilarney Woods</STOP_PLACE>
+		<Distace>1.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>5/28/2016 0:15</START_TIME>
+		<END_TIME>5/28/2016 0:21</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kilarney Woods</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>4.7</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/28/2016 14:35</START_TIME>
+		<END_TIME>5/28/2016 15:04</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>11.3</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>5/31/2016 16:02</START_TIME>
+		<END_TIME>5/31/2016 16:39</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Raleigh</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>14.0</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/1/2016 10:19</START_TIME>
+		<END_TIME>6/1/2016 10:47</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>6.7</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/3/2016 11:29</START_TIME>
+		<END_TIME>6/3/2016 11:49</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Durham</STOP_PLACE>
+		<Distace>10.4</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/3/2016 15:31</START_TIME>
+		<END_TIME>6/3/2016 15:54</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>6.0</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/3/2016 18:41</START_TIME>
+		<END_TIME>6/3/2016 18:53</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>3.1</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/3/2016 22:47</START_TIME>
+		<END_TIME>6/3/2016 23:06</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>4.0</Distace>
+		<PURPOSE>Between Offices</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/5/2016 15:06</START_TIME>
+		<END_TIME>6/5/2016 15:22</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>7.8</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/5/2016 18:05</START_TIME>
+		<END_TIME>6/5/2016 18:14</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>2.5</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/5/2016 23:52</START_TIME>
+		<END_TIME>6/6/2016 0:08</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>9.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/6/2016 16:16</START_TIME>
+		<END_TIME>6/6/2016 16:24</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Hazelwood</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>2.4</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/6/2016 21:08</START_TIME>
+		<END_TIME>6/6/2016 21:37</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Apex</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>7.2</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/6/2016 23:34</START_TIME>
+		<END_TIME>6/6/2016 23:48</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>9.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/7/2016 23:41</START_TIME>
+		<END_TIME>6/8/2016 0:04</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>9.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/8/2016 12:04</START_TIME>
+		<END_TIME>6/8/2016 13:01</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Jamaica</START_PLACE>
+		<STOP_PLACE>New York</STOP_PLACE>
+		<Distace>22.3</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/8/2016 14:31</START_TIME>
+		<END_TIME>6/8/2016 14:37</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Medical Centre</START_PLACE>
+		<STOP_PLACE>Tudor City</STOP_PLACE>
+		<Distace>0.7</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/8/2016 17:16</START_TIME>
+		<END_TIME>6/8/2016 17:18</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Soho</START_PLACE>
+		<STOP_PLACE>Tribeca</STOP_PLACE>
+		<Distace>0.5</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/8/2016 20:11</START_TIME>
+		<END_TIME>6/8/2016 20:25</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Financial District</START_PLACE>
+		<STOP_PLACE>Kips Bay</STOP_PLACE>
+		<Distace>4.8</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/10/2016 21:47</START_TIME>
+		<END_TIME>6/10/2016 22:04</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Durham</STOP_PLACE>
+		<Distace>10.4</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/11/2016 17:08</START_TIME>
+		<END_TIME>6/11/2016 17:16</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>3.7</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/11/2016 17:50</START_TIME>
+		<END_TIME>6/11/2016 17:56</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Westpark Place</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>1.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>6/11/2016 23:39</START_TIME>
+		<END_TIME>6/12/2016 0:05</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>9.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/12/2016 20:05</START_TIME>
+		<END_TIME>6/12/2016 20:16</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>4.3</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/13/2016 5:23</START_TIME>
+		<END_TIME>6/13/2016 5:42</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>8.4</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/13/2016 18:08</START_TIME>
+		<END_TIME>6/13/2016 18:47</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Emeryville</START_PLACE>
+		<STOP_PLACE>Berkeley</STOP_PLACE>
+		<Distace>3.9</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/13/2016 20:00</START_TIME>
+		<END_TIME>6/13/2016 20:05</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Oakland</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>5.2</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/14/2016 16:09</START_TIME>
+		<END_TIME>6/14/2016 16:39</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>San Francisco</START_PLACE>
+		<STOP_PLACE>Emeryville</STOP_PLACE>
+		<Distace>11.6</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/14/2016 17:27</START_TIME>
+		<END_TIME>6/14/2016 17:57</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Downtown</START_PLACE>
+		<STOP_PLACE>Bay Farm Island</STOP_PLACE>
+		<Distace>9.3</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/15/2016 15:26</START_TIME>
+		<END_TIME>6/15/2016 15:34</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>CBD</START_PLACE>
+		<STOP_PLACE>Lower Garden District</STOP_PLACE>
+		<Distace>1.9</Distace>
+		<PURPOSE>Between Offices</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/15/2016 17:29</START_TIME>
+		<END_TIME>6/15/2016 17:49</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Lakeview</START_PLACE>
+		<STOP_PLACE>Storyville</STOP_PLACE>
+		<Distace>5.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>6/16/2016 13:36</START_TIME>
+		<END_TIME>6/16/2016 14:30</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>New Orleans</START_PLACE>
+		<STOP_PLACE>Metairie</STOP_PLACE>
+		<Distace>14.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>6/16/2016 15:17</START_TIME>
+		<END_TIME>6/16/2016 15:41</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kenner</START_PLACE>
+		<STOP_PLACE>New Orleans</STOP_PLACE>
+		<Distace>15.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>6/16/2016 21:43</START_TIME>
+		<END_TIME>6/16/2016 21:56</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kenner</START_PLACE>
+		<STOP_PLACE>New Orleans</STOP_PLACE>
+		<Distace>13.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>6/18/2016 0:29</START_TIME>
+		<END_TIME>6/18/2016 0:51</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>8.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>6/19/2016 5:51</START_TIME>
+		<END_TIME>6/19/2016 6:00</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Raleigh</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>5.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>6/21/2016 17:11</START_TIME>
+		<END_TIME>6/21/2016 18:02</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Raleigh</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>16.6</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/24/2016 11:54</START_TIME>
+		<END_TIME>6/24/2016 12:01</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Waverly Place</START_PLACE>
+		<STOP_PLACE>Macgregor Downs</STOP_PLACE>
+		<Distace>2.1</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/24/2016 12:50</START_TIME>
+		<END_TIME>6/24/2016 13:12</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Raleigh</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>9.0</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/24/2016 14:01</START_TIME>
+		<END_TIME>6/24/2016 14:20</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>8.4</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/25/2016 9:03</START_TIME>
+		<END_TIME>6/25/2016 9:12</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>CBD</START_PLACE>
+		<STOP_PLACE>Bywater</STOP_PLACE>
+		<Distace>4.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>6/25/2016 10:18</START_TIME>
+		<END_TIME>6/25/2016 10:25</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Chalmette</START_PLACE>
+		<STOP_PLACE>Arabi</STOP_PLACE>
+		<Distace>1.1</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/25/2016 11:25</START_TIME>
+		<END_TIME>6/25/2016 11:34</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Pontchartrain Shores</START_PLACE>
+		<STOP_PLACE>Pontchartrain Shores</STOP_PLACE>
+		<Distace>1.7</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/25/2016 19:47</START_TIME>
+		<END_TIME>6/25/2016 19:58</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Storyville</START_PLACE>
+		<STOP_PLACE>Marigny</STOP_PLACE>
+		<Distace>1.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>6/26/2016 17:43</START_TIME>
+		<END_TIME>6/26/2016 18:18</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>New Orleans</START_PLACE>
+		<STOP_PLACE>Kenner</STOP_PLACE>
+		<Distace>12.6</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/26/2016 19:41</START_TIME>
+		<END_TIME>6/26/2016 19:50</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kenner</START_PLACE>
+		<STOP_PLACE>Kenner</STOP_PLACE>
+		<Distace>2.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>6/27/2016 7:37</START_TIME>
+		<END_TIME>6/27/2016 8:48</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>New Orleans</START_PLACE>
+		<STOP_PLACE>Covington</STOP_PLACE>
+		<Distace>46.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>6/27/2016 9:05</START_TIME>
+		<END_TIME>6/27/2016 9:33</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Covington</START_PLACE>
+		<STOP_PLACE>Covington</STOP_PLACE>
+		<Distace>8.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>6/27/2016 10:22</START_TIME>
+		<END_TIME>6/27/2016 10:39</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Covington</START_PLACE>
+		<STOP_PLACE>Covington</STOP_PLACE>
+		<Distace>7.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>6/27/2016 11:06</START_TIME>
+		<END_TIME>6/27/2016 11:24</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Covington</START_PLACE>
+		<STOP_PLACE>Mandeville</STOP_PLACE>
+		<Distace>4.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>6/27/2016 12:22</START_TIME>
+		<END_TIME>6/27/2016 13:02</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Mandeville</START_PLACE>
+		<STOP_PLACE>Metairie</STOP_PLACE>
+		<Distace>30.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>6/27/2016 21:09</START_TIME>
+		<END_TIME>6/27/2016 21:19</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Jamestown Court</START_PLACE>
+		<STOP_PLACE>Jamestown Court</STOP_PLACE>
+		<Distace>1.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>6/28/2016 20:13</START_TIME>
+		<END_TIME>6/28/2016 20:33</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Durham</STOP_PLACE>
+		<Distace>10.4</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/28/2016 23:34</START_TIME>
+		<END_TIME>6/28/2016 23:59</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>9.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>6/29/2016 10:22</START_TIME>
+		<END_TIME>6/29/2016 10:38</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>7.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>6/29/2016 12:11</START_TIME>
+		<END_TIME>6/29/2016 12:16</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Westpark Place</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>1.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>6/29/2016 23:38</START_TIME>
+		<END_TIME>6/30/2016 0:00</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>9.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/1/2016 0:00</START_TIME>
+		<END_TIME>7/1/2016 0:25</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>9.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/1/2016 12:36</START_TIME>
+		<END_TIME>7/1/2016 13:00</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Raleigh</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>11.3</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/1/2016 23:48</START_TIME>
+		<END_TIME>7/2/2016 0:09</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>9.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/2/2016 23:48</START_TIME>
+		<END_TIME>7/3/2016 0:12</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>9.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/3/2016 3:02</START_TIME>
+		<END_TIME>7/3/2016 3:08</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>3.1</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/4/2016 0:32</START_TIME>
+		<END_TIME>7/4/2016 0:47</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>9.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/4/2016 18:23</START_TIME>
+		<END_TIME>7/4/2016 18:49</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Summerwinds</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>8.7</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/5/2016 0:00</START_TIME>
+		<END_TIME>7/5/2016 0:05</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Parkwood</START_PLACE>
+		<STOP_PLACE>Parkwood</STOP_PLACE>
+		<Distace>1.2</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/5/2016 16:48</START_TIME>
+		<END_TIME>7/5/2016 16:52</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>0.6</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/5/2016 22:41</START_TIME>
+		<END_TIME>7/5/2016 23:02</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>8.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/6/2016 9:06</START_TIME>
+		<END_TIME>7/6/2016 9:25</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Durham</STOP_PLACE>
+		<Distace>9.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/6/2016 20:04</START_TIME>
+		<END_TIME>7/6/2016 20:14</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>3.3</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/7/2016 8:22</START_TIME>
+		<END_TIME>7/7/2016 8:50</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>7.9</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/7/2016 12:59</START_TIME>
+		<END_TIME>7/7/2016 13:35</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kenner</START_PLACE>
+		<STOP_PLACE>New Orleans</STOP_PLACE>
+		<Distace>12.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/8/2016 10:51</START_TIME>
+		<END_TIME>7/8/2016 11:12</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Pontchartrain Beach</START_PLACE>
+		<STOP_PLACE>CBD</STOP_PLACE>
+		<Distace>7.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/8/2016 17:11</START_TIME>
+		<END_TIME>7/8/2016 17:30</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kenner</START_PLACE>
+		<STOP_PLACE>New Orleans</STOP_PLACE>
+		<Distace>13.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/9/2016 9:52</START_TIME>
+		<END_TIME>7/9/2016 10:06</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kenner</START_PLACE>
+		<STOP_PLACE>Metairie</STOP_PLACE>
+		<Distace>4.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/10/2016 14:10</START_TIME>
+		<END_TIME>7/10/2016 14:17</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>CBD</START_PLACE>
+		<STOP_PLACE>St Thomas</STOP_PLACE>
+		<Distace>1.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/10/2016 18:05</START_TIME>
+		<END_TIME>7/10/2016 18:21</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>New Orleans</START_PLACE>
+		<STOP_PLACE>Kenner</STOP_PLACE>
+		<Distace>13.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/12/2016 16:10</START_TIME>
+		<END_TIME>7/12/2016 16:45</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>New Orleans</START_PLACE>
+		<STOP_PLACE>Kenner</STOP_PLACE>
+		<Distace>12.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/12/2016 23:47</START_TIME>
+		<END_TIME>7/13/2016 0:11</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>8.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/13/2016 13:25</START_TIME>
+		<END_TIME>7/13/2016 13:39</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>2.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/14/2016 15:51</START_TIME>
+		<END_TIME>7/14/2016 15:59</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>3.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/14/2016 16:39</START_TIME>
+		<END_TIME>7/14/2016 20:05</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Banner Elk</STOP_PLACE>
+		<Distace>195.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/15/2016 12:09</START_TIME>
+		<END_TIME>7/15/2016 12:19</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Banner Elk</START_PLACE>
+		<STOP_PLACE>Banner Elk</STOP_PLACE>
+		<Distace>3.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/15/2016 15:03</START_TIME>
+		<END_TIME>7/15/2016 15:33</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Elk Park</START_PLACE>
+		<STOP_PLACE>Banner Elk</STOP_PLACE>
+		<Distace>12.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/16/2016 13:14</START_TIME>
+		<END_TIME>7/16/2016 14:10</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Banner Elk</START_PLACE>
+		<STOP_PLACE>Newland</STOP_PLACE>
+		<Distace>28.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/16/2016 15:29</START_TIME>
+		<END_TIME>7/16/2016 16:57</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Newland</START_PLACE>
+		<STOP_PLACE>Boone</STOP_PLACE>
+		<Distace>41.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/16/2016 21:45</START_TIME>
+		<END_TIME>7/16/2016 22:18</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Banner Elk</START_PLACE>
+		<STOP_PLACE>Banner Elk</STOP_PLACE>
+		<Distace>13.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/17/2016 11:23</START_TIME>
+		<END_TIME>7/17/2016 11:50</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Banner Elk</START_PLACE>
+		<STOP_PLACE>Boone</STOP_PLACE>
+		<Distace>15.1</Distace>
+		<PURPOSE>Charity ($)</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/18/2016 10:37</START_TIME>
+		<END_TIME>7/18/2016 10:49</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>4.1</Distace>
+		<PURPOSE>Moving</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/18/2016 11:25</START_TIME>
+		<END_TIME>7/18/2016 11:36</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Northwoods</START_PLACE>
+		<STOP_PLACE>Preston</STOP_PLACE>
+		<Distace>3.3</Distace>
+		<PURPOSE>Moving</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/18/2016 17:12</START_TIME>
+		<END_TIME>7/18/2016 17:33</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Apex</STOP_PLACE>
+		<Distace>7.2</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/18/2016 19:07</START_TIME>
+		<END_TIME>7/18/2016 19:14</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>3.3</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/18/2016 21:11</START_TIME>
+		<END_TIME>7/18/2016 21:19</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>3.8</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/19/2016 10:56</START_TIME>
+		<END_TIME>7/19/2016 11:11</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Stonewater</START_PLACE>
+		<STOP_PLACE>Lexington Park at Amberly</STOP_PLACE>
+		<Distace>3.0</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/19/2016 17:14</START_TIME>
+		<END_TIME>7/19/2016 17:24</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Chessington</STOP_PLACE>
+		<Distace>3.9</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/20/2016 17:12</START_TIME>
+		<END_TIME>7/20/2016 17:24</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Edgehill Farms</STOP_PLACE>
+		<Distace>2.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/20/2016 18:16</START_TIME>
+		<END_TIME>7/20/2016 18:20</END_TIME>
+		<CATEGORY>Personal</CATEGORY>
+		<START_PLACE>Preston</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>1.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/21/2016 17:42</START_TIME>
+		<END_TIME>7/21/2016 17:51</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Edgehill Farms</START_PLACE>
+		<STOP_PLACE>Burtrose</STOP_PLACE>
+		<Distace>2.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/21/2016 19:30</START_TIME>
+		<END_TIME>7/21/2016 19:39</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>2.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/22/2016 11:11</START_TIME>
+		<END_TIME>7/22/2016 11:25</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>5.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/22/2016 12:14</START_TIME>
+		<END_TIME>7/22/2016 12:31</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Durham</STOP_PLACE>
+		<Distace>8.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/22/2016 14:27</START_TIME>
+		<END_TIME>7/22/2016 14:43</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>6.1</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/22/2016 18:33</START_TIME>
+		<END_TIME>7/22/2016 18:51</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Wayne Ridge</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>8.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/23/2016 14:48</START_TIME>
+		<END_TIME>7/23/2016 15:12</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>9.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/23/2016 15:50</START_TIME>
+		<END_TIME>7/23/2016 16:10</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>6.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/23/2016 23:18</START_TIME>
+		<END_TIME>7/23/2016 23:43</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>9.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/25/2016 10:47</START_TIME>
+		<END_TIME>7/25/2016 10:58</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>4.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/25/2016 11:37</START_TIME>
+		<END_TIME>7/25/2016 11:44</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Parkway</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>1.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/26/2016 17:14</START_TIME>
+		<END_TIME>7/26/2016 17:24</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Westpark Place</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>2.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/26/2016 22:31</START_TIME>
+		<END_TIME>7/26/2016 22:39</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>2.5</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/27/2016 21:34</START_TIME>
+		<END_TIME>7/27/2016 21:57</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Raleigh</STOP_PLACE>
+		<Distace>14.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/28/2016 0:04</START_TIME>
+		<END_TIME>7/28/2016 0:09</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>2.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>7/29/2016 17:27</START_TIME>
+		<END_TIME>7/29/2016 17:45</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Westpark Place</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>2.2</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>7/30/2016 21:16</START_TIME>
+		<END_TIME>7/30/2016 21:41</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>13.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/1/2016 12:47</START_TIME>
+		<END_TIME>8/1/2016 13:04</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Arlington Park at Amberly</STOP_PLACE>
+		<Distace>6.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/1/2016 13:28</START_TIME>
+		<END_TIME>8/1/2016 13:46</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lexington Park at Amberly</START_PLACE>
+		<STOP_PLACE>Westpark Place</STOP_PLACE>
+		<Distace>1.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/1/2016 15:40</START_TIME>
+		<END_TIME>8/1/2016 15:47</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Apex</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>4.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/1/2016 16:29</START_TIME>
+		<END_TIME>8/1/2016 16:59</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>9.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/2/2016 8:11</START_TIME>
+		<END_TIME>8/2/2016 8:32</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>8.4</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>8/2/2016 19:15</START_TIME>
+		<END_TIME>8/2/2016 19:23</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kalorama Triangle</START_PLACE>
+		<STOP_PLACE>K Street</STOP_PLACE>
+		<Distace>1.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/3/2016 12:46</START_TIME>
+		<END_TIME>8/3/2016 13:00</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>West End</START_PLACE>
+		<STOP_PLACE>Northwest Rectangle</STOP_PLACE>
+		<Distace>2.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/3/2016 16:00</START_TIME>
+		<END_TIME>8/3/2016 16:04</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kalorama Triangle</START_PLACE>
+		<STOP_PLACE>Downtown</STOP_PLACE>
+		<Distace>1.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/5/2016 18:17</START_TIME>
+		<END_TIME>8/5/2016 18:21</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kalorama Triangle</START_PLACE>
+		<STOP_PLACE>Columbia Heights</STOP_PLACE>
+		<Distace>1.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/6/2016 6:40</START_TIME>
+		<END_TIME>8/6/2016 6:58</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Washington</START_PLACE>
+		<STOP_PLACE>Arlington</STOP_PLACE>
+		<Distace>6.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/7/2016 17:14</START_TIME>
+		<END_TIME>8/7/2016 17:23</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Edgehill Farms</STOP_PLACE>
+		<Distace>2.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/7/2016 18:17</START_TIME>
+		<END_TIME>8/7/2016 18:23</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>2.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/8/2016 16:17</START_TIME>
+		<END_TIME>8/8/2016 16:31</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Farmington Woods</STOP_PLACE>
+		<Distace>5.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/8/2016 17:02</START_TIME>
+		<END_TIME>8/8/2016 17:13</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Edgehill Farms</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>2.7</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>8/8/2016 23:28</START_TIME>
+		<END_TIME>8/8/2016 23:37</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>3.2</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>8/9/2016 15:15</START_TIME>
+		<END_TIME>8/9/2016 15:36</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Raleigh</STOP_PLACE>
+		<Distace>14.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/10/2016 16:56</START_TIME>
+		<END_TIME>8/10/2016 17:24</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Durham</STOP_PLACE>
+		<Distace>12.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/10/2016 18:49</START_TIME>
+		<END_TIME>8/10/2016 18:50</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Apex</START_PLACE>
+		<STOP_PLACE>Apex</STOP_PLACE>
+		<Distace>1.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/11/2016 12:53</START_TIME>
+		<END_TIME>8/11/2016 13:00</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Heritage Pines</STOP_PLACE>
+		<Distace>2.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/11/2016 13:32</START_TIME>
+		<END_TIME>8/11/2016 13:42</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Edgehill Farms</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>2.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/11/2016 20:59</START_TIME>
+		<END_TIME>8/11/2016 21:44</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Wake Forest</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>31.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/12/2016 18:56</START_TIME>
+		<END_TIME>8/12/2016 19:05</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Westpark Place</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>1.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/15/2016 9:05</START_TIME>
+		<END_TIME>8/15/2016 9:52</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>R?walpindi</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>15.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/15/2016 16:52</START_TIME>
+		<END_TIME>8/15/2016 17:30</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>15.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/16/2016 7:58</START_TIME>
+		<END_TIME>8/16/2016 8:11</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>7.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/16/2016 8:46</START_TIME>
+		<END_TIME>8/16/2016 8:53</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>5.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/16/2016 10:31</START_TIME>
+		<END_TIME>8/16/2016 10:38</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>1.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/16/2016 15:13</START_TIME>
+		<END_TIME>8/16/2016 15:36</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>16.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/17/2016 10:57</START_TIME>
+		<END_TIME>8/17/2016 11:20</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>12.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/17/2016 15:32</START_TIME>
+		<END_TIME>8/17/2016 15:47</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>R?walpindi</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>6.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/17/2016 16:54</START_TIME>
+		<END_TIME>8/17/2016 17:00</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>5.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/17/2016 18:38</START_TIME>
+		<END_TIME>8/17/2016 18:57</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>7.7</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>8/19/2016 8:24</START_TIME>
+		<END_TIME>8/19/2016 8:45</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Noorpur Shahan</STOP_PLACE>
+		<Distace>7.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/19/2016 9:27</START_TIME>
+		<END_TIME>8/19/2016 9:47</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>R?walpindi</STOP_PLACE>
+		<Distace>6.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/19/2016 12:07</START_TIME>
+		<END_TIME>8/19/2016 12:24</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>5.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/19/2016 17:12</START_TIME>
+		<END_TIME>8/19/2016 17:52</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>12.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/21/2016 14:05</START_TIME>
+		<END_TIME>8/21/2016 14:34</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>7.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/21/2016 18:10</START_TIME>
+		<END_TIME>8/21/2016 18:17</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>1.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/22/2016 10:00</START_TIME>
+		<END_TIME>8/22/2016 10:44</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>9.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/22/2016 12:36</START_TIME>
+		<END_TIME>8/22/2016 12:49</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>4.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/22/2016 14:07</START_TIME>
+		<END_TIME>8/22/2016 14:31</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>10.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/22/2016 15:59</START_TIME>
+		<END_TIME>8/22/2016 17:16</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>19.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/22/2016 20:53</START_TIME>
+		<END_TIME>8/22/2016 21:31</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>R?walpindi</START_PLACE>
+		<STOP_PLACE>R?walpindi</STOP_PLACE>
+		<Distace>4.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/23/2016 8:10</START_TIME>
+		<END_TIME>8/23/2016 8:25</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Noorpur Shahan</STOP_PLACE>
+		<Distace>8.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/23/2016 12:59</START_TIME>
+		<END_TIME>8/23/2016 13:15</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Noorpur Shahan</STOP_PLACE>
+		<Distace>7.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/23/2016 13:49</START_TIME>
+		<END_TIME>8/23/2016 14:04</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>5.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/23/2016 15:15</START_TIME>
+		<END_TIME>8/23/2016 17:16</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>7.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/24/2016 12:05</START_TIME>
+		<END_TIME>8/24/2016 12:56</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>25.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/25/2016 15:17</START_TIME>
+		<END_TIME>8/25/2016 16:22</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>35.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/25/2016 17:19</START_TIME>
+		<END_TIME>8/25/2016 19:20</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>50.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/25/2016 22:58</START_TIME>
+		<END_TIME>8/25/2016 23:16</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>7.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/26/2016 11:14</START_TIME>
+		<END_TIME>8/26/2016 11:26</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>3.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/26/2016 14:10</START_TIME>
+		<END_TIME>8/26/2016 14:33</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Lahore</STOP_PLACE>
+		<Distace>7.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/26/2016 15:59</START_TIME>
+		<END_TIME>8/26/2016 16:24</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>7.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/26/2016 18:42</START_TIME>
+		<END_TIME>8/26/2016 18:56</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Lahore</STOP_PLACE>
+		<Distace>3.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/26/2016 20:06</START_TIME>
+		<END_TIME>8/26/2016 20:16</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>5.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/27/2016 11:47</START_TIME>
+		<END_TIME>8/27/2016 12:06</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Lahore</STOP_PLACE>
+		<Distace>7.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/27/2016 14:01</START_TIME>
+		<END_TIME>8/27/2016 15:44</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>86.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/28/2016 9:57</START_TIME>
+		<END_TIME>8/28/2016 10:18</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Noorpur Shahan</STOP_PLACE>
+		<Distace>10.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/28/2016 17:37</START_TIME>
+		<END_TIME>8/28/2016 17:55</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>5.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/29/2016 12:02</START_TIME>
+		<END_TIME>8/29/2016 12:31</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>10.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/29/2016 14:31</START_TIME>
+		<END_TIME>8/29/2016 14:41</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>2.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/29/2016 15:49</START_TIME>
+		<END_TIME>8/29/2016 15:59</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>2.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/29/2016 17:24</START_TIME>
+		<END_TIME>8/29/2016 17:41</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>5.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/30/2016 11:53</START_TIME>
+		<END_TIME>8/30/2016 12:05</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>2.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/30/2016 13:25</START_TIME>
+		<END_TIME>8/30/2016 13:46</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>4.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>8/30/2016 17:27</START_TIME>
+		<END_TIME>8/30/2016 18:09</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>13.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>9/1/2016 17:21</START_TIME>
+		<END_TIME>9/1/2016 17:36</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>10.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>9/2/2016 11:37</START_TIME>
+		<END_TIME>9/2/2016 12:24</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>9.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>9/5/2016 10:25</START_TIME>
+		<END_TIME>9/5/2016 10:44</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>R?walpindi</STOP_PLACE>
+		<Distace>17.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>9/10/2016 10:28</START_TIME>
+		<END_TIME>9/10/2016 10:45</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>2.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>9/11/2016 21:40</START_TIME>
+		<END_TIME>9/11/2016 21:42</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>9.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>9/12/2016 11:15</START_TIME>
+		<END_TIME>9/12/2016 11:24</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>1.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>9/13/2016 16:56</START_TIME>
+		<END_TIME>9/13/2016 17:02</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>0.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>9/15/2016 20:33</START_TIME>
+		<END_TIME>9/15/2016 20:38</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>0.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>9/18/2016 18:07</START_TIME>
+		<END_TIME>9/18/2016 18:11</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>9.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>9/19/2016 14:40</START_TIME>
+		<END_TIME>9/19/2016 14:56</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>10.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>9/19/2016 17:36</START_TIME>
+		<END_TIME>9/19/2016 18:20</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>18.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>9/20/2016 11:29</START_TIME>
+		<END_TIME>9/20/2016 11:48</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>16.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>9/23/2016 13:15</START_TIME>
+		<END_TIME>9/23/2016 13:40</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Karachi</START_PLACE>
+		<STOP_PLACE>Karachi</STOP_PLACE>
+		<Distace>2.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>9/24/2016 20:29</START_TIME>
+		<END_TIME>9/24/2016 20:33</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>2.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>9/27/2016 13:21</START_TIME>
+		<END_TIME>9/27/2016 14:43</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Lahore</STOP_PLACE>
+		<Distace>9.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>9/27/2016 21:01</START_TIME>
+		<END_TIME>9/28/2016 2:37</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>195.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>9/29/2016 16:13</START_TIME>
+		<END_TIME>9/29/2016 18:47</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>12.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>9/30/2016 20:59</START_TIME>
+		<END_TIME>9/30/2016 22:34</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>16.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/3/2016 18:17</START_TIME>
+		<END_TIME>10/3/2016 18:34</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>2.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/3/2016 22:04</START_TIME>
+		<END_TIME>10/3/2016 22:33</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>12.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/4/2016 12:17</START_TIME>
+		<END_TIME>10/4/2016 12:18</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>15.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/6/2016 17:23</START_TIME>
+		<END_TIME>10/6/2016 17:40</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>R?walpindi</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>112.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/6/2016 19:46</START_TIME>
+		<END_TIME>10/6/2016 20:26</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>13.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/7/2016 11:27</START_TIME>
+		<END_TIME>10/7/2016 11:50</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Lahore</STOP_PLACE>
+		<Distace>2.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/7/2016 14:29</START_TIME>
+		<END_TIME>10/7/2016 15:11</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Lahore</STOP_PLACE>
+		<Distace>8.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/7/2016 18:08</START_TIME>
+		<END_TIME>10/7/2016 18:27</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Lahore</STOP_PLACE>
+		<Distace>3.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/8/2016 15:03</START_TIME>
+		<END_TIME>10/8/2016 15:03</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Karachi</START_PLACE>
+		<STOP_PLACE>Karachi</STOP_PLACE>
+		<Distace>3.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/9/2016 14:04</START_TIME>
+		<END_TIME>10/9/2016 14:23</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>7.7</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>10/10/2016 17:33</START_TIME>
+		<END_TIME>10/10/2016 18:13</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>9.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/12/2016 19:18</START_TIME>
+		<END_TIME>10/12/2016 19:21</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>R?walpindi</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>18.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/13/2016 12:08</START_TIME>
+		<END_TIME>10/13/2016 12:14</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>1.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/13/2016 13:37</START_TIME>
+		<END_TIME>10/13/2016 13:46</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>2.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/14/2016 8:50</START_TIME>
+		<END_TIME>10/14/2016 9:44</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>R?walpindi</STOP_PLACE>
+		<Distace>12.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/14/2016 15:56</START_TIME>
+		<END_TIME>10/14/2016 16:20</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>3.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/15/2016 22:28</START_TIME>
+		<END_TIME>10/15/2016 22:48</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>6.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/16/2016 12:52</START_TIME>
+		<END_TIME>10/16/2016 13:11</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Durham</STOP_PLACE>
+		<Distace>10.5</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>10/16/2016 15:10</START_TIME>
+		<END_TIME>10/16/2016 15:19</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>3.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/16/2016 20:30</START_TIME>
+		<END_TIME>10/16/2016 20:39</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>4.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/17/2016 15:19</START_TIME>
+		<END_TIME>10/17/2016 15:57</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Raleigh</STOP_PLACE>
+		<Distace>20.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/17/2016 18:02</START_TIME>
+		<END_TIME>10/17/2016 18:16</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Apex</STOP_PLACE>
+		<Distace>5.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/17/2016 19:08</START_TIME>
+		<END_TIME>10/17/2016 19:25</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Apex</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>5.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/18/2016 8:53</START_TIME>
+		<END_TIME>10/18/2016 9:02</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Edgehill Farms</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>3.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/18/2016 18:12</START_TIME>
+		<END_TIME>10/18/2016 18:33</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Oakland</START_PLACE>
+		<STOP_PLACE>Emeryville</STOP_PLACE>
+		<Distace>13.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/18/2016 20:31</START_TIME>
+		<END_TIME>10/18/2016 20:37</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Berkeley</START_PLACE>
+		<STOP_PLACE>Emeryville</STOP_PLACE>
+		<Distace>3.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/19/2016 9:54</START_TIME>
+		<END_TIME>10/19/2016 10:21</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Oakland</START_PLACE>
+		<STOP_PLACE>San Francisco</STOP_PLACE>
+		<Distace>9.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/19/2016 14:02</START_TIME>
+		<END_TIME>10/19/2016 14:31</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>San Francisco</START_PLACE>
+		<STOP_PLACE>Berkeley</STOP_PLACE>
+		<Distace>10.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/19/2016 16:06</START_TIME>
+		<END_TIME>10/19/2016 16:19</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>North Berkeley Hills</START_PLACE>
+		<STOP_PLACE>Southside</STOP_PLACE>
+		<Distace>2.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/20/2016 11:26</START_TIME>
+		<END_TIME>10/20/2016 11:34</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Emeryville</START_PLACE>
+		<STOP_PLACE>Berkeley</STOP_PLACE>
+		<Distace>3.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/20/2016 20:44</START_TIME>
+		<END_TIME>10/20/2016 21:37</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>San Jose</START_PLACE>
+		<STOP_PLACE>Emeryville</STOP_PLACE>
+		<Distace>44.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/22/2016 0:54</START_TIME>
+		<END_TIME>10/22/2016 1:09</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>8.7</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/22/2016 17:08</START_TIME>
+		<END_TIME>10/22/2016 17:55</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Raleigh</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>14.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/23/2016 12:17</START_TIME>
+		<END_TIME>10/23/2016 12:59</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Raleigh</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>28.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/23/2016 21:10</START_TIME>
+		<END_TIME>10/23/2016 21:25</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>3.1</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>10/24/2016 15:33</START_TIME>
+		<END_TIME>10/24/2016 16:13</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>15.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/25/2016 13:27</START_TIME>
+		<END_TIME>10/25/2016 14:08</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Apex</STOP_PLACE>
+		<Distace>11.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/25/2016 15:16</START_TIME>
+		<END_TIME>10/25/2016 15:33</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Eagle Rock</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>3.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/25/2016 20:54</START_TIME>
+		<END_TIME>10/25/2016 21:03</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Savon Height</START_PLACE>
+		<STOP_PLACE>Parkway</STOP_PLACE>
+		<Distace>4.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/26/2016 19:25</START_TIME>
+		<END_TIME>10/26/2016 19:31</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Parkway</STOP_PLACE>
+		<Distace>2.1</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>10/27/2016 18:51</START_TIME>
+		<END_TIME>10/27/2016 19:16</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>8.4</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>10/27/2016 19:52</START_TIME>
+		<END_TIME>10/27/2016 20:21</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Huntington Woods</START_PLACE>
+		<STOP_PLACE>Huntington Woods</STOP_PLACE>
+		<Distace>12.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/27/2016 21:26</START_TIME>
+		<END_TIME>10/27/2016 21:48</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>6.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/28/2016 13:06</START_TIME>
+		<END_TIME>10/28/2016 13:36</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>9.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>10/28/2016 18:13</START_TIME>
+		<END_TIME>10/28/2016 20:07</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Winston Salem</START_PLACE>
+		<STOP_PLACE>Asheville</STOP_PLACE>
+		<Distace>133.6</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>10/29/2016 15:22</START_TIME>
+		<END_TIME>10/29/2016 17:05</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Topton</START_PLACE>
+		<STOP_PLACE>Hayesville</STOP_PLACE>
+		<Distace>40.7</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>10/30/2016 7:49</START_TIME>
+		<END_TIME>10/30/2016 8:30</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Topton</START_PLACE>
+		<STOP_PLACE>Bryson City</STOP_PLACE>
+		<Distace>29.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/30/2016 10:11</START_TIME>
+		<END_TIME>10/30/2016 10:38</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Bryson City</START_PLACE>
+		<STOP_PLACE>Bryson City</STOP_PLACE>
+		<Distace>6.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/30/2016 12:24</START_TIME>
+		<END_TIME>10/30/2016 12:35</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Bryson City</START_PLACE>
+		<STOP_PLACE>Almond</STOP_PLACE>
+		<Distace>6.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/30/2016 13:24</START_TIME>
+		<END_TIME>10/30/2016 14:37</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Bryson City</START_PLACE>
+		<STOP_PLACE>Asheville</STOP_PLACE>
+		<Distace>68.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/30/2016 18:26</START_TIME>
+		<END_TIME>10/30/2016 19:39</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Mebane</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>45.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/31/2016 18:47</START_TIME>
+		<END_TIME>10/31/2016 19:16</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Raleigh</STOP_PLACE>
+		<Distace>10.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>10/31/2016 21:45</START_TIME>
+		<END_TIME>10/31/2016 22:10</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Savon Height</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>9.6</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/1/2016 16:29</START_TIME>
+		<END_TIME>11/1/2016 17:02</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>12.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/1/2016 19:14</START_TIME>
+		<END_TIME>11/1/2016 19:20</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>1.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/1/2016 20:41</START_TIME>
+		<END_TIME>11/1/2016 20:55</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>4.2</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/2/2016 15:45</START_TIME>
+		<END_TIME>11/2/2016 15:52</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Westpark Place</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>1.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/2/2016 17:34</START_TIME>
+		<END_TIME>11/2/2016 17:49</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>5.0</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/3/2016 11:28</START_TIME>
+		<END_TIME>11/3/2016 11:34</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Hazelwood</STOP_PLACE>
+		<Distace>2.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/3/2016 13:42</START_TIME>
+		<END_TIME>11/3/2016 13:47</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Whitebridge</START_PLACE>
+		<STOP_PLACE>Westpark Place</STOP_PLACE>
+		<Distace>1.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/3/2016 18:51</START_TIME>
+		<END_TIME>11/3/2016 19:08</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>3.1</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/4/2016 10:02</START_TIME>
+		<END_TIME>11/4/2016 10:18</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>7.9</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/4/2016 21:04</START_TIME>
+		<END_TIME>11/4/2016 21:20</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Agnew</START_PLACE>
+		<STOP_PLACE>Cory</STOP_PLACE>
+		<Distace>4.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/5/2016 8:34</START_TIME>
+		<END_TIME>11/5/2016 8:43</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Agnew</START_PLACE>
+		<STOP_PLACE>Renaissance</STOP_PLACE>
+		<Distace>2.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/5/2016 19:20</START_TIME>
+		<END_TIME>11/5/2016 19:28</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Agnew</START_PLACE>
+		<STOP_PLACE>Agnew</STOP_PLACE>
+		<Distace>2.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/6/2016 16:05</START_TIME>
+		<END_TIME>11/6/2016 16:22</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Renaissance</START_PLACE>
+		<STOP_PLACE>Agnew</STOP_PLACE>
+		<Distace>2.8</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/6/2016 19:04</START_TIME>
+		<END_TIME>11/6/2016 19:12</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Downtown</START_PLACE>
+		<STOP_PLACE>West Berkeley</STOP_PLACE>
+		<Distace>1.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/7/2016 12:28</START_TIME>
+		<END_TIME>11/7/2016 12:57</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Berkeley</START_PLACE>
+		<STOP_PLACE>San Francisco</STOP_PLACE>
+		<Distace>11.8</Distace>
+		<PURPOSE>Between Offices</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/8/2016 10:29</START_TIME>
+		<END_TIME>11/8/2016 10:57</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Berkeley</START_PLACE>
+		<STOP_PLACE>San Francisco</STOP_PLACE>
+		<Distace>12.2</Distace>
+		<PURPOSE>Between Offices</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/8/2016 13:41</START_TIME>
+		<END_TIME>11/8/2016 14:01</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Berkeley</START_PLACE>
+		<STOP_PLACE>Emeryville</STOP_PLACE>
+		<Distace>3.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/9/2016 13:08</START_TIME>
+		<END_TIME>11/9/2016 13:41</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Berkeley</START_PLACE>
+		<STOP_PLACE>San Francisco</STOP_PLACE>
+		<Distace>11.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/9/2016 17:31</START_TIME>
+		<END_TIME>11/9/2016 18:03</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Downtown</START_PLACE>
+		<STOP_PLACE>Sunnyside</STOP_PLACE>
+		<Distace>6.2</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/9/2016 18:21</START_TIME>
+		<END_TIME>11/9/2016 18:35</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Ingleside</START_PLACE>
+		<STOP_PLACE>Potrero Flats</STOP_PLACE>
+		<Distace>5.5</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/9/2016 20:52</START_TIME>
+		<END_TIME>11/9/2016 21:02</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Oakland</START_PLACE>
+		<STOP_PLACE>Berkeley</STOP_PLACE>
+		<Distace>2.6</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/10/2016 9:46</START_TIME>
+		<END_TIME>11/10/2016 10:15</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Berkeley</START_PLACE>
+		<STOP_PLACE>San Francisco</STOP_PLACE>
+		<Distace>12.6</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/10/2016 14:57</START_TIME>
+		<END_TIME>11/10/2016 15:07</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>SOMISSPO</START_PLACE>
+		<STOP_PLACE>Tenderloin</STOP_PLACE>
+		<Distace>1.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/10/2016 15:30</START_TIME>
+		<END_TIME>11/10/2016 15:53</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Oakland</START_PLACE>
+		<STOP_PLACE>Berkeley</STOP_PLACE>
+		<Distace>6.0</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/11/2016 9:35</START_TIME>
+		<END_TIME>11/11/2016 10:23</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Berkeley</START_PLACE>
+		<STOP_PLACE>Menlo Park</STOP_PLACE>
+		<Distace>45.9</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/11/2016 14:20</START_TIME>
+		<END_TIME>11/11/2016 14:32</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Palo Alto</START_PLACE>
+		<STOP_PLACE>Menlo Park</STOP_PLACE>
+		<Distace>2.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/11/2016 18:30</START_TIME>
+		<END_TIME>11/11/2016 18:43</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Central</START_PLACE>
+		<STOP_PLACE>College Avenue</STOP_PLACE>
+		<Distace>2.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/12/2016 10:32</START_TIME>
+		<END_TIME>11/12/2016 10:52</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Central</START_PLACE>
+		<STOP_PLACE>South</STOP_PLACE>
+		<Distace>2.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/12/2016 13:07</START_TIME>
+		<END_TIME>11/12/2016 13:15</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Downtown</START_PLACE>
+		<STOP_PLACE>Central</STOP_PLACE>
+		<Distace>1.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/12/2016 14:22</START_TIME>
+		<END_TIME>11/12/2016 14:53</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>West Berkeley</START_PLACE>
+		<STOP_PLACE>South</STOP_PLACE>
+		<Distace>5.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/12/2016 15:25</START_TIME>
+		<END_TIME>11/12/2016 15:36</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Berkeley</START_PLACE>
+		<STOP_PLACE>Emeryville</STOP_PLACE>
+		<Distace>1.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/13/2016 8:54</START_TIME>
+		<END_TIME>11/13/2016 9:02</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Central</START_PLACE>
+		<STOP_PLACE>Central</STOP_PLACE>
+		<Distace>2.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/13/2016 10:31</START_TIME>
+		<END_TIME>11/13/2016 10:37</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Central</START_PLACE>
+		<STOP_PLACE>Southside</STOP_PLACE>
+		<Distace>1.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/13/2016 12:22</START_TIME>
+		<END_TIME>11/13/2016 12:51</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>West Berkeley</START_PLACE>
+		<STOP_PLACE>Southside</STOP_PLACE>
+		<Distace>4.0</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/13/2016 13:14</START_TIME>
+		<END_TIME>11/13/2016 13:18</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>South Berkeley</START_PLACE>
+		<STOP_PLACE>Southside</STOP_PLACE>
+		<Distace>0.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/13/2016 15:14</START_TIME>
+		<END_TIME>11/13/2016 15:24</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Central</START_PLACE>
+		<STOP_PLACE>Southside</STOP_PLACE>
+		<Distace>1.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/14/2016 11:24</START_TIME>
+		<END_TIME>11/14/2016 12:13</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Berkeley</START_PLACE>
+		<STOP_PLACE>Mountain View</STOP_PLACE>
+		<Distace>44.6</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/14/2016 15:27</START_TIME>
+		<END_TIME>11/14/2016 15:36</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Berkeley</START_PLACE>
+		<STOP_PLACE>Emeryville</STOP_PLACE>
+		<Distace>2.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/15/2016 13:59</START_TIME>
+		<END_TIME>11/15/2016 14:06</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Berkeley</START_PLACE>
+		<STOP_PLACE>Oakland</STOP_PLACE>
+		<Distace>5.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/15/2016 20:44</START_TIME>
+		<END_TIME>11/15/2016 21:00</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>San Francisco</START_PLACE>
+		<STOP_PLACE>Berkeley</STOP_PLACE>
+		<Distace>11.8</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/16/2016 22:52</START_TIME>
+		<END_TIME>11/16/2016 23:02</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>El Cerrito</START_PLACE>
+		<STOP_PLACE>Berkeley</STOP_PLACE>
+		<Distace>3.1</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/18/2016 20:09</START_TIME>
+		<END_TIME>11/18/2016 20:19</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>3.1</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/18/2016 21:56</START_TIME>
+		<END_TIME>11/18/2016 22:21</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Krendle Woods</START_PLACE>
+		<STOP_PLACE>Whitebridge</STOP_PLACE>
+		<Distace>6.1</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/19/2016 14:30</START_TIME>
+		<END_TIME>11/19/2016 14:51</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>10.5</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/19/2016 16:27</START_TIME>
+		<END_TIME>11/19/2016 16:41</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>1.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/19/2016 21:14</START_TIME>
+		<END_TIME>11/19/2016 21:35</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Apex</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>5.4</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/20/2016 11:58</START_TIME>
+		<END_TIME>11/20/2016 12:28</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>6.4</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/20/2016 17:45</START_TIME>
+		<END_TIME>11/20/2016 18:37</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>18.5</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/21/2016 14:34</START_TIME>
+		<END_TIME>11/21/2016 14:44</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>2.1</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/21/2016 18:18</START_TIME>
+		<END_TIME>11/21/2016 18:27</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>3.5</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/22/2016 15:12</START_TIME>
+		<END_TIME>11/22/2016 15:27</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>5.5</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/22/2016 15:51</START_TIME>
+		<END_TIME>11/22/2016 16:43</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>12.7</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/22/2016 21:02</START_TIME>
+		<END_TIME>11/22/2016 21:14</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>3.5</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/23/2016 16:18</START_TIME>
+		<END_TIME>11/23/2016 16:29</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>1.9</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/23/2016 18:37</START_TIME>
+		<END_TIME>11/23/2016 18:47</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>1.3</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>11/25/2016 13:13</START_TIME>
+		<END_TIME>11/25/2016 13:31</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Durham</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>11.1</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/26/2016 17:00</START_TIME>
+		<END_TIME>11/26/2016 17:12</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Apex</STOP_PLACE>
+		<Distace>5.1</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/26/2016 18:29</START_TIME>
+		<END_TIME>11/26/2016 19:04</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Holly Springs</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>13.3</Distace>
+		<PURPOSE>Between Offices</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/27/2016 15:59</START_TIME>
+		<END_TIME>11/27/2016 16:06</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>3.3</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/30/2016 11:03</START_TIME>
+		<END_TIME>11/30/2016 11:34</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Raleigh</STOP_PLACE>
+		<Distace>8.5</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>11/30/2016 12:43</START_TIME>
+		<END_TIME>11/30/2016 12:53</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>3.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>12/1/2016 8:37</START_TIME>
+		<END_TIME>12/1/2016 8:53</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>5.5</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/1/2016 20:36</START_TIME>
+		<END_TIME>12/1/2016 20:46</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>2.9</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/2/2016 13:07</START_TIME>
+		<END_TIME>12/2/2016 13:22</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Apex</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>5.3</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/2/2016 22:59</START_TIME>
+		<END_TIME>12/2/2016 23:07</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Morrisville</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>3.0</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/3/2016 19:08</START_TIME>
+		<END_TIME>12/3/2016 19:15</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Wake Co.</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>1.8</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>12/4/2016 18:56</START_TIME>
+		<END_TIME>12/4/2016 19:03</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>2.9</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/5/2016 18:04</START_TIME>
+		<END_TIME>12/5/2016 18:17</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>4.1</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>12/7/2016 12:03</START_TIME>
+		<END_TIME>12/7/2016 12:32</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>6.6</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/7/2016 19:53</START_TIME>
+		<END_TIME>12/7/2016 20:13</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>7.0</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/8/2016 14:19</START_TIME>
+		<END_TIME>12/8/2016 14:32</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>3.4</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/8/2016 19:22</START_TIME>
+		<END_TIME>12/8/2016 19:27</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>2.0</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/9/2016 12:09</START_TIME>
+		<END_TIME>12/9/2016 12:24</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Apex</STOP_PLACE>
+		<Distace>5.1</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/9/2016 20:11</START_TIME>
+		<END_TIME>12/9/2016 20:34</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>5.6</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/10/2016 12:43</START_TIME>
+		<END_TIME>12/10/2016 13:16</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Fuquay-Varina</STOP_PLACE>
+		<Distace>15.6</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/10/2016 18:17</START_TIME>
+		<END_TIME>12/10/2016 18:27</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>3.0</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/11/2016 16:06</START_TIME>
+		<END_TIME>12/11/2016 16:16</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>3.0</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/11/2016 21:48</START_TIME>
+		<END_TIME>12/11/2016 21:56</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>2.1</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/12/2016 13:36</START_TIME>
+		<END_TIME>12/12/2016 13:51</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Apex</STOP_PLACE>
+		<Distace>4.4</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/12/2016 17:51</START_TIME>
+		<END_TIME>12/12/2016 18:01</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>3.0</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/13/2016 18:19</START_TIME>
+		<END_TIME>12/13/2016 18:29</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>4.2</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/14/2016 16:52</START_TIME>
+		<END_TIME>12/14/2016 17:10</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Cary</STOP_PLACE>
+		<Distace>3.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>12/14/2016 17:50</START_TIME>
+		<END_TIME>12/14/2016 18:00</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>3.0</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/15/2016 14:20</START_TIME>
+		<END_TIME>12/15/2016 14:54</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Cary</START_PLACE>
+		<STOP_PLACE>Morrisville</STOP_PLACE>
+		<Distace>10.6</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/17/2016 17:19</START_TIME>
+		<END_TIME>12/17/2016 17:59</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>5.3</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/18/2016 16:38</START_TIME>
+		<END_TIME>12/18/2016 17:25</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>10.2</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/19/2016 9:08</START_TIME>
+		<END_TIME>12/19/2016 9:36</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>7.7</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/19/2016 13:04</START_TIME>
+		<END_TIME>12/19/2016 13:08</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Rawalpindi</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>0.7</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/19/2016 14:07</START_TIME>
+		<END_TIME>12/19/2016 14:15</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>2.5</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>12/19/2016 14:37</START_TIME>
+		<END_TIME>12/19/2016 14:50</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>5.4</Distace>
+	</Drive>
+	<Drive>
+		<START_TIME>12/19/2016 16:50</START_TIME>
+		<END_TIME>12/19/2016 17:09</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Rawalpindi</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>7.2</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/19/2016 19:55</START_TIME>
+		<END_TIME>12/19/2016 20:30</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>11.0</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/20/2016 10:30</START_TIME>
+		<END_TIME>12/20/2016 10:48</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Rawalpindi</START_PLACE>
+		<STOP_PLACE>Rawalpindi</STOP_PLACE>
+		<Distace>3.3</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/20/2016 13:14</START_TIME>
+		<END_TIME>12/20/2016 13:20</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>1.7</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/20/2016 16:14</START_TIME>
+		<END_TIME>12/20/2016 16:24</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>1.8</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/20/2016 18:47</START_TIME>
+		<END_TIME>12/20/2016 19:21</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>10.3</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/21/2016 10:14</START_TIME>
+		<END_TIME>12/21/2016 10:30</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>4.9</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/21/2016 12:51</START_TIME>
+		<END_TIME>12/21/2016 13:33</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>16.2</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/21/2016 15:55</START_TIME>
+		<END_TIME>12/21/2016 16:05</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Islamabad</STOP_PLACE>
+		<Distace>2.1</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/21/2016 17:59</START_TIME>
+		<END_TIME>12/21/2016 18:31</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Islamabad</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>7.2</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/21/2016 20:56</START_TIME>
+		<END_TIME>12/21/2016 23:42</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Rawalpindi</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>103.0</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/22/2016 17:04</START_TIME>
+		<END_TIME>12/22/2016 17:20</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>5.3</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/22/2016 17:56</START_TIME>
+		<END_TIME>12/22/2016 18:29</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>23.2</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/22/2016 18:38</START_TIME>
+		<END_TIME>12/22/2016 18:47</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>12.3</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/22/2016 21:41</START_TIME>
+		<END_TIME>12/22/2016 21:53</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Lahore</STOP_PLACE>
+		<Distace>2.1</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/23/2016 9:21</START_TIME>
+		<END_TIME>12/23/2016 9:41</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Lahore</STOP_PLACE>
+		<Distace>3.0</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/23/2016 14:15</START_TIME>
+		<END_TIME>12/23/2016 15:25</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>9.6</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/23/2016 17:34</START_TIME>
+		<END_TIME>12/23/2016 18:27</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Lahore</STOP_PLACE>
+		<Distace>7.1</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/24/2016 9:19</START_TIME>
+		<END_TIME>12/24/2016 9:55</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Lahore</STOP_PLACE>
+		<Distace>10.7</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/24/2016 12:51</START_TIME>
+		<END_TIME>12/24/2016 12:53</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Lahore</STOP_PLACE>
+		<Distace>1.6</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/24/2016 17:12</START_TIME>
+		<END_TIME>12/24/2016 17:27</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Lahore</STOP_PLACE>
+		<Distace>1.7</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/24/2016 22:04</START_TIME>
+		<END_TIME>12/24/2016 22:09</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Lahore</STOP_PLACE>
+		<Distace>0.6</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/25/2016 19:15</START_TIME>
+		<END_TIME>12/25/2016 19:26</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Lahore</STOP_PLACE>
+		<Distace>2.3</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/26/2016 8:30</START_TIME>
+		<END_TIME>12/26/2016 8:41</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Lahore</STOP_PLACE>
+		<Distace>3.2</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/26/2016 10:15</START_TIME>
+		<END_TIME>12/26/2016 10:36</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Lahore</STOP_PLACE>
+		<Distace>7.7</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/26/2016 13:09</START_TIME>
+		<END_TIME>12/26/2016 13:43</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Lahore</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>7.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/27/2016 8:37</START_TIME>
+		<END_TIME>12/27/2016 8:59</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kar?chi</START_PLACE>
+		<STOP_PLACE>Kar?chi</STOP_PLACE>
+		<Distace>5.0</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/27/2016 14:49</START_TIME>
+		<END_TIME>12/27/2016 15:03</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kar?chi</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>3.1</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/27/2016 19:19</START_TIME>
+		<END_TIME>12/27/2016 19:50</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kar?chi</START_PLACE>
+		<STOP_PLACE>Kar?chi</STOP_PLACE>
+		<Distace>5.5</Distace>
+		<PURPOSE>Customer Visit</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/28/2016 11:42</START_TIME>
+		<END_TIME>12/28/2016 12:12</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Kar?chi</STOP_PLACE>
+		<Distace>10.4</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/28/2016 15:04</START_TIME>
+		<END_TIME>12/28/2016 15:39</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kar?chi</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>8.5</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/28/2016 18:33</START_TIME>
+		<END_TIME>12/28/2016 18:56</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kar?chi</START_PLACE>
+		<STOP_PLACE>Kar?chi</STOP_PLACE>
+		<Distace>3.8</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/29/2016 0:49</START_TIME>
+		<END_TIME>12/29/2016 1:06</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kar?chi</START_PLACE>
+		<STOP_PLACE>Kar?chi</STOP_PLACE>
+		<Distace>3.8</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/29/2016 11:28</START_TIME>
+		<END_TIME>12/29/2016 12:00</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Kar?chi</STOP_PLACE>
+		<Distace>11.9</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/29/2016 13:17</START_TIME>
+		<END_TIME>12/29/2016 13:24</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kar?chi</START_PLACE>
+		<STOP_PLACE>Kar?chi</STOP_PLACE>
+		<Distace>1.1</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/29/2016 14:42</START_TIME>
+		<END_TIME>12/29/2016 14:58</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kar?chi</START_PLACE>
+		<STOP_PLACE>Kar?chi</STOP_PLACE>
+		<Distace>6.1</Distace>
+		<PURPOSE>Between Offices</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/29/2016 18:59</START_TIME>
+		<END_TIME>12/29/2016 19:14</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kar?chi</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>3.0</Distace>
+		<PURPOSE>Meal/Entertain</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/29/2016 20:15</START_TIME>
+		<END_TIME>12/29/2016 20:45</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kar?chi</START_PLACE>
+		<STOP_PLACE>Kar?chi</STOP_PLACE>
+		<Distace>7.2</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/29/2016 23:14</START_TIME>
+		<END_TIME>12/29/2016 23:47</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Kar?chi</STOP_PLACE>
+		<Distace>12.9</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/30/2016 11:31</START_TIME>
+		<END_TIME>12/30/2016 11:56</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kar?chi</START_PLACE>
+		<STOP_PLACE>Kar?chi</STOP_PLACE>
+		<Distace>2.9</Distace>
+		<PURPOSE>Errand/Supplies</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/30/2016 16:45</START_TIME>
+		<END_TIME>12/30/2016 17:08</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kar?chi</START_PLACE>
+		<STOP_PLACE>Kar?chi</STOP_PLACE>
+		<Distace>4.6</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/31/2016 1:07</START_TIME>
+		<END_TIME>12/31/2016 1:14</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Kar?chi</START_PLACE>
+		<STOP_PLACE>Kar?chi</STOP_PLACE>
+		<Distace>0.7</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/31/2016 15:03</START_TIME>
+		<END_TIME>12/31/2016 15:38</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Unknown Location</START_PLACE>
+		<STOP_PLACE>Unknown Location</STOP_PLACE>
+		<Distace>16.2</Distace>
+		<PURPOSE>Meeting</PURPOSE>
+	</Drive>
+	<Drive>
+		<START_TIME>12/31/2016 22:08</START_TIME>
+		<END_TIME>12/31/2016 23:51</END_TIME>
+		<CATEGORY>Business</CATEGORY>
+		<START_PLACE>Gampaha</START_PLACE>
+		<STOP_PLACE>Ilukwatta</STOP_PLACE>
+		<Distace>48.2</Distace>
+		<PURPOSE>Temporary Site</PURPOSE>
+	</Drive>
+</Drives>

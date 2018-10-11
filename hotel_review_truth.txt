@@ -1,0 +1,12 @@
+/Hotel_reviews/Review/Hotel_details/Hotel_Name:/Hotel_Reviews/Hotel_Review/Hotel_Basic_Info/Name
+/Hotel_reviews/Review/Hotel_details/Hotel_Address:/Hotel_Reviews/Hotel_Review/Hotel_Basic_Info/Location/Address
+/Hotel_reviews/Review/Hotel_details/Average_Score:/Hotel_Reviews/Hotel_Review/Hotel_Basic_Info/Hotel_Rating
+/Hotel_reviews/Review/Hotel_details/Hotel_Geographic_Location/Latitude:/Hotel_Reviews/Hotel_Review/Hotel_Basic_Info/Location/latitude
+/Hotel_reviews/Review/Hotel_details/Hotel_Geographic_Location/Longitude:/Hotel_Reviews/Hotel_Review/Hotel_Basic_Info/Location/longitude
+/Hotel_reviews/Review/Review_Date:/Hotel_Reviews/Hotel_Review/Date_of_review
+/Hotel_reviews/Review/Reviewer_Nationality:/Hotel_Reviews/Hotel_Review/Reviewer_details/Nationality
+/Hotel_reviews/Review/Negative_Review:/Hotel_Reviews/Hotel_Review/Bad
+/Hotel_reviews/Review/Positive_Review:/Hotel_Reviews/Hotel_Review/Good
+/Hotel_reviews/Review/Total_Number_of_Reviews_Reviewer_Has_Given:/Hotel_Reviews/Hotel_Review/Reviewer_details/Total_number_of_reviews_written
+/Hotel_reviews/Review/Reviewer_Score:/Hotel_Reviews/Hotel_Review/Score
+

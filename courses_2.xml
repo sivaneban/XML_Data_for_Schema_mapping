@@ -1,0 +1,1942 @@
+<Courses>
+	<Course>
+		<Course_Id>6.002x</Course_Id>
+		<Course_Name>Circuits and Electronics</Course_Name>
+		<Launch_Date_on_online>09/05/2012</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Khurram Afridi</Instructors>
+		<Year>1</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>83.2</Total_course_videos_played_percentage>
+		<Total_recomended_hours>418.94</Total_recomended_hours>
+		<Average_hours_for_Certification>64.45</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>36105</Total_students>
+			<students_average_Age>26.0</students_average_Age>
+			<Percentage_male_students>88.28</Percentage_male_students>
+			<Percentage_female_students_>11.72</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>8.17</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>CS50x</Course_Id>
+		<Course_Name>Introduction to Computer Science</Course_Name>
+		<Launch_Date_on_online>10/15/2012</Launch_Date_on_online>
+		<Subject>Computer Science</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>David Malan, Nate Hardison, Rob Bowden, Tommy MacWilliam, Zamyla Chan</Instructors>
+		<Year>1</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>0</Total_course_videos_played_percentage>
+		<Total_recomended_hours>220.9</Total_recomended_hours>
+		<Average_hours_for_Certification>0.0</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>129400</Total_students>
+			<students_average_Age>28.0</students_average_Age>
+			<Percentage_male_students>80.02</Percentage_male_students>
+			<Percentage_female_students_>19.98</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>0.0</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>3.091x</Course_Id>
+		<Course_Name>Introduction to Solid State Chemistry</Course_Name>
+		<Launch_Date_on_online>02/05/2013</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Michael Cima</Instructors>
+		<Year>1</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>80.25</Total_course_videos_played_percentage>
+		<Total_recomended_hours>68.11</Total_recomended_hours>
+		<Average_hours_for_Certification>59.29</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>8270</Total_students>
+			<students_average_Age>27.0</students_average_Age>
+			<Percentage_male_students>73.3</Percentage_male_students>
+			<Percentage_female_students_>26.7</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>10.22</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>ER22x</Course_Id>
+		<Course_Name>Justice</Course_Name>
+		<Launch_Date_on_online>03/02/2013</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Michael Sandel</Instructors>
+		<Year>1</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>---</Total_course_videos_played_percentage>
+		<Total_recomended_hours>186.61</Total_recomended_hours>
+		<Average_hours_for_Certification>13.67</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>58779</Total_students>
+			<students_average_Age>30.0</students_average_Age>
+			<Percentage_male_students>60.42</Percentage_male_students>
+			<Percentage_female_students_>39.58</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>21.86</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>CB22x</Course_Id>
+		<Course_Name>The Ancient Greek Hero</Course_Name>
+		<Launch_Date_on_online>03/13/2013</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Greg Nagy, L.Muellner</Instructors>
+		<Year>1</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>77.05</Total_course_videos_played_percentage>
+		<Total_recomended_hours>140.72</Total_recomended_hours>
+		<Average_hours_for_Certification>46.26</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>25873</Total_students>
+			<students_average_Age>32.0</students_average_Age>
+			<Percentage_male_students>53.31</Percentage_male_students>
+			<Percentage_female_students_>46.69</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>13.76</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>8.MREV</Course_Id>
+		<Course_Name>Mechanics ReView</Course_Name>
+		<Launch_Date_on_online>06/01/2013</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>David Pritchard, Colin Fredericks</Instructors>
+		<Year>1</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>10.96</Total_course_videos_played_percentage>
+		<Total_recomended_hours>145.95</Total_recomended_hours>
+		<Average_hours_for_Certification>68.48</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>15350</Total_students>
+			<students_average_Age>26.0</students_average_Age>
+			<Percentage_male_students>84.53</Percentage_male_students>
+			<Percentage_female_students_>15.47</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>8.48</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>8.01x</Course_Id>
+		<Course_Name>Classical Mechanics</Course_Name>
+		<Launch_Date_on_online>09/09/2013</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Walter Lewin</Instructors>
+		<Year>2</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>78.02</Total_course_videos_played_percentage>
+		<Total_recomended_hours>452.55</Total_recomended_hours>
+		<Average_hours_for_Certification>111.34</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>35903</Total_students>
+			<students_average_Age>25.0</students_average_Age>
+			<Percentage_male_students>83.26</Percentage_male_students>
+			<Percentage_female_students_>16.74</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>10.27</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>4.605x</Course_Id>
+		<Course_Name>Global Architecture</Course_Name>
+		<Launch_Date_on_online>09/17/2013</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Mark Jarzombek</Instructors>
+		<Year>2</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>65.15</Total_course_videos_played_percentage>
+		<Total_recomended_hours>138.94</Total_recomended_hours>
+		<Average_hours_for_Certification>48.99</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>17077</Total_students>
+			<students_average_Age>31.0</students_average_Age>
+			<Percentage_male_students>51.95</Percentage_male_students>
+			<Percentage_female_students_>48.05</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>10.72</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>SPU27x</Course_Id>
+		<Course_Name>Science and Cooking: From Haute Cuisine to Soft Matter Science</Course_Name>
+		<Launch_Date_on_online>10/08/2013</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Michael Brenner</Instructors>
+		<Year>2</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>75.48</Total_course_videos_played_percentage>
+		<Total_recomended_hours>399.77</Total_recomended_hours>
+		<Average_hours_for_Certification>70.66</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>60555</Total_students>
+			<students_average_Age>33.0</students_average_Age>
+			<Percentage_male_students>49.47</Percentage_male_students>
+			<Percentage_female_students_>50.53</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>10.78</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>6.00.1x</Course_Id>
+		<Course_Name>Introduction to Computer Science and Programming</Course_Name>
+		<Launch_Date_on_online>10/16/2013</Launch_Date_on_online>
+		<Subject>Computer Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Eric Grimson, John Guttag</Instructors>
+		<Year>2</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>76.86</Total_course_videos_played_percentage>
+		<Total_recomended_hours>523.56</Total_recomended_hours>
+		<Average_hours_for_Certification>53.05</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>57147</Total_students>
+			<students_average_Age>28.0</students_average_Age>
+			<Percentage_male_students>82.95</Percentage_male_students>
+			<Percentage_female_students_>17.05</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>9.47</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>AI12.1x</Course_Id>
+		<Course_Name>Poetry in America: The Poetry of Early New England</Course_Name>
+		<Launch_Date_on_online>10/31/2013</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Elisa New</Instructors>
+		<Year>2</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>69.68</Total_course_videos_played_percentage>
+		<Total_recomended_hours>13.89</Total_recomended_hours>
+		<Average_hours_for_Certification>0.0</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>6446</Total_students>
+			<students_average_Age>32.0</students_average_Age>
+			<Percentage_male_students>40.81</Percentage_male_students>
+			<Percentage_female_students_>59.19</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>15.91</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>SW12.2x</Course_Id>
+		<Course_Name>The Creation and End of a Centralized Empire</Course_Name>
+		<Launch_Date_on_online>01/02/2014</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Peter Bol, Bill Kirby</Instructors>
+		<Year>2</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>75.9</Total_course_videos_played_percentage>
+		<Total_recomended_hours>68.25</Total_recomended_hours>
+		<Average_hours_for_Certification>13.77</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>12856</Total_students>
+			<students_average_Age>33.0</students_average_Age>
+			<Percentage_male_students>60.59</Percentage_male_students>
+			<Percentage_female_students_>39.41</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>20.89</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>21W.789x</Course_Id>
+		<Course_Name>Building Mobile Experiences</Course_Name>
+		<Launch_Date_on_online>02/04/2014</Launch_Date_on_online>
+		<Subject>Computer Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Frank Bentley, Ed Barrett</Instructors>
+		<Year>2</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>59.55</Total_course_videos_played_percentage>
+		<Total_recomended_hours>40.13</Total_recomended_hours>
+		<Average_hours_for_Certification>26.4</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>25886</Total_students>
+			<students_average_Age>29.0</students_average_Age>
+			<Percentage_male_students>84.27</Percentage_male_students>
+			<Percentage_female_students_>15.73</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>6.37</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>SW12.3x</Course_Id>
+		<Course_Name>Cosmopolitan Tang: Aristocratic Culture</Course_Name>
+		<Launch_Date_on_online>02/13/2014</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Peter Bol, Bill Kirby</Instructors>
+		<Year>2</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>77.16</Total_course_videos_played_percentage>
+		<Total_recomended_hours>33.76</Total_recomended_hours>
+		<Average_hours_for_Certification>8.99</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>7422</Total_students>
+			<students_average_Age>34.0</students_average_Age>
+			<Percentage_male_students>58.97</Percentage_male_students>
+			<Percentage_female_students_>41.03</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>29.14</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>SW25x</Course_Id>
+		<Course_Name>Global Health: Case Studies from a Biosocial Perspective</Course_Name>
+		<Launch_Date_on_online>02/25/2014</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Arthur Kleinman, Paul Farmer, Salmaan Keshavjee, Anne Becker</Instructors>
+		<Year>2</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>62.97</Total_course_videos_played_percentage>
+		<Total_recomended_hours>39.34</Total_recomended_hours>
+		<Average_hours_for_Certification>18.49</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>8256</Total_students>
+			<students_average_Age>30.0</students_average_Age>
+			<Percentage_male_students>41.1</Percentage_male_students>
+			<Percentage_female_students_>58.9</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>21.56</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>6.00.2x</Course_Id>
+		<Course_Name>Introduction to Computational Thinking and Data Science</Course_Name>
+		<Launch_Date_on_online>03/05/2014</Launch_Date_on_online>
+		<Subject>Computer Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Eric Grimson, John Guttag</Instructors>
+		<Year>2</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>69.27</Total_course_videos_played_percentage>
+		<Total_recomended_hours>97.28</Total_recomended_hours>
+		<Average_hours_for_Certification>38.44</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>13148</Total_students>
+			<students_average_Age>29.0</students_average_Age>
+			<Percentage_male_students>87.9</Percentage_male_students>
+			<Percentage_female_students_>12.1</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>7.33</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>SW12.4x</Course_Id>
+		<Course_Name>A New National Culture</Course_Name>
+		<Launch_Date_on_online>03/20/2014</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Peter Bol, Bill Kirby</Instructors>
+		<Year>2</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>76.01</Total_course_videos_played_percentage>
+		<Total_recomended_hours>34.82</Total_recomended_hours>
+		<Average_hours_for_Certification>11.42</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>6753</Total_students>
+			<students_average_Age>34.0</students_average_Age>
+			<Percentage_male_students>60.51</Percentage_male_students>
+			<Percentage_female_students_>39.49</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>22.71</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>JPAL 101x</Course_Id>
+		<Course_Name>Evaluating Social Programs</Course_Name>
+		<Launch_Date_on_online>04/01/2014</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Rachel Glennerster, Marc Shotland</Instructors>
+		<Year>2</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>65.09</Total_course_videos_played_percentage>
+		<Total_recomended_hours>46.04</Total_recomended_hours>
+		<Average_hours_for_Certification>21.46</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>7382</Total_students>
+			<students_average_Age>32.0</students_average_Age>
+			<Percentage_male_students>51.36</Percentage_male_students>
+			<Percentage_female_students_>48.64</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>16.82</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>ER22.1x</Course_Id>
+		<Course_Name>Justice</Course_Name>
+		<Launch_Date_on_online>04/08/2014</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Michael Sandel</Instructors>
+		<Year>2</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>67.31</Total_course_videos_played_percentage>
+		<Total_recomended_hours>145.01</Total_recomended_hours>
+		<Average_hours_for_Certification>20.13</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>35409</Total_students>
+			<students_average_Age>29.0</students_average_Age>
+			<Percentage_male_students>58.0</Percentage_male_students>
+			<Percentage_female_students_>42.0</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>19.05</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>MAS.S69x</Course_Id>
+		<Course_Name>Big Data and Social Physics</Course_Name>
+		<Launch_Date_on_online>05/12/2014</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Sandy Pentland</Instructors>
+		<Year>2</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>64.8</Total_course_videos_played_percentage>
+		<Total_recomended_hours>34.79</Total_recomended_hours>
+		<Average_hours_for_Certification>2.1</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>30456</Total_students>
+			<students_average_Age>30.0</students_average_Age>
+			<Percentage_male_students>80.39</Percentage_male_students>
+			<Percentage_female_students_>19.61</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>4.67</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>8.MREV</Course_Id>
+		<Course_Name>Mechanics Review</Course_Name>
+		<Launch_Date_on_online>05/29/2014</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>David Pritchard</Instructors>
+		<Year>2</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>13.25</Total_course_videos_played_percentage>
+		<Total_recomended_hours>86.76</Total_recomended_hours>
+		<Average_hours_for_Certification>80.06</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>12939</Total_students>
+			<students_average_Age>25.0</students_average_Age>
+			<Percentage_male_students>84.2</Percentage_male_students>
+			<Percentage_female_students_>15.8</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>6.01</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>6.00.1x</Course_Id>
+		<Course_Name>Introduction to Computer Science and Programming</Course_Name>
+		<Launch_Date_on_online>06/11/2014</Launch_Date_on_online>
+		<Subject>Computer Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Eric Grimson, John Guttag</Instructors>
+		<Year>2</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>76.74</Total_course_videos_played_percentage>
+		<Total_recomended_hours>232.93</Total_recomended_hours>
+		<Average_hours_for_Certification>49.69</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>22148</Total_students>
+			<students_average_Age>27.0</students_average_Age>
+			<Percentage_male_students>81.69</Percentage_male_students>
+			<Percentage_female_students_>18.31</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>10.81</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>7.00x</Course_Id>
+		<Course_Name>Introduction to Biology: Secret of Life</Course_Name>
+		<Launch_Date_on_online>06/17/2014</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Eric Lander</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>60.52</Total_course_videos_played_percentage>
+		<Total_recomended_hours>59.23</Total_recomended_hours>
+		<Average_hours_for_Certification>0.0</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>10755</Total_students>
+			<students_average_Age>26.0</students_average_Age>
+			<Percentage_male_students>58.14</Percentage_male_students>
+			<Percentage_female_students_>41.86</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>0.01</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>6.00.1x</Course_Id>
+		<Course_Name>Introduction to Computer Science and Programming</Course_Name>
+		<Launch_Date_on_online>08/27/2014</Launch_Date_on_online>
+		<Subject>Computer Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Eric Grimson</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>76.87</Total_course_videos_played_percentage>
+		<Total_recomended_hours>206.46</Total_recomended_hours>
+		<Average_hours_for_Certification>48.26</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>21017</Total_students>
+			<students_average_Age>27.0</students_average_Age>
+			<Percentage_male_students>83.23</Percentage_male_students>
+			<Percentage_female_students_>16.77</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>9.7</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>3.032x</Course_Id>
+		<Course_Name>Mechanical Behavior of Materials</Course_Name>
+		<Launch_Date_on_online>09/03/2014</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Lorna J. Gibson</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>62.87</Total_course_videos_played_percentage>
+		<Total_recomended_hours>81.04</Total_recomended_hours>
+		<Average_hours_for_Certification>63.12</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>11841</Total_students>
+			<students_average_Age>25.0</students_average_Age>
+			<Percentage_male_students>84.01</Percentage_male_students>
+			<Percentage_female_students_>15.99</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>4.9</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>1368.1x</Course_Id>
+		<Course_Name>Saving Schools: History, Politics, and Policy of U.S. Education &#8211; History and Politics in U.S. Education</Course_Name>
+		<Launch_Date_on_online>09/08/2014</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Paul Peterson</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>67.67</Total_course_videos_played_percentage>
+		<Total_recomended_hours>9.36</Total_recomended_hours>
+		<Average_hours_for_Certification>10.2</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>3853</Total_students>
+			<students_average_Age>32.0</students_average_Age>
+			<Percentage_male_students>44.07</Percentage_male_students>
+			<Percentage_female_students_>55.93</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>16.02</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>GSE1.1x</Course_Id>
+		<Course_Name>Unlocking the Immunity to Change: A New Approach to Personal Improvement</Course_Name>
+		<Launch_Date_on_online>09/16/2014</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Robert Kegan (Bob), Lisa Lahey</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>65.64</Total_course_videos_played_percentage>
+		<Total_recomended_hours>51.77</Total_recomended_hours>
+		<Average_hours_for_Certification>20.99</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>13305</Total_students>
+			<students_average_Age>37.0</students_average_Age>
+			<Percentage_male_students>43.21</Percentage_male_students>
+			<Percentage_female_students_>56.79</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>22.34</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>4.605x</Course_Id>
+		<Course_Name>A Global History of Architecture</Course_Name>
+		<Launch_Date_on_online>09/23/2014</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Mark Jarzombek</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>61.06</Total_course_videos_played_percentage>
+		<Total_recomended_hours>54.46</Total_recomended_hours>
+		<Average_hours_for_Certification>51.76</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>7052</Total_students>
+			<students_average_Age>29.0</students_average_Age>
+			<Percentage_male_students>48.56</Percentage_male_students>
+			<Percentage_female_students_>51.44</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>7.54</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>24.00x</Course_Id>
+		<Course_Name>Introduction to Philosophy: God, Knowledge and Consciousness</Course_Name>
+		<Launch_Date_on_online>09/30/2014</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Caspar Hare</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>70.61</Total_course_videos_played_percentage>
+		<Total_recomended_hours>65.35</Total_recomended_hours>
+		<Average_hours_for_Certification>33.14</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>20109</Total_students>
+			<students_average_Age>28.0</students_average_Age>
+			<Percentage_male_students>66.54</Percentage_male_students>
+			<Percentage_female_students_>33.46</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>14.78</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>HUM2.3x</Course_Id>
+		<Course_Name>The Ancient Greek Hero in 24 Hours (Hours 12-15): Cult of Heroes</Course_Name>
+		<Launch_Date_on_online>10/08/2014</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Gregory Nagy</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>43.18</Total_course_videos_played_percentage>
+		<Total_recomended_hours>3.2</Total_recomended_hours>
+		<Average_hours_for_Certification>1.77</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>1559</Total_students>
+			<students_average_Age>34.0</students_average_Age>
+			<Percentage_male_students>50.35</Percentage_male_students>
+			<Percentage_female_students_>49.65</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>2.9</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>6.00.2x</Course_Id>
+		<Course_Name>Introduction to Computational Thinking and Data Science</Course_Name>
+		<Launch_Date_on_online>10/21/2014</Launch_Date_on_online>
+		<Subject>Computer Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Eric Grimson</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>71.12</Total_course_videos_played_percentage>
+		<Total_recomended_hours>81.0</Total_recomended_hours>
+		<Average_hours_for_Certification>38.46</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>11690</Total_students>
+			<students_average_Age>29.0</students_average_Age>
+			<Percentage_male_students>87.33</Percentage_male_students>
+			<Percentage_female_students_>12.67</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>7.7</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>11.126x</Course_Id>
+		<Course_Name>Introduction to Game Design</Course_Name>
+		<Launch_Date_on_online>10/22/2014</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Eric Klopfer</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>63.42</Total_course_videos_played_percentage>
+		<Total_recomended_hours>50.33</Total_recomended_hours>
+		<Average_hours_for_Certification>7.51</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>25569</Total_students>
+			<students_average_Age>26.0</students_average_Age>
+			<Percentage_male_students>82.01</Percentage_male_students>
+			<Percentage_female_students_>17.99</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>0.0</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>HUM2.5x</Course_Id>
+		<Course_Name>The Ancient Greek Hero: Plato and Beyond</Course_Name>
+		<Launch_Date_on_online>11/12/2014</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Gregory Nagy</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>43.41</Total_course_videos_played_percentage>
+		<Total_recomended_hours>2.41</Total_recomended_hours>
+		<Average_hours_for_Certification>1.52</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>2201</Total_students>
+			<students_average_Age>34.0</students_average_Age>
+			<Percentage_male_students>53.43</Percentage_male_students>
+			<Percentage_female_students_>46.57</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>3.41</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>CS50x</Course_Id>
+		<Course_Name>Introduction to Computer Science</Course_Name>
+		<Launch_Date_on_online>01/01/2015</Launch_Date_on_online>
+		<Subject>Computer Science</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>David Malan</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>67.8</Total_course_videos_played_percentage>
+		<Total_recomended_hours>275.96</Total_recomended_hours>
+		<Average_hours_for_Certification>0.0</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>301082</Total_students>
+			<students_average_Age>25.0</students_average_Age>
+			<Percentage_male_students>77.68</Percentage_male_students>
+			<Percentage_female_students_>22.32</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>0.0</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>AMPOx.3</Course_Id>
+		<Course_Name>Poetry in America: Walt Whitman</Course_Name>
+		<Launch_Date_on_online>01/07/2015</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Elisa New</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>73.53</Total_course_videos_played_percentage>
+		<Total_recomended_hours>9.2</Total_recomended_hours>
+		<Average_hours_for_Certification>12.34</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>3879</Total_students>
+			<students_average_Age>33.0</students_average_Age>
+			<Percentage_male_students>44.63</Percentage_male_students>
+			<Percentage_female_students_>55.37</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>14.46</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>HLS2x</Course_Id>
+		<Course_Name>ContractsX: From Trust to Promise to Contract</Course_Name>
+		<Launch_Date_on_online>01/08/2015</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Charles Fried</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>72.64</Total_course_videos_played_percentage>
+		<Total_recomended_hours>68.16</Total_recomended_hours>
+		<Average_hours_for_Certification>16.15</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>15433</Total_students>
+			<students_average_Age>30.0</students_average_Age>
+			<Percentage_male_students>66.27</Percentage_male_students>
+			<Percentage_female_students_>33.73</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>0.01</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>15.390.2x</Course_Id>
+		<Course_Name>Entrepreneurship 102: What Can You Do For Your Customer?</Course_Name>
+		<Launch_Date_on_online>01/09/2015</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Bill Aulet</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>61.35</Total_course_videos_played_percentage>
+		<Total_recomended_hours>33.06</Total_recomended_hours>
+		<Average_hours_for_Certification>11.65</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>13173</Total_students>
+			<students_average_Age>30.0</students_average_Age>
+			<Percentage_male_students>77.65</Percentage_male_students>
+			<Percentage_female_students_>22.35</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>4.33</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>PH525.1x</Course_Id>
+		<Course_Name>Data Analysis for Genomics: Statistics and R for the Life Sciences</Course_Name>
+		<Launch_Date_on_online>01/19/2015</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Rafael Irizarry</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>68.01</Total_course_videos_played_percentage>
+		<Total_recomended_hours>107.06</Total_recomended_hours>
+		<Average_hours_for_Certification>16.84</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>28425</Total_students>
+			<students_average_Age>30.0</students_average_Age>
+			<Percentage_male_students>69.9</Percentage_male_students>
+			<Percentage_female_students_>30.1</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>3.01</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>14.73x</Course_Id>
+		<Course_Name>The Challenges of Global Poverty</Course_Name>
+		<Launch_Date_on_online>02/03/2015</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Duflo, Banerjee</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>67.18</Total_course_videos_played_percentage>
+		<Total_recomended_hours>66.87</Total_recomended_hours>
+		<Average_hours_for_Certification>61.4</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>7664</Total_students>
+			<students_average_Age>28.0</students_average_Age>
+			<Percentage_male_students>51.51</Percentage_male_students>
+			<Percentage_female_students_>48.49</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>5.78</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>1368.4x</Course_Id>
+		<Course_Name>Saving Schools: History, Politics, and Policy in U.S. Education</Course_Name>
+		<Launch_Date_on_online>02/09/2015</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Paul Peterson</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>62.91</Total_course_videos_played_percentage>
+		<Total_recomended_hours>3.16</Total_recomended_hours>
+		<Average_hours_for_Certification>4.86</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>1465</Total_students>
+			<students_average_Age>35.0</students_average_Age>
+			<Percentage_male_students>48.5</Percentage_male_students>
+			<Percentage_female_students_>51.5</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>19.06</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>8.05x</Course_Id>
+		<Course_Name>Mastering Quantum Mechanics</Course_Name>
+		<Launch_Date_on_online>02/10/2015</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Barton Zwiebach</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>71.33</Total_course_videos_played_percentage>
+		<Total_recomended_hours>187.44</Total_recomended_hours>
+		<Average_hours_for_Certification>251.82</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>10932</Total_students>
+			<students_average_Age>26.0</students_average_Age>
+			<Percentage_male_students>87.19</Percentage_male_students>
+			<Percentage_female_students_>12.81</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>8.03</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>PH525.2x</Course_Id>
+		<Course_Name>Introduction to Linear Models and Matrix Algebra</Course_Name>
+		<Launch_Date_on_online>02/16/2015</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Rafael Irizarry</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>58.98</Total_course_videos_played_percentage>
+		<Total_recomended_hours>27.9</Total_recomended_hours>
+		<Average_hours_for_Certification>9.97</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>12007</Total_students>
+			<students_average_Age>30.0</students_average_Age>
+			<Percentage_male_students>80.48</Percentage_male_students>
+			<Percentage_female_students_>19.52</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>1.57</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>6.004.1x</Course_Id>
+		<Course_Name>Computation Structures: Digital Circuits</Course_Name>
+		<Launch_Date_on_online>03/03/2015</Launch_Date_on_online>
+		<Subject>Computer Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Chris Terman, Steve Ward, Silvina Hanono Wachman</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>64.37</Total_course_videos_played_percentage>
+		<Total_recomended_hours>126.65</Total_recomended_hours>
+		<Average_hours_for_Certification>72.18</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>15530</Total_students>
+			<students_average_Age>26.0</students_average_Age>
+			<Percentage_male_students>89.5</Percentage_male_students>
+			<Percentage_female_students_>10.5</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>5.71</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>6.00.2x</Course_Id>
+		<Course_Name>Introduction to Computational Thinking and Data Science</Course_Name>
+		<Launch_Date_on_online>03/04/2015</Launch_Date_on_online>
+		<Subject>Computer Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Eric Grimson</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>70.27</Total_course_videos_played_percentage>
+		<Total_recomended_hours>159.01</Total_recomended_hours>
+		<Average_hours_for_Certification>63.36</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>14835</Total_students>
+			<students_average_Age>28.0</students_average_Age>
+			<Percentage_male_students>85.33</Percentage_male_students>
+			<Percentage_female_students_>14.67</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>6.42</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>AMPOx.4</Course_Id>
+		<Course_Name>Poetry in America: Emily Dickinson</Course_Name>
+		<Launch_Date_on_online>03/18/2015</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Elisa New</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>74.63</Total_course_videos_played_percentage>
+		<Total_recomended_hours>20.14</Total_recomended_hours>
+		<Average_hours_for_Certification>19.02</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>5261</Total_students>
+			<students_average_Age>38.0</students_average_Age>
+			<Percentage_male_students>33.26</Percentage_male_students>
+			<Percentage_female_students_>66.74</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>17.7</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>15.390.1x</Course_Id>
+		<Course_Name>Entrepreneurship 101: Who Is Your Customer?</Course_Name>
+		<Launch_Date_on_online>03/31/2015</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Bill Aulet</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>67.34</Total_course_videos_played_percentage>
+		<Total_recomended_hours>64.07</Total_recomended_hours>
+		<Average_hours_for_Certification>9.09</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>25206</Total_students>
+			<students_average_Age>28.0</students_average_Age>
+			<Percentage_male_students>74.09</Percentage_male_students>
+			<Percentage_female_students_>25.91</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>7.55</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>3.15x</Course_Id>
+		<Course_Name>Electrical, Optical and Magnetic Materials and Devices</Course_Name>
+		<Launch_Date_on_online>04/08/2015</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Caroline Ross</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>50.84</Total_course_videos_played_percentage>
+		<Total_recomended_hours>30.79</Total_recomended_hours>
+		<Average_hours_for_Certification>99.23</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>10626</Total_students>
+			<students_average_Age>25.0</students_average_Age>
+			<Percentage_male_students>86.95</Percentage_male_students>
+			<Percentage_female_students_>13.05</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>1.38</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>PH525.7x</Course_Id>
+		<Course_Name>Data Analysis for Genomics: Case study, ChIP Sequence Data Analysis</Course_Name>
+		<Launch_Date_on_online>04/27/2015</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Rafael Irizarry</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>52.54</Total_course_videos_played_percentage>
+		<Total_recomended_hours>3.6</Total_recomended_hours>
+		<Average_hours_for_Certification>4.14</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>2250</Total_students>
+			<students_average_Age>30.0</students_average_Age>
+			<Percentage_male_students>68.59</Percentage_male_students>
+			<Percentage_female_students_>31.41</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>2.14</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>BUS5.1x</Course_Id>
+		<Course_Name>Innovating in Health Care</Course_Name>
+		<Launch_Date_on_online>05/05/2015</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Regina Herzlinger, Margo Selzer</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>46.81</Total_course_videos_played_percentage>
+		<Total_recomended_hours>13.23</Total_recomended_hours>
+		<Average_hours_for_Certification>14.92</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>9185</Total_students>
+			<students_average_Age>30.0</students_average_Age>
+			<Percentage_male_students>61.48</Percentage_male_students>
+			<Percentage_female_students_>38.52</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>6.72</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>CTL.SC1x</Course_Id>
+		<Course_Name>Supply Chain and Logistics Fundamentals</Course_Name>
+		<Launch_Date_on_online>05/27/2015</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Chris Caplice</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>69.82</Total_course_videos_played_percentage>
+		<Total_recomended_hours>344.95</Total_recomended_hours>
+		<Average_hours_for_Certification>131.05</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>19996</Total_students>
+			<students_average_Age>29.0</students_average_Age>
+			<Percentage_male_students>75.98</Percentage_male_students>
+			<Percentage_female_students_>24.02</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>16.42</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>18.01.1x</Course_Id>
+		<Course_Name>Calculus: Differentiation</Course_Name>
+		<Launch_Date_on_online>06/02/2015</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>David Jerison</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>63.22</Total_course_videos_played_percentage>
+		<Total_recomended_hours>218.27</Total_recomended_hours>
+		<Average_hours_for_Certification>117.82</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>18266</Total_students>
+			<students_average_Age>26.0</students_average_Age>
+			<Percentage_male_students>79.66</Percentage_male_students>
+			<Percentage_female_students_>20.34</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>5.68</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>6.00.1x</Course_Id>
+		<Course_Name>Introduction to Computer Science and Programming</Course_Name>
+		<Launch_Date_on_online>06/10/2015</Launch_Date_on_online>
+		<Subject>Computer Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Eric Grimson, John Guttag</Instructors>
+		<Year>3</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>77.31</Total_course_videos_played_percentage>
+		<Total_recomended_hours>895.01</Total_recomended_hours>
+		<Average_hours_for_Certification>86.65</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>53964</Total_students>
+			<students_average_Age>25.0</students_average_Age>
+			<Percentage_male_students>78.53</Percentage_male_students>
+			<Percentage_female_students_>21.47</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>7.6</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>SPU27x</Course_Id>
+		<Course_Name>Science and Cooking: From Haute Cuisine to Soft Matter Science</Course_Name>
+		<Launch_Date_on_online>06/17/2015</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Michael Brenner</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>63.28</Total_course_videos_played_percentage>
+		<Total_recomended_hours>67.71</Total_recomended_hours>
+		<Average_hours_for_Certification>12.28</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>48922</Total_students>
+			<students_average_Age>30.0</students_average_Age>
+			<Percentage_male_students>47.81</Percentage_male_students>
+			<Percentage_female_students_>52.19</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>7.3</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>7.28.1x</Course_Id>
+		<Course_Name>Molecular Biology: DNA Replication and Repair</Course_Name>
+		<Launch_Date_on_online>08/04/2015</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Stephen P. Bell, Tania A. Baker, Mary Ellen Wiltrout, Nathaniel Schafheimer, Sera Thornton</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>65.17</Total_course_videos_played_percentage>
+		<Total_recomended_hours>43.57</Total_recomended_hours>
+		<Average_hours_for_Certification>85.86</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>5725</Total_students>
+			<students_average_Age>28.0</students_average_Age>
+			<Percentage_male_students>55.7</Percentage_male_students>
+			<Percentage_female_students_>44.3</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>7.35</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>6.004.1x</Course_Id>
+		<Course_Name>Computation Structures: Digital Circuits</Course_Name>
+		<Launch_Date_on_online>09/01/2015</Launch_Date_on_online>
+		<Subject>Computer Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Chris Terman, Steve Ward, Silvina Wachman</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>62.85</Total_course_videos_played_percentage>
+		<Total_recomended_hours>97.06</Total_recomended_hours>
+		<Average_hours_for_Certification>72.89</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>16094</Total_students>
+			<students_average_Age>24.0</students_average_Age>
+			<Percentage_male_students>87.37</Percentage_male_students>
+			<Percentage_female_students_>12.63</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>0.0</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>3.032.1x</Course_Id>
+		<Course_Name>Mechanical Behavior of Materials: Linear Elastic Behavior</Course_Name>
+		<Launch_Date_on_online>09/09/2015</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Lorna J. Gibson</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>63.21</Total_course_videos_played_percentage>
+		<Total_recomended_hours>40.32</Total_recomended_hours>
+		<Average_hours_for_Certification>32.79</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>6577</Total_students>
+			<students_average_Age>25.0</students_average_Age>
+			<Percentage_male_students>83.34</Percentage_male_students>
+			<Percentage_female_students_>16.66</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>4.64</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>HUM1.1x</Course_Id>
+		<Course_Name>History of the Book: Making and Meaning in the Medieval Manuscript</Course_Name>
+		<Launch_Date_on_online>09/21/2015</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Jeffrey Hamburger, Bill Stoneman</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>73.47</Total_course_videos_played_percentage>
+		<Total_recomended_hours>11.11</Total_recomended_hours>
+		<Average_hours_for_Certification>5.88</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>4033</Total_students>
+			<students_average_Age>36.0</students_average_Age>
+			<Percentage_male_students>39.11</Percentage_male_students>
+			<Percentage_female_students_>60.89</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>4.76</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>HUM1.4x</Course_Id>
+		<Course_Name>History of the Book: The History of the Book in the 17th and 18th Century Europe</Course_Name>
+		<Launch_Date_on_online>09/21/2015</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Robert Darnton</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>67.53</Total_course_videos_played_percentage>
+		<Total_recomended_hours>5.71</Total_recomended_hours>
+		<Average_hours_for_Certification>4.28</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>2587</Total_students>
+			<students_average_Age>32.0</students_average_Age>
+			<Percentage_male_students>38.04</Percentage_male_students>
+			<Percentage_female_students_>61.96</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>1.43</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>HUM1.7x</Course_Id>
+		<Course_Name>History of the Book: Monasteries, Schools, and Notaries, Part 2: Introduction to the Transitional Gothic Script</Course_Name>
+		<Launch_Date_on_online>09/21/2015</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Beverly Kienzle</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>64.93</Total_course_videos_played_percentage>
+		<Total_recomended_hours>3.49</Total_recomended_hours>
+		<Average_hours_for_Certification>8.25</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>670</Total_students>
+			<students_average_Age>39.0</students_average_Age>
+			<Percentage_male_students>44.76</Percentage_male_students>
+			<Percentage_female_students_>55.24</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>7.01</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>14.74x</Course_Id>
+		<Course_Name>Foundations of Development Policy: Advanced Development Economics</Course_Name>
+		<Launch_Date_on_online>09/21/2015</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Abhijit Vinayak Banerjee, Esther Duflo, Benjamin Olken</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>58.87</Total_course_videos_played_percentage>
+		<Total_recomended_hours>77.46</Total_recomended_hours>
+		<Average_hours_for_Certification>104.81</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>7532</Total_students>
+			<students_average_Age>28.0</students_average_Age>
+			<Percentage_male_students>59.91</Percentage_male_students>
+			<Percentage_female_students_>40.09</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>6.63</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>16.101x</Course_Id>
+		<Course_Name>Introduction to Aerodynamics</Course_Name>
+		<Launch_Date_on_online>09/28/2015</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>David L. Darmofal</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>0</Total_course_videos_played_percentage>
+		<Total_recomended_hours>51.1</Total_recomended_hours>
+		<Average_hours_for_Certification>138.06</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>18732</Total_students>
+			<students_average_Age>23.0</students_average_Age>
+			<Percentage_male_students>89.27</Percentage_male_students>
+			<Percentage_female_students_>10.73</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>2.68</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>6.002.3x</Course_Id>
+		<Course_Name>Circuits and Electronics: Applications</Course_Name>
+		<Launch_Date_on_online>09/29/2015</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Anant Agarwal, Gerald Sussman, Piotr Mitros, Chris Terman, Bonnie Lam</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>44.39</Total_course_videos_played_percentage>
+		<Total_recomended_hours>17.95</Total_recomended_hours>
+		<Average_hours_for_Certification>53.73</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>5566</Total_students>
+			<students_average_Age>24.0</students_average_Age>
+			<Percentage_male_students>88.81</Percentage_male_students>
+			<Percentage_female_students_>11.19</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>1.04</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>GOV1368.2x</Course_Id>
+		<Course_Name>Saving Schools: History, Politics, and Policy of U.S. Education &#8211; Teacher Policies</Course_Name>
+		<Launch_Date_on_online>10/01/2015</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Paul Peterson</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>55.98</Total_course_videos_played_percentage>
+		<Total_recomended_hours>1.85</Total_recomended_hours>
+		<Average_hours_for_Certification>4.65</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>702</Total_students>
+			<students_average_Age>31.0</students_average_Age>
+			<Percentage_male_students>48.98</Percentage_male_students>
+			<Percentage_female_students_>51.02</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>11.54</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>ER22x</Course_Id>
+		<Course_Name>Justice</Course_Name>
+		<Launch_Date_on_online>10/01/2015</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Michael Sandel</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>66.93</Total_course_videos_played_percentage>
+		<Total_recomended_hours>109.74</Total_recomended_hours>
+		<Average_hours_for_Certification>16.72</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>30699</Total_students>
+			<students_average_Age>26.0</students_average_Age>
+			<Percentage_male_students>57.56</Percentage_male_students>
+			<Percentage_female_students_>42.44</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>10.5</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>JPAL101x</Course_Id>
+		<Course_Name>Evaluating Social Programs</Course_Name>
+		<Launch_Date_on_online>10/05/2015</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Rachel Glennerster, Marc Shotland</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>54.93</Total_course_videos_played_percentage>
+		<Total_recomended_hours>21.5</Total_recomended_hours>
+		<Average_hours_for_Certification>38.13</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>4187</Total_students>
+			<students_average_Age>30.0</students_average_Age>
+			<Percentage_male_students>50.77</Percentage_male_students>
+			<Percentage_female_students_>49.23</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>5.18</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>PH525.1x</Course_Id>
+		<Course_Name>Data Analysis for Genomics: Statistics and R</Course_Name>
+		<Launch_Date_on_online>10/15/2015</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Rafael Irizarry</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>60.5</Total_course_videos_played_percentage>
+		<Total_recomended_hours>64.81</Total_recomended_hours>
+		<Average_hours_for_Certification>23.29</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>18540</Total_students>
+			<students_average_Age>28.0</students_average_Age>
+			<Percentage_male_students>65.94</Percentage_male_students>
+			<Percentage_female_students_>34.06</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>3.07</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>SW12.1x</Course_Id>
+		<Course_Name>Political and Intellectual Foundations: From the Sage Kings to Confucius and the Legalists</Course_Name>
+		<Launch_Date_on_online>10/27/2015</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Peter Bol, Bill Kirby</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>78.74</Total_course_videos_played_percentage>
+		<Total_recomended_hours>25.68</Total_recomended_hours>
+		<Average_hours_for_Certification>20.82</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>6519</Total_students>
+			<students_average_Age>28.0</students_average_Age>
+			<Percentage_male_students>60.75</Percentage_male_students>
+			<Percentage_female_students_>39.25</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>12.59</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>SW12.4x</Course_Id>
+		<Course_Name>Literati China: Examinations and Neo-Confucianism</Course_Name>
+		<Launch_Date_on_online>10/27/2015</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Peter Bol, Bill Kirby</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>66.51</Total_course_videos_played_percentage>
+		<Total_recomended_hours>3.11</Total_recomended_hours>
+		<Average_hours_for_Certification>18.05</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>427</Total_students>
+			<students_average_Age>31.0</students_average_Age>
+			<Percentage_male_students>66.38</Percentage_male_students>
+			<Percentage_female_students_>33.62</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>17.8</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>7.28.2x</Course_Id>
+		<Course_Name>Molecular Biology: Transcription and Transposition</Course_Name>
+		<Launch_Date_on_online>10/27/2015</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Stephen P. Bell, Tania A. Baker, Mary Ellen Wiltrout, Nathaniel Schafheimer, Sera Thornton</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>63.64</Total_course_videos_played_percentage>
+		<Total_recomended_hours>47.23</Total_recomended_hours>
+		<Average_hours_for_Certification>77.55</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>2860</Total_students>
+			<students_average_Age>29.0</students_average_Age>
+			<Percentage_male_students>59.1</Percentage_male_students>
+			<Percentage_female_students_>40.9</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>6.78</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>SW12.7x</Course_Id>
+		<Course_Name>Invasions, Rebellions and the Fall of Imperial China</Course_Name>
+		<Launch_Date_on_online>11/02/2015</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Peter Bol, Bill Kirby</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>72.73</Total_course_videos_played_percentage>
+		<Total_recomended_hours>2.03</Total_recomended_hours>
+		<Average_hours_for_Certification>12.05</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>385</Total_students>
+			<students_average_Age>31.0</students_average_Age>
+			<Percentage_male_students>60.84</Percentage_male_students>
+			<Percentage_female_students_>39.16</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>18.7</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>VJx</Course_Id>
+		<Course_Name>Visualizing Japan (1850s-1930s): Westernization, Protest, Modernity</Course_Name>
+		<Launch_Date_on_online>11/10/2015</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Andrew Gordon, John Dower, Shigeru Miyagawa</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>68.26</Total_course_videos_played_percentage>
+		<Total_recomended_hours>18.37</Total_recomended_hours>
+		<Average_hours_for_Certification>25.89</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>4842</Total_students>
+			<students_average_Age>26.0</students_average_Age>
+			<Percentage_male_students>58.87</Percentage_male_students>
+			<Percentage_female_students_>41.13</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>7.43</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>MUS24x</Course_Id>
+		<Course_Name>First Nights: Handel&#8217;s Messiah and Baroque Oratorio</Course_Name>
+		<Launch_Date_on_online>11/16/2015</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Tom Kelly</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>78.09</Total_course_videos_played_percentage>
+		<Total_recomended_hours>12.87</Total_recomended_hours>
+		<Average_hours_for_Certification>8.41</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>3806</Total_students>
+			<students_average_Age>36.0</students_average_Age>
+			<Percentage_male_students>52.87</Percentage_male_students>
+			<Percentage_female_students_>47.13</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>14.61</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>24.09x</Course_Id>
+		<Course_Name>Philosophy: Minds and Machines</Course_Name>
+		<Launch_Date_on_online>11/17/2015</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Alex Byrne</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>61.87</Total_course_videos_played_percentage>
+		<Total_recomended_hours>94.63</Total_recomended_hours>
+		<Average_hours_for_Certification>73.07</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>10837</Total_students>
+			<students_average_Age>29.0</students_average_Age>
+			<Percentage_male_students>73.34</Percentage_male_students>
+			<Percentage_female_students_>26.66</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>7.93</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>8.421.4x</Course_Id>
+		<Course_Name>Atomic and Optical Physics: Atom-Light Interactions 2: Line Broadening and Two-Photon Transitions</Course_Name>
+		<Launch_Date_on_online>12/14/2015</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Wolfgang Ketterle, David E. Pritchard, Isaac Chuang</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>47.57</Total_course_videos_played_percentage>
+		<Total_recomended_hours>3.88</Total_recomended_hours>
+		<Average_hours_for_Certification>42.5</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>658</Total_students>
+			<students_average_Age>26.0</students_average_Age>
+			<Percentage_male_students>85.01</Percentage_male_students>
+			<Percentage_female_students_>14.99</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>5.93</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>6.302.0x</Course_Id>
+		<Course_Name>Introduction to Feedback Control Theory</Course_Name>
+		<Launch_Date_on_online>01/04/2016</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Jacob White, Joe Steinmeyer</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>12.25</Total_course_videos_played_percentage>
+		<Total_recomended_hours>21.3</Total_recomended_hours>
+		<Average_hours_for_Certification>42.73</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>8377</Total_students>
+			<students_average_Age>25.0</students_average_Age>
+			<Percentage_male_students>92.54</Percentage_male_students>
+			<Percentage_female_students_>7.46</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>2.6</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>6.00.1x</Course_Id>
+		<Course_Name>Introduction to Computer Science and Programming Using Python</Course_Name>
+		<Launch_Date_on_online>01/13/2016</Launch_Date_on_online>
+		<Subject>Computer Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Eric Grimson, John Guttag, Ana Bell</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>51.8</Total_course_videos_played_percentage>
+		<Total_recomended_hours>248.96</Total_recomended_hours>
+		<Average_hours_for_Certification>17.62</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>63658</Total_students>
+			<students_average_Age>26.0</students_average_Age>
+			<Percentage_male_students>81.23</Percentage_male_students>
+			<Percentage_female_students_>18.77</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>7.19</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>PH556x</Course_Id>
+		<Course_Name>Practical Improvement Science in Health Care: A Roadmap for Getting Results</Course_Name>
+		<Launch_Date_on_online>01/20/2016</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Don Goldmann, Dave Williams, Don Berwick</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>57.14</Total_course_videos_played_percentage>
+		<Total_recomended_hours>19.79</Total_recomended_hours>
+		<Average_hours_for_Certification>9.39</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>6792</Total_students>
+			<students_average_Age>40.0</students_average_Age>
+			<Percentage_male_students>37.24</Percentage_male_students>
+			<Percentage_female_students_>62.76</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>35.28</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>LAUNCH.x</Course_Id>
+		<Course_Name>Becoming an Entrepreneur</Course_Name>
+		<Launch_Date_on_online>01/25/2016</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Laurie Stach</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>70.58</Total_course_videos_played_percentage>
+		<Total_recomended_hours>45.76</Total_recomended_hours>
+		<Average_hours_for_Certification>16.21</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>18183</Total_students>
+			<students_average_Age>27.0</students_average_Age>
+			<Percentage_male_students>76.21</Percentage_male_students>
+			<Percentage_female_students_>23.79</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>15.71</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>21W.789x</Course_Id>
+		<Course_Name>Mobile Application Experiences: From a Domain to an App Idea</Course_Name>
+		<Launch_Date_on_online>02/01/2016</Launch_Date_on_online>
+		<Subject>Computer Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Frank Bentley, Ed Barrett</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>62.13</Total_course_videos_played_percentage>
+		<Total_recomended_hours>27.77</Total_recomended_hours>
+		<Average_hours_for_Certification>22.17</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>16407</Total_students>
+			<students_average_Age>28.0</students_average_Age>
+			<Percentage_male_students>80.16</Percentage_male_students>
+			<Percentage_female_students_>19.84</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>5.18</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>CTL.SC1x</Course_Id>
+		<Course_Name>Supply Chain and Logistics Fundamentals</Course_Name>
+		<Launch_Date_on_online>02/10/2016</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Chris Caplice</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>80.21</Total_course_videos_played_percentage>
+		<Total_recomended_hours>674.4</Total_recomended_hours>
+		<Average_hours_for_Certification>158.0</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>18686</Total_students>
+			<students_average_Age>29.0</students_average_Age>
+			<Percentage_male_students>77.2</Percentage_male_students>
+			<Percentage_female_students_>22.8</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>20.05</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>12.340x</Course_Id>
+		<Course_Name>Global Warming Science</Course_Name>
+		<Launch_Date_on_online>02/16/2016</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Kerry Emanuel, Dan Cziczo, David McGee</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>57.63</Total_course_videos_played_percentage>
+		<Total_recomended_hours>25.06</Total_recomended_hours>
+		<Average_hours_for_Certification>101.75</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>3842</Total_students>
+			<students_average_Age>26.0</students_average_Age>
+			<Percentage_male_students>65.37</Percentage_male_students>
+			<Percentage_female_students_>34.63</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>5.36</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>SW25x</Course_Id>
+		<Course_Name>Global Health Case Studies from a Biosocial Perspective</Course_Name>
+		<Launch_Date_on_online>02/23/2016</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Arthur Kleinman, Paul Farmer, Salmaan Keshavjee, Anne Becker</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>58.47</Total_course_videos_played_percentage>
+		<Total_recomended_hours>28.87</Total_recomended_hours>
+		<Average_hours_for_Certification>37.03</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>4050</Total_students>
+			<students_average_Age>27.0</students_average_Age>
+			<Percentage_male_students>40.9</Percentage_male_students>
+			<Percentage_female_students_>59.1</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>15.36</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>6.00.2x</Course_Id>
+		<Course_Name>Introduction to Computational Thinking and Data Science</Course_Name>
+		<Launch_Date_on_online>03/02/2016</Launch_Date_on_online>
+		<Subject>Computer Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Eric Grimson, John Guttag, Ana Bell</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>64.74</Total_course_videos_played_percentage>
+		<Total_recomended_hours>144.07</Total_recomended_hours>
+		<Average_hours_for_Certification>73.23</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>14003</Total_students>
+			<students_average_Age>26.0</students_average_Age>
+			<Percentage_male_students>85.3</Percentage_male_students>
+			<Percentage_female_students_>14.7</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>5.99</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>8.05.2x</Course_Id>
+		<Course_Name>Mastering Quantum Mechanics: Quantum Dynamics</Course_Name>
+		<Launch_Date_on_online>03/23/2016</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Barton Zwiebach, Saif Rayyan</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>51.93</Total_course_videos_played_percentage>
+		<Total_recomended_hours>25.48</Total_recomended_hours>
+		<Average_hours_for_Certification>93.84</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>1862</Total_students>
+			<students_average_Age>25.0</students_average_Age>
+			<Percentage_male_students>89.36</Percentage_male_students>
+			<Percentage_female_students_>10.64</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>5.8</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>18.01.3x</Course_Id>
+		<Course_Name>Calculus: Coordinate Systems and Infinite Series</Course_Name>
+		<Launch_Date_on_online>03/29/2016</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>David Jerison</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>1</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>55.75</Total_course_videos_played_percentage>
+		<Total_recomended_hours>44.72</Total_recomended_hours>
+		<Average_hours_for_Certification>90.87</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>3749</Total_students>
+			<students_average_Age>25.0</students_average_Age>
+			<Percentage_male_students>83.4</Percentage_male_students>
+			<Percentage_female_students_>16.6</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>0.16</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>AMPOx.6</Course_Id>
+		<Course_Name>Poetry in America: Modernism</Course_Name>
+		<Launch_Date_on_online>04/08/2016</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Elisa New</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>72.94</Total_course_videos_played_percentage>
+		<Total_recomended_hours>24.48</Total_recomended_hours>
+		<Average_hours_for_Certification>59.94</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>3049</Total_students>
+			<students_average_Age>36.0</students_average_Age>
+			<Percentage_male_students>39.5</Percentage_male_students>
+			<Percentage_female_students_>60.5</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>18.6</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>PH525.7x</Course_Id>
+		<Course_Name>Data Analysis for Genomics: Case Studies in Functional Genomics</Course_Name>
+		<Launch_Date_on_online>04/15/2016</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Rafael Irizarry</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>48.08</Total_course_videos_played_percentage>
+		<Total_recomended_hours>5.68</Total_recomended_hours>
+		<Average_hours_for_Certification>34.33</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>1716</Total_students>
+			<students_average_Age>28.0</students_average_Age>
+			<Percentage_male_students>62.38</Percentage_male_students>
+			<Percentage_female_students_>37.62</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>2.68</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>21W.789.4x</Course_Id>
+		<Course_Name>Mobile Application Experiences: Understanding Use</Course_Name>
+		<Launch_Date_on_online>04/25/2016</Launch_Date_on_online>
+		<Subject>Computer Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Frank Bentley, Ed Barrett</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>43.37</Total_course_videos_played_percentage>
+		<Total_recomended_hours>0.62</Total_recomended_hours>
+		<Average_hours_for_Certification>7.38</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>664</Total_students>
+			<students_average_Age>29.0</students_average_Age>
+			<Percentage_male_students>79.28</Percentage_male_students>
+			<Percentage_female_students_>20.72</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>1.2</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>MUS24.1x</Course_Id>
+		<Course_Name>First Nights: L'Orfeo</Course_Name>
+		<Launch_Date_on_online>04/28/2016</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Tom Kelly</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>78.23</Total_course_videos_played_percentage>
+		<Total_recomended_hours>4.94</Total_recomended_hours>
+		<Average_hours_for_Certification>8.01</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>1199</Total_students>
+			<students_average_Age>40.0</students_average_Age>
+			<Percentage_male_students>53.63</Percentage_male_students>
+			<Percentage_female_students_>46.37</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>6.42</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>GSE2x</Course_Id>
+		<Course_Name>Leaders of Learning</Course_Name>
+		<Launch_Date_on_online>05/11/2016</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Richard Elmore</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>70.53</Total_course_videos_played_percentage>
+		<Total_recomended_hours>20.17</Total_recomended_hours>
+		<Average_hours_for_Certification>14.46</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>9743</Total_students>
+			<students_average_Age>31.0</students_average_Age>
+			<Percentage_male_students>48.89</Percentage_male_students>
+			<Percentage_female_students_>51.11</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>14.6</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>21W.789.5x</Course_Id>
+		<Course_Name>Mobile Application Experiences: Reporting Research Findings</Course_Name>
+		<Launch_Date_on_online>05/23/2016</Launch_Date_on_online>
+		<Subject>Computer Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Frank Bentley, Ed Barrett</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>25.78</Total_course_videos_played_percentage>
+		<Total_recomended_hours>0.11</Total_recomended_hours>
+		<Average_hours_for_Certification>6.88</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>322</Total_students>
+			<students_average_Age>29.0</students_average_Age>
+			<Percentage_male_students>76.1</Percentage_male_students>
+			<Percentage_female_students_>23.9</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>1.55</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>HDS3221.4x</Course_Id>
+		<Course_Name>World Religions Through Their Scriptures: Islam</Course_Name>
+		<Launch_Date_on_online>06/01/2016</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Ali Asani</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>71.71</Total_course_videos_played_percentage>
+		<Total_recomended_hours>39.83</Total_recomended_hours>
+		<Average_hours_for_Certification>35.64</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>8695</Total_students>
+			<students_average_Age>31.0</students_average_Age>
+			<Percentage_male_students>50.2</Percentage_male_students>
+			<Percentage_female_students_>49.8</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>19.92</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>ENGSCI137x</Course_Id>
+		<Course_Name>Energy Within Environmental Constraints</Course_Name>
+		<Launch_Date_on_online>06/08/2016</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>David Keith</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>70.89</Total_course_videos_played_percentage>
+		<Total_recomended_hours>94.63</Total_recomended_hours>
+		<Average_hours_for_Certification>94.35</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>8017</Total_students>
+			<students_average_Age>27.0</students_average_Age>
+			<Percentage_male_students>68.41</Percentage_male_students>
+			<Percentage_female_students_>31.59</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>17.28</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>LAUNCHx</Course_Id>
+		<Course_Name>Becoming an Entrepreneur</Course_Name>
+		<Launch_Date_on_online>06/27/2016</Launch_Date_on_online>
+		<Subject>Government, Health, and Social Science</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Laurie Stach</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>68.26</Total_course_videos_played_percentage>
+		<Total_recomended_hours>37.86</Total_recomended_hours>
+		<Average_hours_for_Certification>13.39</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>22959</Total_students>
+			<students_average_Age>27.0</students_average_Age>
+			<Percentage_male_students>74.69</Percentage_male_students>
+			<Percentage_female_students_>25.31</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>25.01</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>3.15.2x</Course_Id>
+		<Course_Name>Optical Materials and Devices</Course_Name>
+		<Launch_Date_on_online>06/29/2016</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Caroline Ross</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>50.71</Total_course_videos_played_percentage>
+		<Total_recomended_hours>11.1</Total_recomended_hours>
+		<Average_hours_for_Certification>41.1</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>2335</Total_students>
+			<students_average_Age>24.0</students_average_Age>
+			<Percentage_male_students>82.87</Percentage_male_students>
+			<Percentage_female_students_>17.13</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>4.03</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>MUS24.4x</Course_Id>
+		<Course_Name>First Nights: Symphonie Fantastique</Course_Name>
+		<Launch_Date_on_online>07/21/2016</Launch_Date_on_online>
+		<Subject>Humanities, History, Design, Religion, and Education</Subject>
+		<Institution_name>HarvardX</Institution_name>
+		<Instructors>Tom Kelly</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>80.81</Total_course_videos_played_percentage>
+		<Total_recomended_hours>1.71</Total_recomended_hours>
+		<Average_hours_for_Certification>5.93</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>615</Total_students>
+			<students_average_Age>38.0</students_average_Age>
+			<Percentage_male_students>56.82</Percentage_male_students>
+			<Percentage_female_students_>43.18</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>8.78</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+	<Course>
+		<Course_Id>6.302.1x</Course_Id>
+		<Course_Name>Introduction to State Space Control</Course_Name>
+		<Launch_Date_on_online>08/01/2016</Launch_Date_on_online>
+		<Subject>Science, Technology, Engineering, and Mathematics</Subject>
+		<Institution_name>MITx</Institution_name>
+		<Instructors>Jacob White, Joe Steinmeyer</Instructors>
+		<Year>4</Year>
+		<Honor_Code_Certificates>0</Honor_Code_Certificates>
+		<Total_course_videos_played_percentage>0</Total_course_videos_played_percentage>
+		<Total_recomended_hours>3.22</Total_recomended_hours>
+		<Average_hours_for_Certification>62.38</Average_hours_for_Certification>
+		<Registered_student_details>
+			<Total_students>1431</Total_students>
+			<students_average_Age>25.0</students_average_Age>
+			<Percentage_male_students>93.44</Percentage_male_students>
+			<Percentage_female_students_>6.56</Percentage_female_students_>
+			<Student_percentage_active_in_Course_Forum>3.84</Student_percentage_active_in_Course_Forum>
+		</Registered_student_details>
+	</Course>
+</Courses>

@@ -1,0 +1,15 @@
+/Courses/Course/Course_Number:/Courses/Course/Course_Id
+/Courses/Course/Course_Title:/Courses/Course/Course_Name
+/Courses/Course/Launch_Date:/Courses/Course/Launch_Date_on_online
+/Courses/Course/Course_Subject:/Courses/Course/Subject
+/Courses/Course/Institution:/Courses/Course/Institution_name
+/Courses/Course/Instructors:/Courses/Course/Instructors
+/Courses/Course/Year:/Courses/Course/Year
+/Courses/Course/Percentage_of_Course_videos_played:/Courses/Course/Total_course_videos_played_percentage
+/Courses/Course/Total_Course_Hours:/Courses/Course/Total_recomended_hours
+/Courses/Course/Median_Hours_for_Certification:/Courses/Course/Average_hours_for_Certification
+/Courses/Course/Participant_details/Total_participants:/Courses/Course/Registered_student_details/Total_students
+/Courses/Course/Participant_details/Participants_Median_Age:/Courses/Course/Registered_student_details/students_average_Age
+/Courses/Course/Participant_details/Male_paticipants_percentage:/Courses/Course/Registered_student_details/Percentage_male_students
+/Courses/Course/Participant_details/Female_paticipants_percentage:/Courses/Course/Registered_student_details/Percentage_female_students_
+/Courses/Course/Participant_details/Percentage_of_participants_Posted_in_Forum:/Courses/Course/Registered_student_details/Student_percentage_active_in_Course_Forum

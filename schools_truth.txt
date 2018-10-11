@@ -1,0 +1,6 @@
+/Schools/School/School_Name:/Schools_details/School_Info/Name
+/Schools/School/School_Metro_Type:/Schools_details/School_Info/Type
+/Schools/School/Location/School_State:/Schools_details/School_Info/Address/State
+/Schools/School/Location/School_Zip:/Schools_details/School_Info/Address/Zip_code
+/Schools/School/Location/School_City:/Schools_details/School_Info/Address/Town
+/Schools/School/Location/School_District:/Schools_details/School_Info/Address/District
