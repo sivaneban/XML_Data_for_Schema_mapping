@@ -1,5 +1,5 @@
 /Mobile_Applications/Android_App/Name:/IOS_Applications/Mobile_App/app_name
-/Mobile_Applications/Android_App/Price:/IOS_Applications/Mobile_App/app_name
+/Mobile_Applications/Android_App/Price:/IOS_Applications/Mobile_App/Price_details/price
 /Mobile_Applications/Android_App/Genres:/IOS_Applications/Mobile_App/prime_genre
 /Mobile_Applications/Android_App/Content_Rating:/IOS_Applications/Mobile_App/age_rating
 /Mobile_Applications/Android_App/Current_version:/IOS_Applications/Mobile_App/App_version
