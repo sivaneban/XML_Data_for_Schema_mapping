@@ -1,0 +1,9 @@
+/Plants:/Flowers
+
+/Plants/Plant:/Flowers/Flowers
+
+/Plants/Plant/Species_name:/Flowers/Flowers
+/Plants/Plant/SepalLength:/Flowers/Flowers/Sepel_Dimension/length
+/Plants/Plant/SepalWidth:/Flowers/Flowers/Sepel_Dimension/width
+/Plants/Plant/PetalLength:/Flowers/Flowers/Petal_Dimension/Length
+/Plants/Plant/PetalWidth:/Flowers/Flowers/Petal_Dimension/Width

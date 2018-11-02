@@ -1,3 +1,9 @@
+/Schools:/Schools_details
+
+/Schools/School:/Schools_details/School_Info
+
+/Schools/School/Location:/Schools_details/School_Info/Address
+
 /Schools/School/School_Name:/Schools_details/School_Info/Name
 /Schools/School/School_Metro_Type:/Schools_details/School_Info/Type
 /Schools/School/Location/School_State:/Schools_details/School_Info/Address/State

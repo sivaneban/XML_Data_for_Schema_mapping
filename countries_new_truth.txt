@@ -1,3 +1,11 @@
+/Countries:/Countries
+
+/Countries/Country:/Countries/Country
+
+/Countries/Country/Population_details:/Countries/Country/Demographics_details
+/Countries/Country/Land_details:/Countries/Country/Geographic_details
+/Countries/Country/Economy_details:/Countries/Country/Domestic_Economic_Details
+
 /Countries/Country/Name:/Countries/Country/Country_name
 /Countries/Country/Region:/Countries/Country/Continent_or_sub_continent
 /Countries/Country/Climate:/Countries/Country/Number_of_climates

@@ -1,3 +1,9 @@
+/Mobile_Applications:/IOS_Applications
+
+/Mobile_Applications/Android_App:/IOS_Applications/Mobile_App
+
+/Mobile_Applications/Android_App/Ratings_And_Reviews:/IOS_Applications/Mobile_App/Ratings_details
+
 /Mobile_Applications/Android_App/Name:/IOS_Applications/Mobile_App/app_name
 /Mobile_Applications/Android_App/Price:/IOS_Applications/Mobile_App/Price_details/price
 /Mobile_Applications/Android_App/Genres:/IOS_Applications/Mobile_App/prime_genre

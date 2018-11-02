@@ -1,0 +1,17 @@
+/Wines:/Wine_reviews
+
+/Wines/Wine:/Wine_reviews/Wine_review
+
+/Wines/Wine/Name:/Wine_reviews/Wine_review/Wine_name
+/Wines/Wine/variety:/Wine_reviews/Wine_review/Wine_variety
+/Wines/Wine/Winery:/Wine_reviews/Wine_review/Winery_Details/Winery_Name
+/Wines/Wine/Price:/Wine_reviews/Wine_review/Wine_Price
+/Wines/Wine/Description:/Wine_reviews/Wine_review/Wine_Description
+/Wines/Wine/Vineyard:/Wine_reviews/Wine_review/Winery_Details/Vineyard_designation
+/Wines/Wine/Winery_location/Country:/Wine_reviews/Wine_review/Winery_Details/Winery_Country
+/Wines/Wine/Winery_location/Province:/Wine_reviews/Wine_review/Winery_Details/Winery_Province
+/Wines/Wine/Winery_location/Region_1:/Wine_reviews/Wine_review/Winery_Details/Winery_Region_1
+/Wines/Wine/Winery_location/Region_2:/Wine_reviews/Wine_review/Winery_Details/Winery_Region_2
+/Wines/Wine/Reviewer_Info/Name:/Wine_reviews/Wine_review/Taster_Name
+/Wines/Wine/Reviewer_Info/Twitter_handle:/Wine_reviews/Wine_review/Wine_Taster_twitter_handle
+/Wines/Wine/Reviewer_Info/Points:/Wine_reviews/Wine_review/Taste_score
