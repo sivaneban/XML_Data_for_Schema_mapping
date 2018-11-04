@@ -1,0 +1,10 @@
+/Movies:/Films
+
+/Movies/Movie:/Films/Film
+
+/Movies/Movie/imdb_rating:/Films/Film/rating_detail
+
+/Movies/Movie/original_title:/Films/Film/Name
+/Movies/Movie/imdb_rating/vote_average:/Films/Film/rating_detail/Rating
+/Movies/Movie/imdb_rating/vote_count:/Films/Film/rating_detail/Votes
+/Movies/Movie/Description/overview:/Films/Film/Description
