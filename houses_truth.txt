@@ -16,4 +16,4 @@
 /Houses/House/Size_details_in_square_feets/Basement_size:/Properties/Property/Area_in_square_feets/sqft_basement
 /Houses/House/Location/zipcode:/Properties/Property/House_location/zip_code
 /Houses/House/Location/Latitude:/Properties/Property/House_location/Lat
-/Houses/House/Location/Latitude:/Properties/Property/House_location/Long
+/Houses/House/Location/Longitude:/Properties/Property/House_location/Long

@@ -7,5 +7,5 @@
 /Drives/Drive/CATEGORY:/Uber_Drives/Uber_Drive/Type
 /Drives/Drive/START_PLACE:/Uber_Drives/Uber_Drive/Pickup_Location
 /Drives/Drive/STOP_PLACE:/Uber_Drives/Uber_Drive/Drop_Location
-/Drives/Drive/Distace:/Uber_Drives/Uber_Drive/Travelled_distance
-/Drives/Drive/PURPOSE:/Uber_Drives/Uber_Drive/Travelling_purpose
+/Drives/Drive/Distance:/Uber_Drives/Uber_Drive/Traveled_distance
+/Drives/Drive/PURPOSE:/Uber_Drives/Uber_Drive/Traveling_purpose

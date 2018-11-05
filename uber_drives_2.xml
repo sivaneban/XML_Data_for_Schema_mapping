@@ -5,8 +5,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Fort Pierce</Pickup_Location>
 		<Drop_Location>Fort Pierce</Drop_Location>
-		<Travelled_distance>5.1</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>5.1</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/5/2016 17:31</Pickup_Time>
@@ -14,8 +14,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Fort Pierce</Pickup_Location>
 		<Drop_Location>Fort Pierce</Drop_Location>
-		<Travelled_distance>4.7</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>4.7</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/6/2016 17:30</Pickup_Time>
@@ -23,8 +23,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>West Palm Beach</Pickup_Location>
 		<Drop_Location>Palm Beach</Drop_Location>
-		<Travelled_distance>7.1</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>7.1</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/10/2016 12:17</Pickup_Time>
@@ -32,8 +32,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Jamaica</Pickup_Location>
 		<Drop_Location>New York</Drop_Location>
-		<Travelled_distance>16.5</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>16.5</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/10/2016 19:12</Pickup_Time>
@@ -41,8 +41,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Midtown</Pickup_Location>
 		<Drop_Location>East Harlem</Drop_Location>
-		<Travelled_distance>6.2</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>6.2</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/11/2016 13:32</Pickup_Time>
@@ -50,8 +50,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Midtown</Pickup_Location>
 		<Drop_Location>Midtown East</Drop_Location>
-		<Travelled_distance>1.7</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>1.7</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/12/2016 12:53</Pickup_Time>
@@ -59,8 +59,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Hudson Square</Pickup_Location>
 		<Drop_Location>Lower Manhattan</Drop_Location>
-		<Travelled_distance>4.0</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>4.0</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/12/2016 15:42</Pickup_Time>
@@ -68,8 +68,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Hell's Kitchen</Pickup_Location>
 		<Drop_Location>Midtown</Drop_Location>
-		<Travelled_distance>2.0</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>2.0</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/13/2016 15:00</Pickup_Time>
@@ -77,8 +77,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Gulfton</Pickup_Location>
 		<Drop_Location>Downtown</Drop_Location>
-		<Travelled_distance>11.8</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>11.8</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/15/2016 0:41</Pickup_Time>
@@ -86,8 +86,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>8.0</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>8.0</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/18/2016 14:55</Pickup_Time>
@@ -95,8 +95,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>4.8</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>4.8</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/19/2016 10:55</Pickup_Time>
@@ -104,8 +104,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Lake Wellingborough</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>7.6</Travelled_distance>
-		<Travelling_purpose>Temporary Site</Travelling_purpose>
+		<Traveled_distance>7.6</Traveled_distance>
+		<Traveling_purpose>Temporary Site</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/20/2016 13:25</Pickup_Time>
@@ -113,8 +113,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Raleigh</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>40.2</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>40.2</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/21/2016 16:01</Pickup_Time>
@@ -122,8 +122,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>1.0</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>1.0</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/26/2016 16:24</Pickup_Time>
@@ -131,8 +131,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Westpark Place</Drop_Location>
-		<Travelled_distance>1.9</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>1.9</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/27/2016 9:24</Pickup_Time>
@@ -140,8 +140,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>1.8</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>1.8</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/27/2016 14:05</Pickup_Time>
@@ -149,8 +149,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Raleigh</Pickup_Location>
 		<Drop_Location>Raleigh</Drop_Location>
-		<Travelled_distance>2.7</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>2.7</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/28/2016 15:11</Pickup_Time>
@@ -158,8 +158,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Meredith Townes</Pickup_Location>
 		<Drop_Location>Leesville Hollow</Drop_Location>
-		<Travelled_distance>14.7</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>14.7</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/29/2016 10:56</Pickup_Time>
@@ -167,8 +167,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>5.2</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>5.2</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/29/2016 18:31</Pickup_Time>
@@ -176,8 +176,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Apex</Drop_Location>
-		<Travelled_distance>5.8</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>5.8</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>1/30/2016 18:09</Pickup_Time>
@@ -185,8 +185,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Apex</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>5.7</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>5.7</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/1/2016 12:56</Pickup_Time>
@@ -194,8 +194,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Northwoods</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>3.9</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>3.9</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/2/2016 14:38</Pickup_Time>
@@ -203,8 +203,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>1.6</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>1.6</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/4/2016 10:26</Pickup_Time>
@@ -212,8 +212,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>1.6</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>1.6</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/4/2016 18:04</Pickup_Time>
@@ -221,8 +221,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Macgregor Downs</Drop_Location>
-		<Travelled_distance>9.0</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>9.0</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/5/2016 13:22</Pickup_Time>
@@ -230,8 +230,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Durham</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>10.4</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>10.4</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/6/2016 19:28</Pickup_Time>
@@ -239,8 +239,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Edgehill Farms</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>3.2</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>3.2</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/7/2016 18:39</Pickup_Time>
@@ -248,8 +248,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>6.1</Travelled_distance>
-		<Travelling_purpose>Temporary Site</Travelling_purpose>
+		<Traveled_distance>6.1</Traveled_distance>
+		<Traveling_purpose>Temporary Site</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/8/2016 14:00</Pickup_Time>
@@ -257,8 +257,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Edgehill Farms</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>2.7</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>2.7</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/9/2016 13:36</Pickup_Time>
@@ -266,7 +266,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Tanglewood</Pickup_Location>
 		<Drop_Location>Preston</Drop_Location>
-		<Travelled_distance>5.1</Travelled_distance>
+		<Traveled_distance>5.1</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/9/2016 20:24</Pickup_Time>
@@ -274,8 +274,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>6.1</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>6.1</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/11/2016 18:24</Pickup_Time>
@@ -283,8 +283,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Raleigh</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>13.5</Travelled_distance>
-		<Travelling_purpose>Temporary Site</Travelling_purpose>
+		<Traveled_distance>13.5</Traveled_distance>
+		<Traveling_purpose>Temporary Site</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/12/2016 10:45</Pickup_Time>
@@ -292,8 +292,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Durham</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>2.6</Travelled_distance>
-		<Travelling_purpose>Temporary Site</Travelling_purpose>
+		<Traveled_distance>2.6</Traveled_distance>
+		<Traveling_purpose>Temporary Site</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/12/2016 14:49</Pickup_Time>
@@ -301,8 +301,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>8.4</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>8.4</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/13/2016 23:45</Pickup_Time>
@@ -310,7 +310,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>East Elmhurst</Pickup_Location>
 		<Drop_Location>Jackson Heights</Drop_Location>
-		<Travelled_distance>2.7</Travelled_distance>
+		<Traveled_distance>2.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/14/2016 14:46</Pickup_Time>
@@ -318,8 +318,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Midtown</Pickup_Location>
 		<Drop_Location>Midtown West</Drop_Location>
-		<Travelled_distance>2.0</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>2.0</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/16/2016 3:21</Pickup_Time>
@@ -327,8 +327,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Katunayaka</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>43.7</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>43.7</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/16/2016 11:32</Pickup_Time>
@@ -336,7 +336,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Colombo</Pickup_Location>
 		<Drop_Location>Colombo</Drop_Location>
-		<Travelled_distance>4.5</Travelled_distance>
+		<Traveled_distance>4.5</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/16/2016 16:34</Pickup_Time>
@@ -344,7 +344,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Colombo</Pickup_Location>
 		<Drop_Location>Colombo</Drop_Location>
-		<Travelled_distance>6.0</Travelled_distance>
+		<Traveled_distance>6.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/17/2016 13:18</Pickup_Time>
@@ -352,8 +352,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Colombo</Drop_Location>
-		<Travelled_distance>14.7</Travelled_distance>
-		<Travelling_purpose>Temporary Site</Travelling_purpose>
+		<Traveled_distance>14.7</Traveled_distance>
+		<Traveling_purpose>Temporary Site</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/17/2016 16:38</Pickup_Time>
@@ -361,8 +361,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Katunayaka</Pickup_Location>
 		<Drop_Location>Katunayaka</Drop_Location>
-		<Travelled_distance>0.5</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>0.5</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/18/2016 15:16</Pickup_Time>
@@ -370,8 +370,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Islamabad</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>6.0</Travelled_distance>
-		<Travelling_purpose>Temporary Site</Travelling_purpose>
+		<Traveled_distance>6.0</Traveled_distance>
+		<Traveling_purpose>Temporary Site</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/19/2016 9:02</Pickup_Time>
@@ -379,8 +379,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>18.3</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>18.3</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/19/2016 11:20</Pickup_Time>
@@ -388,7 +388,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Islamabad</Pickup_Location>
 		<Drop_Location>Islamabad</Drop_Location>
-		<Travelled_distance>1.5</Travelled_distance>
+		<Traveled_distance>1.5</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/19/2016 16:26</Pickup_Time>
@@ -396,7 +396,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Islamabad</Drop_Location>
-		<Travelled_distance>3.5</Travelled_distance>
+		<Traveled_distance>3.5</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/19/2016 20:34</Pickup_Time>
@@ -404,7 +404,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>2.5</Travelled_distance>
+		<Traveled_distance>2.5</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/20/2016 11:45</Pickup_Time>
@@ -412,7 +412,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Islamabad</Pickup_Location>
 		<Drop_Location>Islamabad</Drop_Location>
-		<Travelled_distance>1.5</Travelled_distance>
+		<Traveled_distance>1.5</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/20/2016 16:59</Pickup_Time>
@@ -420,7 +420,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>R?walpindi</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>16.5</Travelled_distance>
+		<Traveled_distance>16.5</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/21/2016 9:07</Pickup_Time>
@@ -428,7 +428,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Islamabad</Drop_Location>
-		<Travelled_distance>14.5</Travelled_distance>
+		<Traveled_distance>14.5</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/21/2016 12:13</Pickup_Time>
@@ -436,8 +436,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Islamabad</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>8.8</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>8.8</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/21/2016 14:36</Pickup_Time>
@@ -445,8 +445,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Islamabad</Drop_Location>
-		<Travelled_distance>13.0</Travelled_distance>
-		<Travelling_purpose>Temporary Site</Travelling_purpose>
+		<Traveled_distance>13.0</Traveled_distance>
+		<Traveling_purpose>Temporary Site</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/21/2016 16:04</Pickup_Time>
@@ -454,7 +454,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>9.7</Travelled_distance>
+		<Traveled_distance>9.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/24/2016 14:30</Pickup_Time>
@@ -462,7 +462,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Preston</Drop_Location>
-		<Travelled_distance>1.5</Travelled_distance>
+		<Traveled_distance>1.5</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/25/2016 16:47</Pickup_Time>
@@ -470,8 +470,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Heritage Pines</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>3.2</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>3.2</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/26/2016 9:06</Pickup_Time>
@@ -479,7 +479,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Westpark Place</Drop_Location>
-		<Travelled_distance>6.3</Travelled_distance>
+		<Traveled_distance>6.3</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/26/2016 13:01</Pickup_Time>
@@ -487,8 +487,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Durham</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>9.9</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>9.9</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/26/2016 17:01</Pickup_Time>
@@ -496,7 +496,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Hazelwood</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>2.0</Travelled_distance>
+		<Traveled_distance>2.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/29/2016 11:07</Pickup_Time>
@@ -504,7 +504,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Westpark Place</Drop_Location>
-		<Travelled_distance>2.1</Travelled_distance>
+		<Traveled_distance>2.1</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>2/29/2016 14:55</Pickup_Time>
@@ -512,7 +512,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Hazelwood</Drop_Location>
-		<Travelled_distance>2.6</Travelled_distance>
+		<Traveled_distance>2.6</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/1/2016 21:27</Pickup_Time>
@@ -520,8 +520,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Wayne Ridge</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>8.0</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>8.0</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/3/2016 14:44</Pickup_Time>
@@ -529,8 +529,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Northwoods</Drop_Location>
-		<Travelled_distance>5.2</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>5.2</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/4/2016 7:47</Pickup_Time>
@@ -538,8 +538,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Durham</Drop_Location>
-		<Travelled_distance>9.9</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>9.9</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/4/2016 13:03</Pickup_Time>
@@ -547,8 +547,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Durham</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>10.9</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>10.9</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/4/2016 16:16</Pickup_Time>
@@ -556,8 +556,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Fayetteville Street</Pickup_Location>
 		<Drop_Location>Depot Historic District</Drop_Location>
-		<Travelled_distance>0.8</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>0.8</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/4/2016 19:16</Pickup_Time>
@@ -565,8 +565,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>2.0</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>2.0</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/5/2016 14:08</Pickup_Time>
@@ -574,7 +574,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>3.5</Travelled_distance>
+		<Traveled_distance>3.5</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/5/2016 17:23</Pickup_Time>
@@ -582,8 +582,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>3.9</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>3.9</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/7/2016 12:10</Pickup_Time>
@@ -591,8 +591,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Fayetteville Street</Pickup_Location>
 		<Drop_Location>Meredith Townes</Drop_Location>
-		<Travelled_distance>5.9</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>5.9</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/8/2016 14:38</Pickup_Time>
@@ -600,8 +600,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Waverly Place</Drop_Location>
-		<Travelled_distance>7.2</Travelled_distance>
-		<Travelling_purpose>Between Offices</Travelling_purpose>
+		<Traveled_distance>7.2</Traveled_distance>
+		<Traveling_purpose>Between Offices</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/10/2016 3:36</Pickup_Time>
@@ -609,8 +609,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>8.4</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>8.4</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/10/2016 16:18</Pickup_Time>
@@ -618,7 +618,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>South Congress</Pickup_Location>
 		<Drop_Location>Arts District</Drop_Location>
-		<Travelled_distance>1.6</Travelled_distance>
+		<Traveled_distance>1.6</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/11/2016 11:57</Pickup_Time>
@@ -626,7 +626,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Downtown</Pickup_Location>
 		<Drop_Location>Red River District</Drop_Location>
-		<Travelled_distance>1.2</Travelled_distance>
+		<Traveled_distance>1.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/12/2016 9:13</Pickup_Time>
@@ -634,7 +634,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>The Drag</Pickup_Location>
 		<Drop_Location>South Congress</Drop_Location>
-		<Travelled_distance>2.2</Travelled_distance>
+		<Traveled_distance>2.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/13/2016 18:23</Pickup_Time>
@@ -642,8 +642,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>South Congress</Pickup_Location>
 		<Drop_Location>North Austin</Drop_Location>
-		<Travelled_distance>8.4</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>8.4</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/13/2016 21:11</Pickup_Time>
@@ -651,8 +651,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>North Austin</Pickup_Location>
 		<Drop_Location>Coxville</Drop_Location>
-		<Travelled_distance>7.2</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>7.2</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/14/2016 18:39</Pickup_Time>
@@ -660,7 +660,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>South Congress</Pickup_Location>
 		<Drop_Location>The Drag</Drop_Location>
-		<Travelled_distance>2.7</Travelled_distance>
+		<Traveled_distance>2.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/16/2016 11:34</Pickup_Time>
@@ -668,8 +668,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>The Drag</Pickup_Location>
 		<Drop_Location>Congress Ave District</Drop_Location>
-		<Travelled_distance>1.7</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>1.7</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/17/2016 0:33</Pickup_Time>
@@ -677,7 +677,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Downtown</Pickup_Location>
 		<Drop_Location>The Drag</Drop_Location>
-		<Travelled_distance>1.7</Travelled_distance>
+		<Traveled_distance>1.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/17/2016 17:20</Pickup_Time>
@@ -685,8 +685,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Midtown</Pickup_Location>
 		<Drop_Location>Alief</Drop_Location>
-		<Travelled_distance>15.5</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>15.5</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/17/2016 21:48</Pickup_Time>
@@ -694,7 +694,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Sharpstown</Pickup_Location>
 		<Drop_Location>Midtown</Drop_Location>
-		<Travelled_distance>10.4</Travelled_distance>
+		<Traveled_distance>10.4</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/18/2016 18:24</Pickup_Time>
@@ -702,8 +702,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Midtown</Pickup_Location>
 		<Drop_Location>Sharpstown</Drop_Location>
-		<Travelled_distance>13.2</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>13.2</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/19/2016 9:10</Pickup_Time>
@@ -711,8 +711,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Midtown</Pickup_Location>
 		<Drop_Location>Sharpstown</Drop_Location>
-		<Travelled_distance>9.4</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>9.4</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/19/2016 15:34</Pickup_Time>
@@ -720,8 +720,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Houston</Pickup_Location>
 		<Drop_Location>Galveston</Drop_Location>
-		<Travelled_distance>36.5</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>36.5</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/19/2016 17:52</Pickup_Time>
@@ -729,7 +729,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Port Bolivar</Pickup_Location>
 		<Drop_Location>Port Bolivar</Drop_Location>
-		<Travelled_distance>1.2</Travelled_distance>
+		<Traveled_distance>1.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/20/2016 7:37</Pickup_Time>
@@ -737,8 +737,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Midtown</Pickup_Location>
 		<Drop_Location>Washington Avenue</Drop_Location>
-		<Travelled_distance>5.9</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>5.9</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/20/2016 18:34</Pickup_Time>
@@ -746,7 +746,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Sharpstown</Pickup_Location>
 		<Drop_Location>Briar Meadow</Drop_Location>
-		<Travelled_distance>1.2</Travelled_distance>
+		<Traveled_distance>1.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/21/2016 16:05</Pickup_Time>
@@ -754,8 +754,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Downtown</Pickup_Location>
 		<Drop_Location>Midtown</Drop_Location>
-		<Travelled_distance>0.9</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>0.9</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/22/2016 6:17</Pickup_Time>
@@ -763,8 +763,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Midtown</Pickup_Location>
 		<Drop_Location>Greater Greenspoint</Drop_Location>
-		<Travelled_distance>23.0</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>23.0</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/23/2016 14:37</Pickup_Time>
@@ -772,7 +772,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Preston</Drop_Location>
-		<Travelled_distance>1.7</Travelled_distance>
+		<Traveled_distance>1.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/24/2016 20:34</Pickup_Time>
@@ -780,7 +780,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Westpark Place</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>2.2</Travelled_distance>
+		<Traveled_distance>2.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/25/2016 22:54</Pickup_Time>
@@ -788,8 +788,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Jacksonville</Pickup_Location>
 		<Drop_Location>Kissimmee</Drop_Location>
-		<Travelled_distance>201.0</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>201.0</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/26/2016 16:26</Pickup_Time>
@@ -797,7 +797,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Lake Reams</Pickup_Location>
 		<Drop_Location>Lake Reams</Drop_Location>
-		<Travelled_distance>1.2</Travelled_distance>
+		<Traveled_distance>1.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/27/2016 15:31</Pickup_Time>
@@ -805,8 +805,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Kissimmee</Pickup_Location>
 		<Drop_Location>Orlando</Drop_Location>
-		<Travelled_distance>6.1</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>6.1</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/28/2016 12:29</Pickup_Time>
@@ -814,7 +814,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Kissimmee</Pickup_Location>
 		<Drop_Location>Orlando</Drop_Location>
-		<Travelled_distance>3.6</Travelled_distance>
+		<Traveled_distance>3.6</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/29/2016 15:27</Pickup_Time>
@@ -822,7 +822,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Kissimmee</Pickup_Location>
 		<Drop_Location>Orlando</Drop_Location>
-		<Travelled_distance>13.6</Travelled_distance>
+		<Traveled_distance>13.6</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/29/2016 23:04</Pickup_Time>
@@ -830,7 +830,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Orlando</Pickup_Location>
 		<Drop_Location>Kissimmee</Drop_Location>
-		<Travelled_distance>13.8</Travelled_distance>
+		<Traveled_distance>13.8</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>3/31/2016 14:37</Pickup_Time>
@@ -838,8 +838,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Orlando</Pickup_Location>
 		<Drop_Location>Kissimmee</Drop_Location>
-		<Travelled_distance>16.4</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>16.4</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>4/1/2016 16:01</Pickup_Time>
@@ -847,8 +847,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Orlando</Pickup_Location>
 		<Drop_Location>Kissimmee</Drop_Location>
-		<Travelled_distance>20.3</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>20.3</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>4/2/2016 11:01</Pickup_Time>
@@ -856,7 +856,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Kissimmee</Pickup_Location>
 		<Drop_Location>Kissimmee</Drop_Location>
-		<Travelled_distance>5.1</Travelled_distance>
+		<Traveled_distance>5.1</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>4/2/2016 19:38</Pickup_Time>
@@ -864,8 +864,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Jacksonville</Pickup_Location>
 		<Drop_Location>Ridgeland</Drop_Location>
-		<Travelled_distance>174.2</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>174.2</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>4/5/2016 21:39</Pickup_Time>
@@ -873,8 +873,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Wayne Ridge</Drop_Location>
-		<Travelled_distance>7.9</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>7.9</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>4/7/2016 19:45</Pickup_Time>
@@ -882,8 +882,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>6.1</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>6.1</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>4/8/2016 13:55</Pickup_Time>
@@ -891,8 +891,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Westpark Place</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>1.8</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>1.8</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>4/12/2016 9:15</Pickup_Time>
@@ -900,8 +900,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Edgehill Farms</Drop_Location>
-		<Travelled_distance>2.8</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>2.8</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>4/12/2016 12:22</Pickup_Time>
@@ -909,8 +909,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Raleigh</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>15.9</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>15.9</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>4/14/2016 16:00</Pickup_Time>
@@ -918,8 +918,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Holly Springs</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>13.7</Travelled_distance>
-		<Travelling_purpose>Temporary Site</Travelling_purpose>
+		<Traveled_distance>13.7</Traveled_distance>
+		<Traveling_purpose>Temporary Site</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>4/15/2016 14:31</Pickup_Time>
@@ -927,8 +927,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Raleigh</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>15.2</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>15.2</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>4/19/2016 17:44</Pickup_Time>
@@ -936,8 +936,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Wayne Ridge</Drop_Location>
-		<Travelled_distance>8.2</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>8.2</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>4/22/2016 10:10</Pickup_Time>
@@ -945,8 +945,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Raleigh</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>22.5</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>22.5</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>4/23/2016 17:03</Pickup_Time>
@@ -954,8 +954,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Tanglewood</Drop_Location>
-		<Travelled_distance>6.0</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>6.0</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>4/24/2016 19:46</Pickup_Time>
@@ -963,8 +963,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Chessington</Pickup_Location>
 		<Drop_Location>Chessington</Drop_Location>
-		<Travelled_distance>1.9</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>1.9</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>4/27/2016 14:13</Pickup_Time>
@@ -972,8 +972,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Burtrose</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>4.8</Travelled_distance>
-		<Travelling_purpose>Between Offices</Travelling_purpose>
+		<Traveled_distance>4.8</Traveled_distance>
+		<Traveling_purpose>Between Offices</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>4/28/2016 22:10</Pickup_Time>
@@ -981,8 +981,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>5.5</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>5.5</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>4/29/2016 18:46</Pickup_Time>
@@ -990,8 +990,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Durham</Drop_Location>
-		<Travelled_distance>14.2</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>14.2</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>4/30/2016 22:16</Pickup_Time>
@@ -999,7 +999,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Waverly Place</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>6.8</Travelled_distance>
+		<Traveled_distance>6.8</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>5/1/2016 17:33</Pickup_Time>
@@ -1007,8 +1007,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Tanglewood</Drop_Location>
-		<Travelled_distance>6.2</Travelled_distance>
-		<Travelling_purpose>Between Offices</Travelling_purpose>
+		<Traveled_distance>6.2</Traveled_distance>
+		<Traveling_purpose>Between Offices</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>5/2/2016 14:14</Pickup_Time>
@@ -1016,8 +1016,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Westpark Place</Drop_Location>
-		<Travelled_distance>2.2</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>2.2</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>5/4/2016 15:16</Pickup_Time>
@@ -1025,8 +1025,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>8.7</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>8.7</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>5/4/2016 22:19</Pickup_Time>
@@ -1034,8 +1034,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>University District</Pickup_Location>
 		<Drop_Location>Capitol One</Drop_Location>
-		<Travelled_distance>5.0</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>5.0</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>5/5/2016 23:55</Pickup_Time>
@@ -1043,8 +1043,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Bellevue</Pickup_Location>
 		<Drop_Location>Seattle</Drop_Location>
-		<Travelled_distance>12.9</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>12.9</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>5/6/2016 17:18</Pickup_Time>
@@ -1052,8 +1052,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>7.9</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>7.9</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>5/9/2016 17:58</Pickup_Time>
@@ -1061,8 +1061,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Palo Alto</Pickup_Location>
 		<Drop_Location>Sunnyvale</Drop_Location>
-		<Travelled_distance>9.8</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>9.8</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>5/10/2016 17:19</Pickup_Time>
@@ -1070,8 +1070,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Menlo Park</Pickup_Location>
 		<Drop_Location>Newark</Drop_Location>
-		<Travelled_distance>7.9</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>7.9</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>5/14/2016 18:35</Pickup_Time>
@@ -1079,8 +1079,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>3.1</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>3.1</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>5/17/2016 13:56</Pickup_Time>
@@ -1088,8 +1088,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Preston</Pickup_Location>
 		<Drop_Location>Westpark Place</Drop_Location>
-		<Travelled_distance>2.7</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>2.7</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>5/18/2016 13:00</Pickup_Time>
@@ -1097,8 +1097,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Raleigh</Drop_Location>
-		<Travelled_distance>7.6</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>7.6</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>5/20/2016 15:43</Pickup_Time>
@@ -1106,8 +1106,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>8.2</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>8.2</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>5/23/2016 20:19</Pickup_Time>
@@ -1115,8 +1115,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Savon Height</Drop_Location>
-		<Travelled_distance>3.6</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>3.6</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>5/27/2016 20:47</Pickup_Time>
@@ -1124,7 +1124,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Savon Height</Pickup_Location>
 		<Drop_Location>Kilarney Woods</Drop_Location>
-		<Travelled_distance>1.2</Travelled_distance>
+		<Traveled_distance>1.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>5/28/2016 12:52</Pickup_Time>
@@ -1132,8 +1132,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>6.1</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>6.1</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>5/31/2016 16:02</Pickup_Time>
@@ -1141,8 +1141,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Raleigh</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>14.0</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>14.0</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/1/2016 13:10</Pickup_Time>
@@ -1150,8 +1150,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>9.6</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>9.6</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/3/2016 15:31</Pickup_Time>
@@ -1159,8 +1159,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>6.0</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>6.0</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/3/2016 19:36</Pickup_Time>
@@ -1168,8 +1168,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Huntington Woods</Pickup_Location>
 		<Drop_Location>Weston</Drop_Location>
-		<Travelled_distance>1.7</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>1.7</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/5/2016 15:06</Pickup_Time>
@@ -1177,8 +1177,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>7.8</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>7.8</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/5/2016 21:53</Pickup_Time>
@@ -1186,8 +1186,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Durham</Drop_Location>
-		<Travelled_distance>9.9</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>9.9</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/6/2016 16:16</Pickup_Time>
@@ -1195,8 +1195,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Hazelwood</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>2.4</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>2.4</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/6/2016 21:41</Pickup_Time>
@@ -1204,8 +1204,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Durham</Drop_Location>
-		<Travelled_distance>10.4</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>10.4</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/7/2016 23:41</Pickup_Time>
@@ -1213,8 +1213,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Durham</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>9.9</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>9.9</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/8/2016 13:12</Pickup_Time>
@@ -1222,8 +1222,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Seaport</Pickup_Location>
 		<Drop_Location>Gramercy-Flatiron</Drop_Location>
-		<Travelled_distance>3.3</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>3.3</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/8/2016 17:16</Pickup_Time>
@@ -1231,8 +1231,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Soho</Pickup_Location>
 		<Drop_Location>Tribeca</Drop_Location>
-		<Travelled_distance>0.5</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>0.5</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/10/2016 15:19</Pickup_Time>
@@ -1240,8 +1240,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>New York</Pickup_Location>
 		<Drop_Location>Jamaica</Drop_Location>
-		<Travelled_distance>16.3</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>16.3</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/11/2016 17:08</Pickup_Time>
@@ -1249,8 +1249,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>3.7</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>3.7</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/11/2016 21:45</Pickup_Time>
@@ -1258,8 +1258,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Durham</Drop_Location>
-		<Travelled_distance>10.4</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>10.4</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/12/2016 20:05</Pickup_Time>
@@ -1267,8 +1267,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>4.3</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>4.3</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/13/2016 14:17</Pickup_Time>
@@ -1276,8 +1276,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Oakland</Pickup_Location>
 		<Drop_Location>Emeryville</Drop_Location>
-		<Travelled_distance>13.2</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>13.2</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/13/2016 20:00</Pickup_Time>
@@ -1285,8 +1285,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Oakland</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>5.2</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>5.2</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/14/2016 17:15</Pickup_Time>
@@ -1294,8 +1294,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Emeryville</Pickup_Location>
 		<Drop_Location>Oakland</Drop_Location>
-		<Travelled_distance>5.1</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>5.1</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/15/2016 15:26</Pickup_Time>
@@ -1303,8 +1303,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>CBD</Pickup_Location>
 		<Drop_Location>Lower Garden District</Drop_Location>
-		<Travelled_distance>1.9</Travelled_distance>
-		<Travelling_purpose>Between Offices</Travelling_purpose>
+		<Traveled_distance>1.9</Traveled_distance>
+		<Traveling_purpose>Between Offices</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/15/2016 19:52</Pickup_Time>
@@ -1312,8 +1312,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Storyville</Pickup_Location>
 		<Drop_Location>Faubourg Marigny</Drop_Location>
-		<Travelled_distance>1.5</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>1.5</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/16/2016 15:17</Pickup_Time>
@@ -1321,7 +1321,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Kenner</Pickup_Location>
 		<Drop_Location>New Orleans</Drop_Location>
-		<Travelled_distance>15.0</Travelled_distance>
+		<Traveled_distance>15.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/17/2016 16:11</Pickup_Time>
@@ -1329,7 +1329,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>New Orleans</Pickup_Location>
 		<Drop_Location>Kenner</Drop_Location>
-		<Travelled_distance>12.2</Travelled_distance>
+		<Traveled_distance>12.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/19/2016 5:51</Pickup_Time>
@@ -1337,7 +1337,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Raleigh</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>5.9</Travelled_distance>
+		<Traveled_distance>5.9</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/24/2016 10:41</Pickup_Time>
@@ -1345,8 +1345,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Waverly Place</Drop_Location>
-		<Travelled_distance>7.1</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>7.1</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/24/2016 12:50</Pickup_Time>
@@ -1354,8 +1354,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Raleigh</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>9.0</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>9.0</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/24/2016 20:44</Pickup_Time>
@@ -1363,7 +1363,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Kenner</Pickup_Location>
 		<Drop_Location>New Orleans</Drop_Location>
-		<Travelled_distance>12.8</Travelled_distance>
+		<Traveled_distance>12.8</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/25/2016 10:18</Pickup_Time>
@@ -1371,8 +1371,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Chalmette</Pickup_Location>
 		<Drop_Location>Arabi</Drop_Location>
-		<Travelled_distance>1.1</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>1.1</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/25/2016 11:53</Pickup_Time>
@@ -1380,8 +1380,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Metairie</Pickup_Location>
 		<Drop_Location>New Orleans</Drop_Location>
-		<Travelled_distance>15.5</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>15.5</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/26/2016 17:43</Pickup_Time>
@@ -1389,8 +1389,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>New Orleans</Pickup_Location>
 		<Drop_Location>Kenner</Drop_Location>
-		<Travelled_distance>12.6</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>12.6</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/26/2016 21:14</Pickup_Time>
@@ -1398,7 +1398,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Kenner</Pickup_Location>
 		<Drop_Location>New Orleans</Drop_Location>
-		<Travelled_distance>13.0</Travelled_distance>
+		<Traveled_distance>13.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/27/2016 9:05</Pickup_Time>
@@ -1406,7 +1406,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Covington</Pickup_Location>
 		<Drop_Location>Covington</Drop_Location>
-		<Travelled_distance>8.6</Travelled_distance>
+		<Traveled_distance>8.6</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/27/2016 10:51</Pickup_Time>
@@ -1414,7 +1414,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Covington</Pickup_Location>
 		<Drop_Location>Covington</Drop_Location>
-		<Travelled_distance>1.8</Travelled_distance>
+		<Traveled_distance>1.8</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/27/2016 12:22</Pickup_Time>
@@ -1422,7 +1422,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Mandeville</Pickup_Location>
 		<Drop_Location>Metairie</Drop_Location>
-		<Travelled_distance>30.0</Travelled_distance>
+		<Traveled_distance>30.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/28/2016 0:48</Pickup_Time>
@@ -1430,8 +1430,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>8.2</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>8.2</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/28/2016 23:34</Pickup_Time>
@@ -1439,8 +1439,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Durham</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>9.9</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>9.9</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/29/2016 11:49</Pickup_Time>
@@ -1448,7 +1448,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Westpark Place</Drop_Location>
-		<Travelled_distance>1.6</Travelled_distance>
+		<Traveled_distance>1.6</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>6/29/2016 23:38</Pickup_Time>
@@ -1456,8 +1456,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Durham</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>9.9</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>9.9</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/1/2016 9:34</Pickup_Time>
@@ -1465,8 +1465,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Raleigh</Drop_Location>
-		<Travelled_distance>13.3</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>13.3</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/1/2016 23:48</Pickup_Time>
@@ -1474,8 +1474,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Durham</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>9.9</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>9.9</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/3/2016 0:28</Pickup_Time>
@@ -1483,8 +1483,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>3.1</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>3.1</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/4/2016 0:32</Pickup_Time>
@@ -1492,8 +1492,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Durham</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>9.9</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>9.9</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/4/2016 20:00</Pickup_Time>
@@ -1501,8 +1501,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Durham</Drop_Location>
-		<Travelled_distance>11.8</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>11.8</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/5/2016 16:48</Pickup_Time>
@@ -1510,8 +1510,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>0.6</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>0.6</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/6/2016 0:33</Pickup_Time>
@@ -1519,8 +1519,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>6.3</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>6.3</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/6/2016 20:04</Pickup_Time>
@@ -1528,8 +1528,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>3.3</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>3.3</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/7/2016 10:27</Pickup_Time>
@@ -1537,7 +1537,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>8.9</Travelled_distance>
+		<Traveled_distance>8.9</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/8/2016 10:51</Pickup_Time>
@@ -1545,7 +1545,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Pontchartrain Beach</Pickup_Location>
 		<Drop_Location>CBD</Drop_Location>
-		<Travelled_distance>7.0</Travelled_distance>
+		<Traveled_distance>7.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/9/2016 9:03</Pickup_Time>
@@ -1553,7 +1553,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>New Orleans</Pickup_Location>
 		<Drop_Location>Kenner</Drop_Location>
-		<Travelled_distance>13.0</Travelled_distance>
+		<Traveled_distance>13.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/10/2016 14:10</Pickup_Time>
@@ -1561,7 +1561,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>CBD</Pickup_Location>
 		<Drop_Location>St Thomas</Drop_Location>
-		<Travelled_distance>1.3</Travelled_distance>
+		<Traveled_distance>1.3</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/10/2016 19:51</Pickup_Time>
@@ -1569,7 +1569,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Kenner</Pickup_Location>
 		<Drop_Location>New Orleans</Drop_Location>
-		<Travelled_distance>13.4</Travelled_distance>
+		<Traveled_distance>13.4</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/12/2016 23:47</Pickup_Time>
@@ -1577,7 +1577,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>8.7</Travelled_distance>
+		<Traveled_distance>8.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/13/2016 13:42</Pickup_Time>
@@ -1585,7 +1585,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>4.4</Travelled_distance>
+		<Traveled_distance>4.4</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/14/2016 16:39</Pickup_Time>
@@ -1593,7 +1593,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Banner Elk</Drop_Location>
-		<Travelled_distance>195.3</Travelled_distance>
+		<Traveled_distance>195.3</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/15/2016 12:35</Pickup_Time>
@@ -1601,7 +1601,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Banner Elk</Pickup_Location>
 		<Drop_Location>Elk Park</Drop_Location>
-		<Travelled_distance>22.4</Travelled_distance>
+		<Traveled_distance>22.4</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/16/2016 13:14</Pickup_Time>
@@ -1609,7 +1609,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Banner Elk</Pickup_Location>
 		<Drop_Location>Newland</Drop_Location>
-		<Travelled_distance>28.1</Travelled_distance>
+		<Traveled_distance>28.1</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/16/2016 19:42</Pickup_Time>
@@ -1617,7 +1617,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Boone</Pickup_Location>
 		<Drop_Location>Banner Elk</Drop_Location>
-		<Travelled_distance>23.8</Travelled_distance>
+		<Traveled_distance>23.8</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/17/2016 11:23</Pickup_Time>
@@ -1625,8 +1625,8 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Banner Elk</Pickup_Location>
 		<Drop_Location>Boone</Drop_Location>
-		<Travelled_distance>15.1</Travelled_distance>
-		<Travelling_purpose>Charity ($)</Travelling_purpose>
+		<Traveled_distance>15.1</Traveled_distance>
+		<Traveling_purpose>Charity ($)</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/18/2016 10:54</Pickup_Time>
@@ -1634,8 +1634,8 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>6.1</Travelled_distance>
-		<Travelling_purpose>Moving</Travelling_purpose>
+		<Traveled_distance>6.1</Traveled_distance>
+		<Traveling_purpose>Moving</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/18/2016 17:12</Pickup_Time>
@@ -1643,8 +1643,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Apex</Drop_Location>
-		<Travelled_distance>7.2</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>7.2</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/18/2016 20:28</Pickup_Time>
@@ -1652,8 +1652,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Hazelwood</Pickup_Location>
 		<Drop_Location>Weston</Drop_Location>
-		<Travelled_distance>0.9</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>0.9</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/19/2016 10:56</Pickup_Time>
@@ -1661,8 +1661,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Stonewater</Pickup_Location>
 		<Drop_Location>Lexington Park at Amberly</Drop_Location>
-		<Travelled_distance>3.0</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>3.0</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/19/2016 17:50</Pickup_Time>
@@ -1670,7 +1670,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Chessington</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>4.8</Travelled_distance>
+		<Traveled_distance>4.8</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/20/2016 18:16</Pickup_Time>
@@ -1678,7 +1678,7 @@
 		<Type>Personal</Type>
 		<Pickup_Location>Preston</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>1.4</Travelled_distance>
+		<Traveled_distance>1.4</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/21/2016 18:27</Pickup_Time>
@@ -1686,7 +1686,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>3.7</Travelled_distance>
+		<Traveled_distance>3.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/22/2016 11:11</Pickup_Time>
@@ -1694,7 +1694,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>5.1</Travelled_distance>
+		<Traveled_distance>5.1</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/22/2016 13:21</Pickup_Time>
@@ -1702,8 +1702,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Durham</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>9.9</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>9.9</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/22/2016 18:33</Pickup_Time>
@@ -1711,7 +1711,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Wayne Ridge</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>8.0</Travelled_distance>
+		<Traveled_distance>8.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/23/2016 15:15</Pickup_Time>
@@ -1719,7 +1719,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>3.0</Travelled_distance>
+		<Traveled_distance>3.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/23/2016 23:18</Pickup_Time>
@@ -1727,8 +1727,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Durham</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>9.9</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>9.9</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/25/2016 11:04</Pickup_Time>
@@ -1736,7 +1736,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>7.9</Travelled_distance>
+		<Traveled_distance>7.9</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/26/2016 17:14</Pickup_Time>
@@ -1744,7 +1744,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Westpark Place</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>2.1</Travelled_distance>
+		<Traveled_distance>2.1</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/27/2016 19:08</Pickup_Time>
@@ -1752,7 +1752,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>2.8</Travelled_distance>
+		<Traveled_distance>2.8</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/28/2016 0:04</Pickup_Time>
@@ -1760,7 +1760,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>2.3</Travelled_distance>
+		<Traveled_distance>2.3</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>7/30/2016 17:02</Pickup_Time>
@@ -1768,7 +1768,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Durham</Drop_Location>
-		<Travelled_distance>14.0</Travelled_distance>
+		<Traveled_distance>14.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/1/2016 12:47</Pickup_Time>
@@ -1776,7 +1776,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Arlington Park at Amberly</Drop_Location>
-		<Travelled_distance>6.2</Travelled_distance>
+		<Traveled_distance>6.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/1/2016 13:52</Pickup_Time>
@@ -1784,7 +1784,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Apex</Drop_Location>
-		<Travelled_distance>6.9</Travelled_distance>
+		<Traveled_distance>6.9</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/1/2016 16:29</Pickup_Time>
@@ -1792,7 +1792,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>9.1</Travelled_distance>
+		<Traveled_distance>9.1</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/2/2016 11:51</Pickup_Time>
@@ -1800,7 +1800,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Arlington</Pickup_Location>
 		<Drop_Location>Washington</Drop_Location>
-		<Travelled_distance>4.9</Travelled_distance>
+		<Traveled_distance>4.9</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/3/2016 12:46</Pickup_Time>
@@ -1808,7 +1808,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>West End</Pickup_Location>
 		<Drop_Location>Northwest Rectangle</Drop_Location>
-		<Travelled_distance>2.0</Travelled_distance>
+		<Traveled_distance>2.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/5/2016 17:23</Pickup_Time>
@@ -1816,7 +1816,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Connecticut Avenue</Pickup_Location>
 		<Drop_Location>Kalorama Triangle</Drop_Location>
-		<Travelled_distance>1.3</Travelled_distance>
+		<Traveled_distance>1.3</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/6/2016 6:40</Pickup_Time>
@@ -1824,7 +1824,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Washington</Pickup_Location>
 		<Drop_Location>Arlington</Drop_Location>
-		<Travelled_distance>6.6</Travelled_distance>
+		<Traveled_distance>6.6</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/7/2016 17:28</Pickup_Time>
@@ -1832,8 +1832,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Edgehill Farms</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>2.7</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>2.7</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/8/2016 16:17</Pickup_Time>
@@ -1841,7 +1841,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Farmington Woods</Drop_Location>
-		<Travelled_distance>5.2</Travelled_distance>
+		<Traveled_distance>5.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/8/2016 21:50</Pickup_Time>
@@ -1849,7 +1849,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>4.8</Travelled_distance>
+		<Traveled_distance>4.8</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/9/2016 15:15</Pickup_Time>
@@ -1857,7 +1857,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Raleigh</Drop_Location>
-		<Travelled_distance>14.9</Travelled_distance>
+		<Traveled_distance>14.9</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/10/2016 17:53</Pickup_Time>
@@ -1865,7 +1865,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Durham</Pickup_Location>
 		<Drop_Location>Apex</Drop_Location>
-		<Travelled_distance>15.3</Travelled_distance>
+		<Traveled_distance>15.3</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/11/2016 12:53</Pickup_Time>
@@ -1873,7 +1873,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Heritage Pines</Drop_Location>
-		<Travelled_distance>2.2</Travelled_distance>
+		<Traveled_distance>2.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/11/2016 18:37</Pickup_Time>
@@ -1881,7 +1881,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Wake Forest</Drop_Location>
-		<Travelled_distance>31.7</Travelled_distance>
+		<Traveled_distance>31.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/12/2016 18:56</Pickup_Time>
@@ -1889,7 +1889,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Westpark Place</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>1.8</Travelled_distance>
+		<Traveled_distance>1.8</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/15/2016 15:20</Pickup_Time>
@@ -1897,7 +1897,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>14.1</Travelled_distance>
+		<Traveled_distance>14.1</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/16/2016 7:58</Pickup_Time>
@@ -1905,7 +1905,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>7.9</Travelled_distance>
+		<Traveled_distance>7.9</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/16/2016 10:06</Pickup_Time>
@@ -1913,7 +1913,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Islamabad</Drop_Location>
-		<Travelled_distance>5.7</Travelled_distance>
+		<Traveled_distance>5.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/16/2016 15:13</Pickup_Time>
@@ -1921,7 +1921,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>16.2</Travelled_distance>
+		<Traveled_distance>16.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/17/2016 14:45</Pickup_Time>
@@ -1929,7 +1929,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>R?walpindi</Drop_Location>
-		<Travelled_distance>1.4</Travelled_distance>
+		<Traveled_distance>1.4</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/17/2016 16:54</Pickup_Time>
@@ -1937,7 +1937,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>5.3</Travelled_distance>
+		<Traveled_distance>5.3</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/18/2016 18:40</Pickup_Time>
@@ -1945,8 +1945,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>7.6</Travelled_distance>
-		<Travelling_purpose>Temporary Site</Travelling_purpose>
+		<Traveled_distance>7.6</Traveled_distance>
+		<Traveling_purpose>Temporary Site</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/19/2016 9:27</Pickup_Time>
@@ -1954,7 +1954,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Islamabad</Pickup_Location>
 		<Drop_Location>R?walpindi</Drop_Location>
-		<Travelled_distance>6.5</Travelled_distance>
+		<Traveled_distance>6.5</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/19/2016 15:51</Pickup_Time>
@@ -1962,7 +1962,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Islamabad</Pickup_Location>
 		<Drop_Location>Islamabad</Drop_Location>
-		<Travelled_distance>3.2</Travelled_distance>
+		<Traveled_distance>3.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/21/2016 14:05</Pickup_Time>
@@ -1970,7 +1970,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>7.7</Travelled_distance>
+		<Traveled_distance>7.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/21/2016 18:48</Pickup_Time>
@@ -1978,7 +1978,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Islamabad</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>20.2</Travelled_distance>
+		<Traveled_distance>20.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/22/2016 12:36</Pickup_Time>
@@ -1986,7 +1986,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Islamabad</Drop_Location>
-		<Travelled_distance>4.9</Travelled_distance>
+		<Traveled_distance>4.9</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/22/2016 15:14</Pickup_Time>
@@ -1994,7 +1994,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>19.0</Travelled_distance>
+		<Traveled_distance>19.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/22/2016 20:53</Pickup_Time>
@@ -2002,7 +2002,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>R?walpindi</Pickup_Location>
 		<Drop_Location>R?walpindi</Drop_Location>
-		<Travelled_distance>4.1</Travelled_distance>
+		<Traveled_distance>4.1</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/23/2016 9:35</Pickup_Time>
@@ -2010,7 +2010,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Noorpur Shahan</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>7.5</Travelled_distance>
+		<Traveled_distance>7.5</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/23/2016 13:49</Pickup_Time>
@@ -2018,7 +2018,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Islamabad</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>5.0</Travelled_distance>
+		<Traveled_distance>5.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/23/2016 17:42</Pickup_Time>
@@ -2026,7 +2026,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>17.7</Travelled_distance>
+		<Traveled_distance>17.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/25/2016 15:17</Pickup_Time>
@@ -2034,7 +2034,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>35.0</Travelled_distance>
+		<Traveled_distance>35.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/25/2016 19:25</Pickup_Time>
@@ -2042,7 +2042,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Lahore</Drop_Location>
-		<Travelled_distance>9.2</Travelled_distance>
+		<Traveled_distance>9.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/26/2016 11:14</Pickup_Time>
@@ -2050,7 +2050,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>3.8</Travelled_distance>
+		<Traveled_distance>3.8</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/26/2016 15:23</Pickup_Time>
@@ -2058,7 +2058,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Lahore</Pickup_Location>
 		<Drop_Location>Lahore</Drop_Location>
-		<Travelled_distance>1.5</Travelled_distance>
+		<Traveled_distance>1.5</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/26/2016 18:42</Pickup_Time>
@@ -2066,7 +2066,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Lahore</Pickup_Location>
 		<Drop_Location>Lahore</Drop_Location>
-		<Travelled_distance>3.4</Travelled_distance>
+		<Traveled_distance>3.4</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/27/2016 9:34</Pickup_Time>
@@ -2074,7 +2074,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Lahore</Drop_Location>
-		<Travelled_distance>9.6</Travelled_distance>
+		<Traveled_distance>9.6</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/27/2016 14:01</Pickup_Time>
@@ -2082,7 +2082,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Lahore</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>86.6</Travelled_distance>
+		<Traveled_distance>86.6</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/28/2016 16:39</Pickup_Time>
@@ -2090,7 +2090,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Noorpur Shahan</Pickup_Location>
 		<Drop_Location>Islamabad</Drop_Location>
-		<Travelled_distance>6.2</Travelled_distance>
+		<Traveled_distance>6.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/29/2016 12:02</Pickup_Time>
@@ -2098,7 +2098,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Islamabad</Drop_Location>
-		<Travelled_distance>10.8</Travelled_distance>
+		<Traveled_distance>10.8</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/29/2016 14:49</Pickup_Time>
@@ -2106,8 +2106,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Islamabad</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>5.7</Travelled_distance>
-		<Travelling_purpose>Temporary Site</Travelling_purpose>
+		<Traveled_distance>5.7</Traveled_distance>
+		<Traveling_purpose>Temporary Site</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/29/2016 17:24</Pickup_Time>
@@ -2115,7 +2115,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Islamabad</Drop_Location>
-		<Travelled_distance>5.5</Travelled_distance>
+		<Traveled_distance>5.5</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/30/2016 12:46</Pickup_Time>
@@ -2123,7 +2123,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Islamabad</Drop_Location>
-		<Travelled_distance>8.8</Travelled_distance>
+		<Traveled_distance>8.8</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>8/30/2016 17:27</Pickup_Time>
@@ -2131,7 +2131,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>13.0</Travelled_distance>
+		<Traveled_distance>13.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>9/1/2016 18:49</Pickup_Time>
@@ -2139,7 +2139,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>2.2</Travelled_distance>
+		<Traveled_distance>2.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>9/5/2016 10:25</Pickup_Time>
@@ -2147,7 +2147,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>R?walpindi</Drop_Location>
-		<Travelled_distance>17.2</Travelled_distance>
+		<Traveled_distance>17.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>9/11/2016 9:51</Pickup_Time>
@@ -2155,7 +2155,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>8.6</Travelled_distance>
+		<Traveled_distance>8.6</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>9/12/2016 11:15</Pickup_Time>
@@ -2163,7 +2163,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>1.7</Travelled_distance>
+		<Traveled_distance>1.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>9/14/2016 11:55</Pickup_Time>
@@ -2171,7 +2171,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>0.7</Travelled_distance>
+		<Traveled_distance>0.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>9/18/2016 18:07</Pickup_Time>
@@ -2179,7 +2179,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>9.4</Travelled_distance>
+		<Traveled_distance>9.4</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>9/19/2016 16:23</Pickup_Time>
@@ -2187,7 +2187,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Islamabad</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>5.7</Travelled_distance>
+		<Traveled_distance>5.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>9/20/2016 11:29</Pickup_Time>
@@ -2195,7 +2195,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Islamabad</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>16.5</Travelled_distance>
+		<Traveled_distance>16.5</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>9/24/2016 14:34</Pickup_Time>
@@ -2203,7 +2203,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Karachi</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>8.2</Travelled_distance>
+		<Traveled_distance>8.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>9/27/2016 13:21</Pickup_Time>
@@ -2211,7 +2211,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Lahore</Pickup_Location>
 		<Drop_Location>Lahore</Drop_Location>
-		<Travelled_distance>9.8</Travelled_distance>
+		<Traveled_distance>9.8</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>9/28/2016 17:21</Pickup_Time>
@@ -2219,7 +2219,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Islamabad</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>20.5</Travelled_distance>
+		<Traveled_distance>20.5</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>9/30/2016 20:59</Pickup_Time>
@@ -2227,7 +2227,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Islamabad</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>16.7</Travelled_distance>
+		<Traveled_distance>16.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/3/2016 18:51</Pickup_Time>
@@ -2235,7 +2235,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Islamabad</Pickup_Location>
 		<Drop_Location>Islamabad</Drop_Location>
-		<Travelled_distance>1.6</Travelled_distance>
+		<Traveled_distance>1.6</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/4/2016 12:17</Pickup_Time>
@@ -2243,7 +2243,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>15.1</Travelled_distance>
+		<Traveled_distance>15.1</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/6/2016 18:37</Pickup_Time>
@@ -2251,7 +2251,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>18.4</Travelled_distance>
+		<Traveled_distance>18.4</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/7/2016 11:27</Pickup_Time>
@@ -2259,7 +2259,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Lahore</Pickup_Location>
 		<Drop_Location>Lahore</Drop_Location>
-		<Travelled_distance>2.6</Travelled_distance>
+		<Traveled_distance>2.6</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/7/2016 15:47</Pickup_Time>
@@ -2267,7 +2267,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Lahore</Pickup_Location>
 		<Drop_Location>Lahore</Drop_Location>
-		<Travelled_distance>2.4</Travelled_distance>
+		<Traveled_distance>2.4</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/8/2016 15:03</Pickup_Time>
@@ -2275,7 +2275,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Karachi</Pickup_Location>
 		<Drop_Location>Karachi</Drop_Location>
-		<Travelled_distance>3.6</Travelled_distance>
+		<Traveled_distance>3.6</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/10/2016 17:22</Pickup_Time>
@@ -2283,7 +2283,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Islamabad</Pickup_Location>
 		<Drop_Location>Islamabad</Drop_Location>
-		<Travelled_distance>1.7</Travelled_distance>
+		<Traveled_distance>1.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/12/2016 19:18</Pickup_Time>
@@ -2291,7 +2291,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>R?walpindi</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>18.4</Travelled_distance>
+		<Traveled_distance>18.4</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/13/2016 13:02</Pickup_Time>
@@ -2299,7 +2299,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Islamabad</Pickup_Location>
 		<Drop_Location>Islamabad</Drop_Location>
-		<Travelled_distance>0.7</Travelled_distance>
+		<Traveled_distance>0.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/14/2016 8:50</Pickup_Time>
@@ -2307,7 +2307,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>R?walpindi</Drop_Location>
-		<Travelled_distance>12.7</Travelled_distance>
+		<Traveled_distance>12.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/14/2016 23:54</Pickup_Time>
@@ -2315,8 +2315,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>R?walpindi</Drop_Location>
-		<Travelled_distance>17.0</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>17.0</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/16/2016 12:52</Pickup_Time>
@@ -2324,8 +2324,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Durham</Drop_Location>
-		<Travelled_distance>10.5</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>10.5</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/16/2016 19:27</Pickup_Time>
@@ -2333,8 +2333,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Parkway</Drop_Location>
-		<Travelled_distance>2.1</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>2.1</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/17/2016 15:19</Pickup_Time>
@@ -2342,7 +2342,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Raleigh</Drop_Location>
-		<Travelled_distance>20.6</Travelled_distance>
+		<Traveled_distance>20.6</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/17/2016 18:31</Pickup_Time>
@@ -2350,7 +2350,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Apex</Pickup_Location>
 		<Drop_Location>Apex</Drop_Location>
-		<Travelled_distance>3.3</Travelled_distance>
+		<Traveled_distance>3.3</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/18/2016 8:53</Pickup_Time>
@@ -2358,7 +2358,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Edgehill Farms</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>3.3</Travelled_distance>
+		<Traveled_distance>3.3</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/18/2016 19:03</Pickup_Time>
@@ -2366,7 +2366,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Emeryville</Pickup_Location>
 		<Drop_Location>Berkeley</Drop_Location>
-		<Travelled_distance>3.0</Travelled_distance>
+		<Traveled_distance>3.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/19/2016 9:54</Pickup_Time>
@@ -2374,7 +2374,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Oakland</Pickup_Location>
 		<Drop_Location>San Francisco</Drop_Location>
-		<Travelled_distance>9.5</Travelled_distance>
+		<Traveled_distance>9.5</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/19/2016 15:44</Pickup_Time>
@@ -2382,7 +2382,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>West Berkeley</Pickup_Location>
 		<Drop_Location>North Berkeley Hills</Drop_Location>
-		<Travelled_distance>4.1</Travelled_distance>
+		<Traveled_distance>4.1</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/20/2016 11:26</Pickup_Time>
@@ -2390,7 +2390,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Emeryville</Pickup_Location>
 		<Drop_Location>Berkeley</Drop_Location>
-		<Travelled_distance>3.1</Travelled_distance>
+		<Traveled_distance>3.1</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/21/2016 10:06</Pickup_Time>
@@ -2398,7 +2398,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Emeryville</Pickup_Location>
 		<Drop_Location>Oakland</Drop_Location>
-		<Travelled_distance>13.2</Travelled_distance>
+		<Traveled_distance>13.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/22/2016 17:08</Pickup_Time>
@@ -2406,7 +2406,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Raleigh</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>14.0</Travelled_distance>
+		<Traveled_distance>14.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/23/2016 19:04</Pickup_Time>
@@ -2414,8 +2414,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>3.1</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>3.1</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/24/2016 15:33</Pickup_Time>
@@ -2423,7 +2423,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Durham</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>15.4</Travelled_distance>
+		<Traveled_distance>15.4</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/25/2016 15:04</Pickup_Time>
@@ -2431,7 +2431,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Apex</Pickup_Location>
 		<Drop_Location>Eagle Rock</Drop_Location>
-		<Travelled_distance>2.2</Travelled_distance>
+		<Traveled_distance>2.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/25/2016 20:54</Pickup_Time>
@@ -2439,7 +2439,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Savon Height</Pickup_Location>
 		<Drop_Location>Parkway</Drop_Location>
-		<Travelled_distance>4.9</Travelled_distance>
+		<Traveled_distance>4.9</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/26/2016 20:53</Pickup_Time>
@@ -2447,7 +2447,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Parkway</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>2.1</Travelled_distance>
+		<Traveled_distance>2.1</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/27/2016 19:52</Pickup_Time>
@@ -2455,7 +2455,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Huntington Woods</Pickup_Location>
 		<Drop_Location>Huntington Woods</Drop_Location>
-		<Travelled_distance>12.1</Travelled_distance>
+		<Traveled_distance>12.1</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/28/2016 11:34</Pickup_Time>
@@ -2463,8 +2463,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Durham</Drop_Location>
-		<Travelled_distance>10.4</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>10.4</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/28/2016 18:13</Pickup_Time>
@@ -2472,8 +2472,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Winston Salem</Pickup_Location>
 		<Drop_Location>Asheville</Drop_Location>
-		<Travelled_distance>133.6</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>133.6</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/29/2016 17:13</Pickup_Time>
@@ -2481,7 +2481,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Hayesville</Pickup_Location>
 		<Drop_Location>Topton</Drop_Location>
-		<Travelled_distance>75.7</Travelled_distance>
+		<Traveled_distance>75.7</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/30/2016 10:11</Pickup_Time>
@@ -2489,7 +2489,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Bryson City</Pickup_Location>
 		<Drop_Location>Bryson City</Drop_Location>
-		<Travelled_distance>6.5</Travelled_distance>
+		<Traveled_distance>6.5</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/30/2016 12:58</Pickup_Time>
@@ -2497,7 +2497,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Almond</Pickup_Location>
 		<Drop_Location>Bryson City</Drop_Location>
-		<Travelled_distance>15.2</Travelled_distance>
+		<Traveled_distance>15.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/30/2016 18:26</Pickup_Time>
@@ -2505,7 +2505,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Mebane</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>45.2</Travelled_distance>
+		<Traveled_distance>45.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>10/31/2016 20:18</Pickup_Time>
@@ -2513,7 +2513,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Raleigh</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>13.1</Travelled_distance>
+		<Traveled_distance>13.1</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/1/2016 16:29</Pickup_Time>
@@ -2521,7 +2521,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Durham</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>12.8</Travelled_distance>
+		<Traveled_distance>12.8</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/1/2016 19:59</Pickup_Time>
@@ -2529,7 +2529,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>4.1</Travelled_distance>
+		<Traveled_distance>4.1</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/2/2016 15:45</Pickup_Time>
@@ -2537,7 +2537,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Westpark Place</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>1.8</Travelled_distance>
+		<Traveled_distance>1.8</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/2/2016 17:53</Pickup_Time>
@@ -2545,7 +2545,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>3.8</Travelled_distance>
+		<Traveled_distance>3.8</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/3/2016 13:42</Pickup_Time>
@@ -2553,7 +2553,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Whitebridge</Pickup_Location>
 		<Drop_Location>Westpark Place</Drop_Location>
-		<Travelled_distance>1.4</Travelled_distance>
+		<Traveled_distance>1.4</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/3/2016 22:46</Pickup_Time>
@@ -2561,8 +2561,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>3.1</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>3.1</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/4/2016 21:04</Pickup_Time>
@@ -2570,7 +2570,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Agnew</Pickup_Location>
 		<Drop_Location>Cory</Drop_Location>
-		<Travelled_distance>4.3</Travelled_distance>
+		<Traveled_distance>4.3</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/5/2016 17:29</Pickup_Time>
@@ -2578,7 +2578,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Renaissance</Pickup_Location>
 		<Drop_Location>Agnew</Drop_Location>
-		<Travelled_distance>2.8</Travelled_distance>
+		<Traveled_distance>2.8</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/6/2016 16:05</Pickup_Time>
@@ -2586,8 +2586,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Renaissance</Pickup_Location>
 		<Drop_Location>Agnew</Drop_Location>
-		<Travelled_distance>2.8</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>2.8</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/6/2016 20:06</Pickup_Time>
@@ -2595,7 +2595,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>West Berkeley</Pickup_Location>
 		<Drop_Location>Central</Drop_Location>
-		<Travelled_distance>3.3</Travelled_distance>
+		<Traveled_distance>3.3</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/8/2016 10:29</Pickup_Time>
@@ -2603,8 +2603,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Berkeley</Pickup_Location>
 		<Drop_Location>San Francisco</Drop_Location>
-		<Travelled_distance>12.2</Travelled_distance>
-		<Travelling_purpose>Between Offices</Travelling_purpose>
+		<Traveled_distance>12.2</Traveled_distance>
+		<Traveling_purpose>Between Offices</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/8/2016 16:21</Pickup_Time>
@@ -2612,7 +2612,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Emeryville</Pickup_Location>
 		<Drop_Location>Berkeley</Drop_Location>
-		<Travelled_distance>3.0</Travelled_distance>
+		<Traveled_distance>3.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/9/2016 17:31</Pickup_Time>
@@ -2620,7 +2620,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Downtown</Pickup_Location>
 		<Drop_Location>Sunnyside</Drop_Location>
-		<Travelled_distance>6.2</Travelled_distance>
+		<Traveled_distance>6.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/9/2016 18:40</Pickup_Time>
@@ -2628,8 +2628,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>San Francisco</Pickup_Location>
 		<Drop_Location>Oakland</Drop_Location>
-		<Travelled_distance>12.7</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>12.7</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/10/2016 9:46</Pickup_Time>
@@ -2637,8 +2637,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Berkeley</Pickup_Location>
 		<Drop_Location>San Francisco</Drop_Location>
-		<Travelled_distance>12.6</Travelled_distance>
-		<Travelling_purpose>Temporary Site</Travelling_purpose>
+		<Traveled_distance>12.6</Traveled_distance>
+		<Traveling_purpose>Temporary Site</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/10/2016 15:17</Pickup_Time>
@@ -2646,8 +2646,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>San Francisco</Pickup_Location>
 		<Drop_Location>Oakland</Drop_Location>
-		<Travelled_distance>9.9</Travelled_distance>
-		<Travelling_purpose>Temporary Site</Travelling_purpose>
+		<Traveled_distance>9.9</Traveled_distance>
+		<Traveling_purpose>Temporary Site</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/11/2016 9:35</Pickup_Time>
@@ -2655,8 +2655,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Berkeley</Pickup_Location>
 		<Drop_Location>Menlo Park</Drop_Location>
-		<Travelled_distance>45.9</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>45.9</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/11/2016 14:39</Pickup_Time>
@@ -2664,8 +2664,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Menlo Park</Pickup_Location>
 		<Drop_Location>Berkeley</Drop_Location>
-		<Travelled_distance>36.6</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>36.6</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/12/2016 10:32</Pickup_Time>
@@ -2673,7 +2673,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Central</Pickup_Location>
 		<Drop_Location>South</Drop_Location>
-		<Travelled_distance>2.3</Travelled_distance>
+		<Traveled_distance>2.3</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/12/2016 13:46</Pickup_Time>
@@ -2681,7 +2681,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Central</Pickup_Location>
 		<Drop_Location>West Berkeley</Drop_Location>
-		<Travelled_distance>0.6</Travelled_distance>
+		<Traveled_distance>0.6</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/12/2016 15:25</Pickup_Time>
@@ -2689,7 +2689,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Berkeley</Pickup_Location>
 		<Drop_Location>Emeryville</Drop_Location>
-		<Travelled_distance>1.3</Travelled_distance>
+		<Traveled_distance>1.3</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/13/2016 9:27</Pickup_Time>
@@ -2697,7 +2697,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Central</Pickup_Location>
 		<Drop_Location>Central</Drop_Location>
-		<Travelled_distance>2.6</Travelled_distance>
+		<Traveled_distance>2.6</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/13/2016 12:22</Pickup_Time>
@@ -2705,8 +2705,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>West Berkeley</Pickup_Location>
 		<Drop_Location>Southside</Drop_Location>
-		<Travelled_distance>4.0</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>4.0</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/13/2016 14:35</Pickup_Time>
@@ -2714,7 +2714,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Southside</Pickup_Location>
 		<Drop_Location>Central</Drop_Location>
-		<Travelled_distance>2.4</Travelled_distance>
+		<Traveled_distance>2.4</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/14/2016 11:24</Pickup_Time>
@@ -2722,8 +2722,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Berkeley</Pickup_Location>
 		<Drop_Location>Mountain View</Drop_Location>
-		<Travelled_distance>44.6</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>44.6</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/14/2016 20:19</Pickup_Time>
@@ -2731,8 +2731,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Emeryville</Pickup_Location>
 		<Drop_Location>Berkeley</Drop_Location>
-		<Travelled_distance>3.7</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>3.7</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/15/2016 20:44</Pickup_Time>
@@ -2740,8 +2740,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>San Francisco</Pickup_Location>
 		<Drop_Location>Berkeley</Drop_Location>
-		<Travelled_distance>11.8</Travelled_distance>
-		<Travelling_purpose>Temporary Site</Travelling_purpose>
+		<Traveled_distance>11.8</Traveled_distance>
+		<Traveling_purpose>Temporary Site</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/17/2016 10:13</Pickup_Time>
@@ -2749,8 +2749,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Berkeley</Pickup_Location>
 		<Drop_Location>Oakland</Drop_Location>
-		<Travelled_distance>16.3</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>16.3</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/18/2016 21:56</Pickup_Time>
@@ -2758,8 +2758,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Krendle Woods</Pickup_Location>
 		<Drop_Location>Whitebridge</Drop_Location>
-		<Travelled_distance>6.1</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>6.1</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/19/2016 16:01</Pickup_Time>
@@ -2767,7 +2767,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>1.5</Travelled_distance>
+		<Traveled_distance>1.5</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/19/2016 21:14</Pickup_Time>
@@ -2775,8 +2775,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Apex</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>5.4</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>5.4</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/20/2016 14:58</Pickup_Time>
@@ -2784,8 +2784,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>2.7</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>2.7</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/21/2016 14:34</Pickup_Time>
@@ -2793,8 +2793,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>2.1</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>2.1</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/21/2016 18:43</Pickup_Time>
@@ -2802,8 +2802,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>3.4</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>3.4</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/22/2016 15:51</Pickup_Time>
@@ -2811,8 +2811,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>12.7</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>12.7</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/23/2016 15:34</Pickup_Time>
@@ -2820,8 +2820,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>5.9</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>5.9</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/23/2016 18:37</Pickup_Time>
@@ -2829,7 +2829,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>1.3</Travelled_distance>
+		<Traveled_distance>1.3</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/26/2016 15:54</Pickup_Time>
@@ -2837,7 +2837,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>1.4</Travelled_distance>
+		<Traveled_distance>1.4</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/26/2016 18:29</Pickup_Time>
@@ -2845,8 +2845,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Holly Springs</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>13.3</Travelled_distance>
-		<Travelling_purpose>Between Offices</Travelling_purpose>
+		<Traveled_distance>13.3</Traveled_distance>
+		<Traveling_purpose>Between Offices</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/27/2016 18:55</Pickup_Time>
@@ -2854,7 +2854,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>2.9</Travelled_distance>
+		<Traveled_distance>2.9</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>11/30/2016 12:43</Pickup_Time>
@@ -2862,7 +2862,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>3.1</Travelled_distance>
+		<Traveled_distance>3.1</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/1/2016 18:00</Pickup_Time>
@@ -2870,8 +2870,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>2.9</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>2.9</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/2/2016 13:07</Pickup_Time>
@@ -2879,8 +2879,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Apex</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>5.3</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>5.3</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/3/2016 18:35</Pickup_Time>
@@ -2888,8 +2888,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Wake Co.</Drop_Location>
-		<Travelled_distance>6.6</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>6.6</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/4/2016 18:56</Pickup_Time>
@@ -2897,8 +2897,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>2.9</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>2.9</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/5/2016 19:22</Pickup_Time>
@@ -2906,8 +2906,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>3.8</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>3.8</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/7/2016 19:53</Pickup_Time>
@@ -2915,8 +2915,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>7.0</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>7.0</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/8/2016 14:53</Pickup_Time>
@@ -2924,8 +2924,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>3.4</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>3.4</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/9/2016 12:09</Pickup_Time>
@@ -2933,8 +2933,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Apex</Drop_Location>
-		<Travelled_distance>5.1</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>5.1</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/9/2016 22:03</Pickup_Time>
@@ -2942,8 +2942,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>18.9</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>18.9</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/10/2016 18:17</Pickup_Time>
@@ -2951,8 +2951,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Morrisville</Drop_Location>
-		<Travelled_distance>3.0</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>3.0</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/11/2016 19:05</Pickup_Time>
@@ -2960,8 +2960,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>4.8</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>4.8</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/12/2016 13:36</Pickup_Time>
@@ -2969,8 +2969,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Apex</Drop_Location>
-		<Travelled_distance>4.4</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>4.4</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/12/2016 20:48</Pickup_Time>
@@ -2978,8 +2978,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>3.0</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>3.0</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/14/2016 16:52</Pickup_Time>
@@ -2987,7 +2987,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Cary</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>3.4</Travelled_distance>
+		<Traveled_distance>3.4</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/14/2016 20:24</Pickup_Time>
@@ -2995,8 +2995,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Morrisville</Pickup_Location>
 		<Drop_Location>Cary</Drop_Location>
-		<Travelled_distance>3.1</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>3.1</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/17/2016 17:19</Pickup_Time>
@@ -3004,8 +3004,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>5.3</Travelled_distance>
-		<Travelling_purpose>Temporary Site</Travelling_purpose>
+		<Traveled_distance>5.3</Traveled_distance>
+		<Traveling_purpose>Temporary Site</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/18/2016 20:35</Pickup_Time>
@@ -3013,7 +3013,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>9.2</Travelled_distance>
+		<Traveled_distance>9.2</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/19/2016 13:04</Pickup_Time>
@@ -3021,8 +3021,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Rawalpindi</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>0.7</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>0.7</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/19/2016 14:18</Pickup_Time>
@@ -3030,7 +3030,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>5.3</Travelled_distance>
+		<Traveled_distance>5.3</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/19/2016 16:50</Pickup_Time>
@@ -3038,8 +3038,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Rawalpindi</Pickup_Location>
 		<Drop_Location>Islamabad</Drop_Location>
-		<Travelled_distance>7.2</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>7.2</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/20/2016 8:49</Pickup_Time>
@@ -3047,7 +3047,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Rawalpindi</Drop_Location>
-		<Travelled_distance>12.0</Travelled_distance>
+		<Traveled_distance>12.0</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/20/2016 13:14</Pickup_Time>
@@ -3055,8 +3055,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>1.7</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>1.7</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/20/2016 16:56</Pickup_Time>
@@ -3064,8 +3064,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Islamabad</Pickup_Location>
 		<Drop_Location>Islamabad</Drop_Location>
-		<Travelled_distance>1.4</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>1.4</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/21/2016 10:14</Pickup_Time>
@@ -3073,8 +3073,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Islamabad</Drop_Location>
-		<Travelled_distance>4.9</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>4.9</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/21/2016 15:38</Pickup_Time>
@@ -3082,8 +3082,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>2.0</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>2.0</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/21/2016 17:59</Pickup_Time>
@@ -3091,8 +3091,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Islamabad</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>7.2</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>7.2</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/22/2016 15:40</Pickup_Time>
@@ -3100,8 +3100,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>32.3</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>32.3</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/22/2016 17:56</Pickup_Time>
@@ -3109,8 +3109,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>23.2</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>23.2</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/22/2016 19:04</Pickup_Time>
@@ -3118,8 +3118,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Lahore</Drop_Location>
-		<Travelled_distance>14.0</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>14.0</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/23/2016 9:21</Pickup_Time>
@@ -3127,8 +3127,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Lahore</Pickup_Location>
 		<Drop_Location>Lahore</Drop_Location>
-		<Travelled_distance>3.0</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>3.0</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/23/2016 16:23</Pickup_Time>
@@ -3136,8 +3136,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>1.3</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>1.3</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/24/2016 9:19</Pickup_Time>
@@ -3145,8 +3145,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Lahore</Drop_Location>
-		<Travelled_distance>10.7</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>10.7</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/24/2016 13:08</Pickup_Time>
@@ -3154,8 +3154,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Lahore</Pickup_Location>
 		<Drop_Location>Lahore</Drop_Location>
-		<Travelled_distance>3.6</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>3.6</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/24/2016 22:04</Pickup_Time>
@@ -3163,8 +3163,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Lahore</Pickup_Location>
 		<Drop_Location>Lahore</Drop_Location>
-		<Travelled_distance>0.6</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>0.6</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/25/2016 21:58</Pickup_Time>
@@ -3172,8 +3172,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Lahore</Pickup_Location>
 		<Drop_Location>Lahore</Drop_Location>
-		<Travelled_distance>2.3</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>2.3</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/26/2016 10:15</Pickup_Time>
@@ -3181,8 +3181,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Lahore</Pickup_Location>
 		<Drop_Location>Lahore</Drop_Location>
-		<Travelled_distance>7.7</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>7.7</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/27/2016 7:02</Pickup_Time>
@@ -3190,8 +3190,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Kar?chi</Pickup_Location>
 		<Drop_Location>Kar?chi</Drop_Location>
-		<Travelled_distance>4.9</Travelled_distance>
-		<Travelling_purpose>Temporary Site</Travelling_purpose>
+		<Traveled_distance>4.9</Traveled_distance>
+		<Traveling_purpose>Temporary Site</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/27/2016 14:49</Pickup_Time>
@@ -3199,8 +3199,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Kar?chi</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>3.1</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>3.1</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/28/2016 8:34</Pickup_Time>
@@ -3208,8 +3208,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Kar?chi</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>10.3</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>10.3</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/28/2016 15:04</Pickup_Time>
@@ -3217,8 +3217,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Kar?chi</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>8.5</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>8.5</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/28/2016 22:44</Pickup_Time>
@@ -3226,8 +3226,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Kar?chi</Pickup_Location>
 		<Drop_Location>Kar?chi</Drop_Location>
-		<Travelled_distance>5.1</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>5.1</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/29/2016 11:28</Pickup_Time>
@@ -3235,8 +3235,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Kar?chi</Drop_Location>
-		<Travelled_distance>11.9</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>11.9</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/29/2016 13:56</Pickup_Time>
@@ -3244,8 +3244,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Kar?chi</Pickup_Location>
 		<Drop_Location>Kar?chi</Drop_Location>
-		<Travelled_distance>4.1</Travelled_distance>
-		<Travelling_purpose>Airport/Travel</Travelling_purpose>
+		<Traveled_distance>4.1</Traveled_distance>
+		<Traveling_purpose>Airport/Travel</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/29/2016 18:59</Pickup_Time>
@@ -3253,8 +3253,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Kar?chi</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>3.0</Travelled_distance>
-		<Travelling_purpose>Meal/Entertain</Travelling_purpose>
+		<Traveled_distance>3.0</Traveled_distance>
+		<Traveling_purpose>Meal/Entertain</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/29/2016 20:53</Pickup_Time>
@@ -3262,7 +3262,7 @@
 		<Type>Business</Type>
 		<Pickup_Location>Kar?chi</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>6.4</Travelled_distance>
+		<Traveled_distance>6.4</Traveled_distance>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/30/2016 11:31</Pickup_Time>
@@ -3270,8 +3270,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Kar?chi</Pickup_Location>
 		<Drop_Location>Kar?chi</Drop_Location>
-		<Travelled_distance>2.9</Travelled_distance>
-		<Travelling_purpose>Errand/Supplies</Travelling_purpose>
+		<Traveled_distance>2.9</Traveled_distance>
+		<Traveling_purpose>Errand/Supplies</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/30/2016 23:06</Pickup_Time>
@@ -3279,8 +3279,8 @@
 		<Type>Business</Type>
 		<Pickup_Location>Kar?chi</Pickup_Location>
 		<Drop_Location>Kar?chi</Drop_Location>
-		<Travelled_distance>0.8</Travelled_distance>
-		<Travelling_purpose>Customer Visit</Travelling_purpose>
+		<Traveled_distance>0.8</Traveled_distance>
+		<Traveling_purpose>Customer Visit</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>12/31/2016 15:03</Pickup_Time>
@@ -3288,11 +3288,11 @@
 		<Type>Business</Type>
 		<Pickup_Location>Unknown Location</Pickup_Location>
 		<Drop_Location>Unknown Location</Drop_Location>
-		<Travelled_distance>16.2</Travelled_distance>
-		<Travelling_purpose>Meeting</Travelling_purpose>
+		<Traveled_distance>16.2</Traveled_distance>
+		<Traveling_purpose>Meeting</Traveling_purpose>
 	</Uber_Drive>
 	<Uber_Drive>
 		<Pickup_Time>Totals</Pickup_Time>
-		<Travelled_distance>12204.7</Travelled_distance>
+		<Traveled_distance>12204.7</Traveled_distance>
 	</Uber_Drive>
 </Uber_Drives>
