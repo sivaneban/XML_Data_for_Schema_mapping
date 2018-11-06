@@ -1,0 +1,6 @@
+/Jobs/Job/job_title:/Jobs/Job/jobtitle
+/Jobs/Job/organization:/Jobs/Job/company
+/Jobs/Job/description/job_description:/Jobs/Job/jobDescription
+/Jobs/Job/description/sector:/Jobs/Job/industry
+/Jobs/Job/description/salary:/Jobs/Job/payrate
+/Jobs/Job/location_details/address:/Jobs/Job/jobLocationAddress
