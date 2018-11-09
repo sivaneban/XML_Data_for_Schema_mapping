@@ -1,9 +1,9 @@
-/Plants:/Flowers
+/Iris:/Iris_flowers
 
-/Plants/Plant:/Flowers/Flower
+/Iris/Flower:/Iris_flowers/Iris_flower
 
-/Plants/Plant/Species_name:/Flowers/Flower/Plant_Name
-/Plants/Plant/SepalLength:/Flowers/Flower/Sepel_Dimension/length
-/Plants/Plant/SepalWidth:/Flowers/Flower/Sepel_Dimension/width
-/Plants/Plant/PetalLength:/Flowers/Flower/Petal_Dimension/Length
-/Plants/Plant/PetalWidth:/Flowers/Flower/Petal_Dimension/Width
+/Iris/Flower/Species_name:Iris_flowers/Iris_flower/Plant_Name
+/Iris/Flower/SepalLength:Iris_flowers/Iris_flower/Sepel_Dimension/S_length
+/Iris/Flower/SepalWidth:Iris_flowers/Iris_flower/Sepel_Dimension/S_width
+/Iris/Flower/PetalLength:Iris_flowers/Iris_flower/Petal_Dimension/W_Length
+/Iris/Flower/PetalWidth:Iris_flowers/Iris_flower/Petal_Dimension/W_Width
